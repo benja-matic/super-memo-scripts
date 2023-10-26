@@ -1,12 +1,14 @@
 
-import { answers } from "./answers.js";
-
 import axios from 'axios';
+import { config } from 'dotenv';
 import FormData from 'form-data';
 import fs from 'fs';
 import path from 'path';
+import { answers } from "./answers.js";
+config();
 
-const token = `eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIyNzM1ODU1IiwiZmlyc3ROYW1lIjoiIiwicGVybWlzc2lvbnMiOltdLCJpc3MiOiJTdXBlck1lbW8tcHJvZCIsImF1dGhUeXBlIjoidW5rbm93biIsImV4cCI6MTY5NzgyMTMyMiwiaWF0IjoxNjk3MjE2NTIyLCJlbWFpbCI6InByaW5jZW9mZXhjZXNzQGdtYWlsLmNvbSIsInVzZXJuYW1lIjoicHJpbmNlb2ZleGNlc3NAZ21haWwuY29tIn0.jjzVJGY3V3fX-08GPiYSwKO-F3-dwSezK5Q19oWbE9s`;
+const token = process.env.SUPER_MEMO_TOKEN;
+
 const userId = 2735855;
 const courseId = 112399;
 const fullPath = "/Users/maciek/Downloads/Bollards/New/";

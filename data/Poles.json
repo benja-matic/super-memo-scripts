@@ -1,0 +1,958 @@
+[
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_1.jpg\" alt=\"http://www.geohints.com/Pole_1\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/KTLPa2JFauGFV3nU6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Botswana</a>: Mahalapye, Central District: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_2.jpg\" alt=\"http://www.geohints.com/Pole_2\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/NCVCG5gN21627J556\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Botswana</a>: Gaborone, South-East District: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_65.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_65.jpg\" alt=\"http://www.geohints.com/Pole_65\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/J2KVDUdzBwv3Ypha7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Eswatini</a>: Mankayane, Manzini: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_203.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_203.jpg\" alt=\"http://www.geohints.com/Pole_203\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/R7pP8LseK2jg4rWx6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ghana</a>: Accra, Greater Accra Region: Ayawaso West Municipal, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_202.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_202.jpg\" alt=\"http://www.geohints.com/Pole_202\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/XENrnae3JLKpZ7B97\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Kenya</a>: Mombasa, Mombasa County: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_204.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_204.jpg\" alt=\"http://www.geohints.com/Pole_204\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/pEfYVLSDWdDyyfwh6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Lesotho</a>: Maseru, Maseru: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_55.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_55.jpg\" alt=\"http://www.geohints.com/Pole_55\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/AbP8ASu32MitoDmT7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Madagascar</a>: Toliara, Province de Toliara: Toliary-I, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_108.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_108.jpg\" alt=\"http://www.geohints.com/Pole_108\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/r2ikPmaTJcjtghV3A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Mali</a>: Niono, Ségou Region: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_109.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_109.jpg\" alt=\"http://www.geohints.com/Pole_109\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/FS9A4F3byCZLDM6p7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Mali</a>: Niono, Ségou Region: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_110.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_110.jpg\" alt=\"http://www.geohints.com/Pole_110\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/722JE4qj9gtckuc49\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Mali</a>: Niono, Ségou Region: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_71.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_71.jpg\" alt=\"http://www.geohints.com/Pole_71\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/AQP36ehungtf4J4KA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Nigeria</a>: Kogi: Lokoja, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_161.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_161.jpg\" alt=\"http://www.geohints.com/Pole_161\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/rXPzC7LdS84Yw8BH8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Rwanda</a>: Kigali, Kigali City: Gasabo, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_162.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_162.jpg\" alt=\"http://www.geohints.com/Pole_162\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Ctds2nD39mw5dVm47\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Rwanda</a>: Kigali, Kigali City: Gasabo, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_163.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_163.jpg\" alt=\"http://www.geohints.com/Pole_163\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/g2qbuEZbCEFRggWe6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Rwanda</a>: Kigali, Kigali City: Gasabo, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_157.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_157.jpg\" alt=\"http://www.geohints.com/Pole_157\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/GYDZ2JHGn3ksLCwG6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Senegal</a>: Elinkin, Ziguinchor Region: Oussouye, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_158.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_158.jpg\" alt=\"http://www.geohints.com/Pole_158\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/WpmJ2uR5sFe2hog87\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Senegal</a>: Bougari, Région de Sédhiou: Bounkiling, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_159.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_159.jpg\" alt=\"http://www.geohints.com/Pole_159\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/pUmggpXD9YkX71Vy5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Senegal</a>: Bougari, Région de Sédhiou: Bounkiling, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_198.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_198.jpg\" alt=\"http://www.geohints.com/Pole_198\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/fv52unBEnSnzQBk5A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Senegal</a>: Ndioum, Région de Saint Louis: Podor, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_136.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_136.jpg\" alt=\"http://www.geohints.com/Pole_136\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/tiRFnju86fqfvQpg8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">South Africa</a>: Waterberg Estate, Limpopo: Waterberg District Municipality, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_176.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_176.jpg\" alt=\"http://www.geohints.com/Pole_176\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/CyS3MYNtjKJctfwq8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">South Africa</a>: Stellenbosch, Western Cape: Cape Winelands District Municipality, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_177.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_177.jpg\" alt=\"http://www.geohints.com/Pole_177\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/emfskzsbFgEznTiS9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">South Africa</a>: Western Cape: Cape Winelands District Municipality, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_195.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_195.jpg\" alt=\"http://www.geohints.com/Pole_195\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/aBkZhpJ9DWzNwNgEA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">South Africa</a>: Berea, KwaZulu-Natal: eThekwini Metropolitan Municipality, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_234.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_234.jpg\" alt=\"http://www.geohints.com/Pole_234\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/A6KJA4YADNnQWTA4A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">South Africa</a>: Limpopo: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_235.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_235.jpg\" alt=\"http://www.geohints.com/Pole_235\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/87kiPA8jUu1pN7YLA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">South Africa</a>: Free State: Thabo Mofutsanyana District Municipality, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_185.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_185.jpg\" alt=\"http://www.geohints.com/Pole_185\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/SJcuwQ5wTTpQ2Uep7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Tunisia</a>: Djerba Ajim, Médenine Governorate: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_201.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_201.jpg\" alt=\"http://www.geohints.com/Pole_201\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/d2FwbkioGGR1EP6JA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Uganda</a>: Kampala, Central Region: Wakiso, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_179.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_179.jpg\" alt=\"http://www.geohints.com/Pole_179\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/a4B2SFDsDRnPJqc18\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bangladesh</a>: Solepur, Dhaka Division: Munshiganj District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_180.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_180.jpg\" alt=\"http://www.geohints.com/Pole_180\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/zEiC96Lq1c8X8kkT7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bangladesh</a>: Chittagong, Chittagong Division: Chittagong District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_181.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_181.jpg\" alt=\"http://www.geohints.com/Pole_181\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/hiSi318oZhdoQBTb7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bangladesh</a>: Mongla, Khulna Division: Bagerhat District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_3.jpg\" alt=\"http://www.geohints.com/Pole_3\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/w1AtjEwCfKCTX7Bu8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Cambodia</a>: Phumi Srê Peang, Pursat Province: Veal Veaeng, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_4.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_4.jpg\" alt=\"http://www.geohints.com/Pole_4\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/dMXZGDyhpbuqqK3S8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Cambodia</a>: Kong Pisei, Kampong Speu Province: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_5.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_5.jpg\" alt=\"http://www.geohints.com/Pole_5\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/tjhR1CTQ1Dypy4qr7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Cambodia</a>: Damdek, Siem Reap Province: Sot Nikum, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_146.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_146.jpg\" alt=\"http://www.geohints.com/Pole_146\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/hcSDuHrkWW4Y4mWq6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Christmas Island</a>: Christmas Island, Shire of Christmas Island: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_117.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_117.jpg\" alt=\"http://www.geohints.com/Pole_117\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/2mDqToJJeny32E1n7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">India</a>: Toopra Khurd, Telangana: Rangareddy"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_118.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_118.jpg\" alt=\"http://www.geohints.com/Pole_118\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/6StDwgPBChz4qt1k7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">India</a>: Porandla, Telangana: Rangareddy"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_119.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_119.jpg\" alt=\"http://www.geohints.com/Pole_119\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/qF7CXCeWioFP2V1h6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">India</a>: Peddakanjerla, Telangana: Sangareddy"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_120.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_120.jpg\" alt=\"http://www.geohints.com/Pole_120\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/AwMszY8onQj3tbLY9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">India</a>: Fajalpur, Gujarat: Vadodara"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_73.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_73.jpg\" alt=\"http://www.geohints.com/Pole_73\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/WUeCaPt8U2MceCqD7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Indonesia</a>: South Sulawesi: Bantaeng Regency, Eremerasa"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_132.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_132.jpg\" alt=\"http://www.geohints.com/Pole_132\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/jNL5B13L4tAUkVHq8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Indonesia</a>: East Nusa Tenggara: Lembata Regency, Omesuri"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_190.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_190.jpg\" alt=\"http://www.geohints.com/Pole_190\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Kr9xgkhNNxnGwpd3A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Indonesia</a>: Jawa Timur: Kabupaten Gresik, Kecamatan Sangkapura"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_116.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_116.jpg\" alt=\"http://www.geohints.com/Pole_116\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/cdGNhFMDd6kLfWct7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Israel</a>: : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_197.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_197.jpg\" alt=\"http://www.geohints.com/Pole_197\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/639eBcXgQjAo3ao56\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Israel</a>: Be'er Sheva, South District: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_6.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_6.jpg\" alt=\"http://www.geohints.com/Pole_6\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/qm8czaurqBG743Xo7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Japan</a>: Higashidori, Aomori: Shimokita District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_7.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_7.jpg\" alt=\"http://www.geohints.com/Pole_7\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/nhTsZDnndECKt1XM8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Japan</a>: Izumi, Osaka: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_8.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_8.jpg\" alt=\"http://www.geohints.com/Pole_8\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/PXJr6qEMBRJb7w187\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Japan</a>: Fukuyama, Hiroshima: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_69.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_69.jpg\" alt=\"http://www.geohints.com/Pole_69\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/tAoUjy3yePM5TQvx7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Japan</a>: Sendai, Miyagi: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_76.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_76.jpg\" alt=\"http://www.geohints.com/Pole_76\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/UYaWZBhretL76MXJ8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Japan</a>: Kitakata, Fukushima: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_126.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_126.jpg\" alt=\"http://www.geohints.com/Pole_126\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/YQYLZkv4h5gkPrzp7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Japan</a>: Inazawa, Aichi: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_154.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_154.jpg\" alt=\"http://www.geohints.com/Pole_154\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/X3CxeEA8Q4J4AwU8A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Japan</a>: Yokohama, Kanagawa: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_219.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_219.jpg\" alt=\"http://www.geohints.com/Pole_219\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/wYMyGXRab9woPr4G6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Japan</a>: Ichinomiya, Aichi: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_183.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_183.jpg\" alt=\"http://www.geohints.com/Pole_183\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/2knXtG9b1YdCMgXA7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Kyrgyzstan</a>: Naryn, Naryn Region: Naryn District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_9.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_9.jpg\" alt=\"http://www.geohints.com/Pole_9\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/qYyn6MrjFd66gvxr9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Malaysia</a>: Sungkai, Perak: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_142.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_142.jpg\" alt=\"http://www.geohints.com/Pole_142\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/X4xENxNdBuuyXMkN9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Malaysia</a>: Kota Kinabalu, Sabah: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_143.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_143.jpg\" alt=\"http://www.geohints.com/Pole_143\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/k4Dz4nHJkGrPb6NJ6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Malaysia</a>: Kuching, Sarawak: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_206.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_206.jpg\" alt=\"http://www.geohints.com/Pole_206\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/9nSPzDeSrPxBFaPn8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Philippines</a>: Puerto Princesa, MIMAROPA: Palawan, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_128.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_128.jpg\" alt=\"http://www.geohints.com/Pole_128\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/hR2hNGVwKQdxBZei7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Russia</a>: Minusinsk, Krasnoyarskiy kray: Gorod Minusinsk, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_148.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_148.jpg\" alt=\"http://www.geohints.com/Pole_148\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/o5gRCeNFBXrMYfvQ9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Russia</a>: Novosibirskaya oblast': Moshkovsky District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_196.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_196.jpg\" alt=\"http://www.geohints.com/Pole_196\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/NwDW8U9zxjB56QTk7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Russia</a>: Giaginskaya, Respublika Adygeya: Giaginsky District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_225.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_225.jpg\" alt=\"http://www.geohints.com/Pole_225\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/dHYe71QpqoQDP8NV7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Russia</a>: Kurganskaya oblast': Lebyazhyevsky District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_226.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_226.jpg\" alt=\"http://www.geohints.com/Pole_225\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Nk1yPxgXyNYAXNYcA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Russia</a>: Khorinsk, Respublika Buryatiya: Khorinsky District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_227.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_227.jpg\" alt=\"http://www.geohints.com/Pole_225\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/9JEDi47wiEq81xUA8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Russia</a>: Aninsk, Respublika Buryatiya: Khorinsky District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_11.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_11.jpg\" alt=\"http://www.geohints.com/Pole_11\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/sArQTxLEumcYnzjh9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Singapore</a>: Singapore, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_10.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_10.jpg\" alt=\"http://www.geohints.com/Pole_10\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/zvrWvd8qNknarPE87\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">South Korea</a>: Gwangyang-si, Jeollanam-do: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_134.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_134.jpg\" alt=\"http://www.geohints.com/Pole_134\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/xFYnUqyZZVMWK3CK8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Sri Lanka</a>: Maho, North Western Province: Kurunegala, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_12.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_12.jpg\" alt=\"http://www.geohints.com/Pole_12\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/FiiwMjbsxCQqEUwu8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Taiwan</a>: Hsinchu County: Zhudong Township, 大鄉里"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_13.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_13.jpg\" alt=\"http://www.geohints.com/Pole_13\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/AHoujAHpHMA6xAnt7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Thailand</a>: Na Thap, Songkhla: Chana District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_104.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_104.jpg\" alt=\"http://www.geohints.com/Pole_104\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/etPx25kUhexRodVx5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Thailand</a>: Don Tako, Ratchaburi: Mueang Ratchaburi, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_133.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_133.jpg\" alt=\"http://www.geohints.com/Pole_133\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/8kt3AUoFmLo8zZxL7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Thailand</a>: Tambon Prathai, Chang Wat Nakhon Ratchasima: Amphoe Prathai, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_141.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_141.jpg\" alt=\"http://www.geohints.com/Pole_141\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/bgkwEUEpvkSa9dX66\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Albania</a>: Tirana, Tirana County: Kamëz, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_188.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_188.jpg\" alt=\"http://www.geohints.com/Pole_188\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/m12CtdVeaBWNBMfs7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Albania</a>: Ura Vajgurore, Berat County: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_189.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_189.jpg\" alt=\"http://www.geohints.com/Pole_189\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/L8Q9MwuQeBYt3SVo6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Albania</a>: Ura - Vajgurore, Qarku i Beratit: Ura Vajgurore, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_125.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_125.jpg\" alt=\"http://www.geohints.com/Pole_125\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/hYvEgGK4H7WppxMn6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Belgium</a>: Martelange, Waals Gewest: Luxemburg, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_178.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_178.jpg\" alt=\"http://www.geohints.com/Pole_178\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/n4QEircukQztPUp29\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Belgium</a>: Leuven, Vlaams Gewest: Vlaams-Brabant, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_205.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_205.jpg\" alt=\"http://www.geohints.com/Pole_205\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/EaMCoFk7NZ54k1sE8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Belgium</a>: Yvoir, Région Wallonne: Namur, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_217.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_217.jpg\" alt=\"http://www.geohints.com/Pole_217\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/oV1BfyLv6fQuy5Ls6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Belgium</a>: Tournai, Région Wallonne: Hainaut, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_164.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_164.jpg\" alt=\"http://www.geohints.com/Pole_164\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/AEjy4o96CPeSkvu6A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bulgaria</a>: Borovan, Vratza: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_166.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_166.jpg\" alt=\"http://www.geohints.com/Pole_166\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/3a5epAemFFKNm4g28\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bulgaria</a>: Tsar Samuil, Silistra: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_144.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_144.jpg\" alt=\"http://www.geohints.com/Pole_144\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/8SzQ5YVhRvrWgsZYA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Czech Republic</a>: Nový Rychnov, Kraj Vysočina: Pelhřimov, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_150.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_150.jpg\" alt=\"http://www.geohints.com/Pole_150\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/MoioYwMfTN2sDNmt8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Czech Republic</a>: Nový Rychnov, Kraj Vysočina: Pelhřimov, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_68.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_68.jpg\" alt=\"http://www.geohints.com/Pole_68\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/GfwThKx11bzKCKyF8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Estonia</a>: Sikana, Pärnu maakond: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_77.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_77.jpg\" alt=\"http://www.geohints.com/Pole_77\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Gv8yVkoB3GP4Vg4u8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Estonia</a>: Käbiküla, Rapla maakond: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_78.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_78.jpg\" alt=\"http://www.geohints.com/Pole_78\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/CyzkcSJY96Zc68nu5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Estonia</a>: Rumba, Pärnu maakond: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_79.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_79.jpg\" alt=\"http://www.geohints.com/Pole_79\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/rrBWBz4Q8jcCfEYXA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Estonia</a>: Vatsküla, Saare maakond: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_80.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_80.jpg\" alt=\"http://www.geohints.com/Pole_80\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/MkQfFBrDG7AP5RdW8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Estonia</a>: Vatsküla, Saare maakond: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_81.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_81.jpg\" alt=\"http://www.geohints.com/Pole_81\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/SiyxW1LQQMiEYJGq6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Estonia</a>: Maasi, Saare maakond: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_82.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_82.jpg\" alt=\"http://www.geohints.com/Pole_82\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/u8UpP6yZXE7M61SS7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Estonia</a>: Maasi, Saare maakond: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_83.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_83.jpg\" alt=\"http://www.geohints.com/Pole_83\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/aeUZzcaP7For7kbS7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Estonia</a>: Kullamaa, Lääne maakond: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_84.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_84.jpg\" alt=\"http://www.geohints.com/Pole_84\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/PdHrYJuSfAZSAaxd6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Estonia</a>: Auküla, Lääne-Viru maakond: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_85.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_85.jpg\" alt=\"http://www.geohints.com/Pole_85\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/9oRmS4sya5QrYXSZ7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Estonia</a>: Lääne-Viru maakond: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_87.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_87.jpg\" alt=\"http://www.geohints.com/Pole_87\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/7koVGCL6v78g2oJM6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Estonia</a>: Näduvere, Jõgeva maakond: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_88.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_88.jpg\" alt=\"http://www.geohints.com/Pole_88\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/YFLBi7DLAR8pFEmE6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Estonia</a>: Näduvere, Jõgeva maakond: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_86.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_86.jpg\" alt=\"http://www.geohints.com/Pole_86\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/YYnccGRPsMA7Z5kf8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Estonia</a>: Saatse, Põlva maakond: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_60.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_60.jpg\" alt=\"http://www.geohints.com/Pole_60\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/nkVCPWjkJCBJfHm18\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">France</a>: Cisternes-la-Forêt, Auvergne-Rhône-Alpes: Puy-de-Dôme, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_114.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_114.jpg\" alt=\"http://www.geohints.com/Pole_114\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/GDq958E2nh3pZfcY9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">France</a>: Verrières, Normandie: Orne, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_131.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_131.jpg\" alt=\"http://www.geohints.com/Pole_131\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/yUKm2PX1osbPRNdT9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">France</a>: Orly, Île-de-France: Val-de-Marne, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_145.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_145.jpg\" alt=\"http://www.geohints.com/Pole_145\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/jTziUUtfarS9spuV8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">France</a>: Roches-lès-Blamont, Bourgogne-Franche-Comté: Doubs, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_182.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_182.jpg\" alt=\"http://www.geohints.com/Pole_182\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/zh6n5ypB9xK54j1N7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">France</a>: Lohuec, Bretagne: Côtes-d'Armor, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_209.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_209.jpg\" alt=\"http://www.geohints.com/Pole_209\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/WDDxHU23KzBQR1iZ8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">France</a>: Savigny-le-Vieux, Normandie: Manche, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_239.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_239.jpg\" alt=\"http://www.geohints.com/Pole_239\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/jyE7yo5KqVbjNxjb6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">France</a>: Marmande, Nouvelle-Aquitaine: Lot-et-Garonne, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_172.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_172.jpg\" alt=\"http://www.geohints.com/Pole_172\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/nBMA5empun5MH9z28\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Greece</a>: : Thessaloniki"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_173.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_173.jpg\" alt=\"http://www.geohints.com/Pole_173\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/6pMmdE5WoRFCAeuK8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Greece</a>: : Thessaloniki"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_14.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_14.jpg\" alt=\"http://www.geohints.com/Pole_14\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ddnTdVToApJZdsSE7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Hungary</a>: Bátaszék, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_130.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_130.jpg\" alt=\"http://www.geohints.com/Pole_130\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/nZ4QQYZdYBFSgFUU8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Hungary</a>: Nagyszentjános, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_139.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_139.jpg\" alt=\"http://www.geohints.com/Pole_139\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/n5z8rnDy3HsD9r9z9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Hungary</a>: Jásztelek, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_15.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_15.jpg\" alt=\"http://www.geohints.com/Pole_15\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/QM9vkTDCQpjvqEhv5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ireland</a>: Beabeg, County Meath: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_192.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_192.jpg\" alt=\"http://www.geohints.com/Pole_192\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/DcrSXZgNVir8M7y5A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Italy</a>: Sicilia: Libero consorzio comunale di Siracusa, Sortino"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_193.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_193.jpg\" alt=\"http://www.geohints.com/Pole_193\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/WzqEhajkHMwN61kD8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Italy</a>: Lazio: Provincia di Latina, Pontinia"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_194.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_194.jpg\" alt=\"http://www.geohints.com/Pole_194\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/hYw4db8xNFsz23ia7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Italy</a>: Lombardia: Provincia di Lodi, Mulazzano"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_67.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_67.jpg\" alt=\"http://www.geohints.com/Pole_67\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/H6fbScMrDFhVxXWH6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Latvia</a>: Cēsu novads: Līgatnes pagasts, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_89.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_89.jpg\" alt=\"http://www.geohints.com/Pole_89\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/dwhK8F7hgbQrTyT18\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Latvia</a>: Leveste, Tukums Municipality: Jaunpils parish, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_90.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_90.jpg\" alt=\"http://www.geohints.com/Pole_90\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/8jj9mcdsYfv8XxrZ6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Latvia</a>: Vecpils, Dienvidkurzemes novads: Vecpils parish, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_91.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_91.jpg\" alt=\"http://www.geohints.com/Pole_91\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/7DLK37dFmhvdhCLU7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Latvia</a>: Balvi, Balvu novads: Balvu pilsēta, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_92.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_92.jpg\" alt=\"http://www.geohints.com/Pole_92\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/fzV8Kgb62NDv9rz5A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Latvia</a>: Pabaži, Saulkrasti Municipality: Sējas novads, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_93.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_93.jpg\" alt=\"http://www.geohints.com/Pole_93\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/zqno9PrDDeHMr9cr9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Latvia</a>: Pārolaine, Olaines novads: Olaines pagasts, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_94.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_94.jpg\" alt=\"http://www.geohints.com/Pole_94\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/DvZT5fZhBst3ESsn7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Latvia</a>: Lāčukrogs, Augšdaugavas novads: Kalupes pagasts, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_95.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_95.jpg\" alt=\"http://www.geohints.com/Pole_95\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/vN1rgDxYy1zRVUo37\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Latvia</a>: Runcene, Balvi Municipality: Krišjāņi parish, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_96.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_96.jpg\" alt=\"http://www.geohints.com/Pole_96\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/CTEg72PyqT4HCWrW6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Latvia</a>: Dobeles novads: Bikstu pagasts, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_97.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_97.jpg\" alt=\"http://www.geohints.com/Pole_97\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/STSr9BAGCjqmvSHGA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Latvia</a>: Ozolaine, Bauska Municipality: Vecsaule parish, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_98.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_98.jpg\" alt=\"http://www.geohints.com/Pole_98\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/GUF47Pkrhu55s65n8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Latvia</a>: Leveste, Tukums Municipality: Jaunpils parish, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_66.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_66.jpg\" alt=\"http://www.geohints.com/Pole_66\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/myTBgztnawe62ncG6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Lithuania</a>: Daubara, Kauno apskritis: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_99.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_99.jpg\" alt=\"http://www.geohints.com/Pole_99\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Ddjz9HKWxSmxato16\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Lithuania</a>: Avižieniai, Vilniaus apskritis: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_100.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_100.jpg\" alt=\"http://www.geohints.com/Pole_100\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/iABVrXuuND9GyM5t8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Lithuania</a>: Kauno apskritis: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_101.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_101.jpg\" alt=\"http://www.geohints.com/Pole_101\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/2tfUzUzJjfJANtZy7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Lithuania</a>: Kauno apskritis: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_102.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_102.jpg\" alt=\"http://www.geohints.com/Pole_102\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/uunZzhqR8EdB2UZc9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Lithuania</a>: Pajūralis, Tauragės apskritis: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_103.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_103.jpg\" alt=\"http://www.geohints.com/Pole_103\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/6VzN1NhnBsXVj28QA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Lithuania</a>: Kauno apskritis: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_74.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_74.jpg\" alt=\"http://www.geohints.com/Pole_74\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/nPxdoYi1XMWdQV9YA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Lithuania</a>: Šiaulių apskritis: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_127.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_127.jpg\" alt=\"http://www.geohints.com/Pole_127\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/kUaWwp6Pb37koiSW6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Lithuania</a>: Vilnius, Vilniaus apskritis: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_16.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_16.jpg\" alt=\"http://www.geohints.com/Pole_16\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/dR7RGDm8LDDivyGL9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Luxembourg</a>: Biwer, Gréiwemaacher: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_17.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_17.jpg\" alt=\"http://www.geohints.com/Pole_17\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/hFHbLJo6u2MaEK5e8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Montenegro</a>: Podgorica, Glavni grad Podgorica: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_107.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_107.jpg\" alt=\"http://www.geohints.com/Pole_107\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/PiaZzT8tzocnB3zw7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Netherlands</a>: Bergambacht, Zuid-Holland: Krimpenerwaard, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_236.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_236.jpg\" alt=\"http://www.geohints.com/Pole_236\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/VfsK1Qa3K4nt9fEe9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">North Macedonia</a>: Komuna e Vasilevës: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_237.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_237.jpg\" alt=\"http://www.geohints.com/Pole_237\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/RsTV9qnxDxzmfDQN7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">North Macedonia</a>: Skopje, Greater Skopje: Centar, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_18.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_18.jpg\" alt=\"http://www.geohints.com/Pole_18\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/EXPkiU9DdfrhbQ1a8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Norway</a>: Vestland fylke: Bremanger kommune, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_155.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_155.jpg\" alt=\"http://www.geohints.com/Pole_18\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/iQodnSzS5c5UpbjJ6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Norway</a>: Trøndelag: Malvik, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_19.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_19.jpg\" alt=\"http://www.geohints.com/Pole_19\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/4KiaNtgxb1ySLR3a9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Poland</a>: Bieliny, Mazowieckie: Powiat grójecki, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_20.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_20.jpg\" alt=\"http://www.geohints.com/Pole_20\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/3ahTdyw2XpUPF34L7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Poland</a>: Bieliny, Mazowieckie: Powiat grójecki, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_21.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_21.jpg\" alt=\"http://www.geohints.com/Pole_21\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/58VhDpd8acpErgPh8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Poland</a>: Tarnów Opolski, Opolskie: Powiat opolski, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_121.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_121.jpg\" alt=\"http://www.geohints.com/Pole_121\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/zMAGyWe2ozf12QrC7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Poland</a>: Pomorskie: Powiat chojnicki, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_122.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_122.jpg\" alt=\"http://www.geohints.com/Pole_122\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/jRRSCG9NiKsPNwD6A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Poland</a>: Rytel, Pomorskie: Powiat chojnicki, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_152.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_152.jpg\" alt=\"http://www.geohints.com/Pole_152\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/kKyDf7FucxZ2Rdjt9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Poland</a>: Sieraków Śląski, Województwo Śląskie: Powiat lubliniecki, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_22.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_22.jpg\" alt=\"http://www.geohints.com/Pole_22\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/eigUoGGBL3Q7menA9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Portugal</a>: Trigaches, Beja: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_23.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_23.jpg\" alt=\"http://www.geohints.com/Pole_23\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/jNhaFZ1E4sV2fPTv7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Portugal</a>: Isna, Castelo Branco: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_208.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_208.jpg\" alt=\"http://www.geohints.com/Pole_208\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/htMG4tFg4QQTsZ948\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Portugal</a>: São Martinho das Moitas, Viseu: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_24.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_24.jpg\" alt=\"http://www.geohints.com/Pole_24\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/8fCKNGboj3SYSSmF7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Romania</a>: Peştiş, Județul Bihor: Oraş Aleşd, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_137.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_137.jpg\" alt=\"http://www.geohints.com/Pole_137\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/9uRQkRZwtcgrcYX26\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Romania</a>: Cluj-Napoca, Județul Cluj: Municipiu Cluj-napoca, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_138.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_138.jpg\" alt=\"http://www.geohints.com/Pole_138\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/aw5PovqyuyieTxE9A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Romania</a>: Chesinț, Județul Arad: Comuna Zăbrani, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_230.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_230.jpg\" alt=\"http://www.geohints.com/Pole_230\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/DMtNFnnL5jP7T85K9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Serbia</a>: Leskovac, : Jablanički okrug, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_231.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_231.jpg\" alt=\"http://www.geohints.com/Pole_231\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/BSAQnDkBSC6rAqi96\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Serbia</a>: Leskovac, : Jablanički okrug, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_232.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_232.jpg\" alt=\"http://www.geohints.com/Pole_232\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/5UoPozinnCMab1D27\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Serbia</a>: Beograd, : Grad Beograd, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_233.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_233.jpg\" alt=\"http://www.geohints.com/Pole_233\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/AriBBKLANB2xei9q9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Serbia</a>: Novi Sad, Vojvodina: Južnobački okrug, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_25.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_25.jpg\" alt=\"http://www.geohints.com/Pole_25\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/WYVPfYwccVbUYv616\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Slovakia</a>: Sokolce, Nitriansky kraj: Komárno, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_26.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_26.jpg\" alt=\"http://www.geohints.com/Pole_26\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/7HynrK7yrdsAFmLR6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Slovakia</a>: Točnica, Banskobystrický kraj: Lučenec, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_27.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_27.jpg\" alt=\"http://www.geohints.com/Pole_27\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/X12mcMZPVVyySbnY8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Spain</a>: Almanza, Castilla y León: León, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_238.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_238.jpg\" alt=\"http://www.geohints.com/Pole_238\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/2iJvdHJ22W66qkEN8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Spain</a>: Sa Riera, Catalunya: Girona, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_28.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_28.jpg\" alt=\"http://www.geohints.com/Pole_28\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/fJHoDxBwutBNGzEm9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Sweden</a>: Gundbo, Gävleborgs län: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_29.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_29.jpg\" alt=\"http://www.geohints.com/Pole_29\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/bLiffQAvudGA813DA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Sweden</a>: Östergötlands län: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_135.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_135.jpg\" alt=\"http://www.geohints.com/Pole_135\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/UqYvvVrsHnuhZnVb6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Switzerland</a>: Vuisternens-devant-Romont, Fribourg: La Glâne, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_229.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_229.jpg\" alt=\"http://www.geohints.com/Pole_229\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/mFMCGstQPRA48BgF6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Switzerland</a>: Boningen, Solothurn: Olten, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_115.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_115.jpg\" alt=\"http://www.geohints.com/Pole_115\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/N9S2V5Sf1Hb6mf4i9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Turkey</a>: Bolu: Bolu Merkez, Sultanbey"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_149.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_149.jpg\" alt=\"http://www.geohints.com/Pole_149\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/MvcmhU6y8qPniaDq6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Turkey</a>: Erzurum: Yakutiye, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_207.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_207.jpg\" alt=\"http://www.geohints.com/Pole_207\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/dXy1B2jU31K6oTpo7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Turkey</a>: Ağrı: Patnos, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_216.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_216.jpg\" alt=\"http://www.geohints.com/Pole_216\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/oNcbnmTexK4zDCFk7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Turkey</a>: Tokat: Turhal, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_221.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_221.jpg\" alt=\"http://www.geohints.com/Pole_221\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/4FgjSkLEVhAKRaP39\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Turkey</a>: Konya: Seydişehir, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_222.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_222.jpg\" alt=\"http://www.geohints.com/Pole_222\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/PMyyDuFQ5iXtkWeQ8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Turkey</a>: Konya: Seydişehir, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_223.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_223.jpg\" alt=\"http://www.geohints.com/Pole_223\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/1wAPM4nb1Bic3jdW6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Turkey</a>: Bitlis: Bitlis Merkez, Başhan"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_224.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_224.jpg\" alt=\"http://www.geohints.com/Pole_224\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/zFowsdLee57qUbVe8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Turkey</a>: Çorum: Çorum Merkez, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_187.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_187.jpg\" alt=\"http://www.geohints.com/Pole_187\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/rDg6nmMTwUDEfnzD8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ukraine</a>: Luts'k, Volyns'ka oblast: Luts'ka city council"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_30.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_30.jpg\" alt=\"http://www.geohints.com/Pole_30\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/wg6RPUPcimgUFwJb6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">United Kingdom</a>: England: Oxfordshire, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_31.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_31.jpg\" alt=\"http://www.geohints.com/Pole_31\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/s4UDsKovqWfd3k1W6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a>: Nictau, New Brunswick: Tobique Valley, Lorne Parish"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_41.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_41.jpg\" alt=\"http://www.geohints.com/Pole_41\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/uiEhgrT2Dr9paq4d9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a>: Saint-Jean-sur-Richelieu, Québec: Montérégie, Le Haut-Richelieu"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_42.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_42.jpg\" alt=\"http://www.geohints.com/Pole_42\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/dYFawUBMBFxjtFPJ7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a>: Saint-Jean-sur-Richelieu, Québec: Montérégie, Le Haut-Richelieu"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_43.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_43.jpg\" alt=\"http://www.geohints.com/Pole_43\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/5y3FnuuwhEBhZSKZ6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a>: Ethelbert, Manitoba: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_44.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_44.jpg\" alt=\"http://www.geohints.com/Pole_44\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ctQof82QVzm7g63p8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a>: Belleville, Ontario: Hastings County, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_45.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_45.jpg\" alt=\"http://www.geohints.com/Pole_45\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/54J4RggwTTdDdGmm9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a>: Belleville, Ontario: Hastings County, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_46.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_46.jpg\" alt=\"http://www.geohints.com/Pole_46\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/knXdpSrvNZpseDda9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a>: Leading Tickles, Newfoundland and Labrador: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_47.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_47.jpg\" alt=\"http://www.geohints.com/Pole_47\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/QqBFHirPcN13xuZS6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a>: Biggar, Saskatchewan: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_48.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_48.jpg\" alt=\"http://www.geohints.com/Pole_48\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/J79burt98P9huyHR6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a>: Tadoussac, Quebec: Côte-Nord, La Haute-Côte-Nord Regional County Municipality"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_49.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_49.jpg\" alt=\"http://www.geohints.com/Pole_49\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/6ZyP2mzT2J7U9wtDA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a>: Piapot, Saskatchewan: Piapot No. 110, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_50.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_50.jpg\" alt=\"http://www.geohints.com/Pole_50\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/PNtHotzW7aTL7CKeA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a>: York Harbour, Newfoundland and Labrador: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_51.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_51.jpg\" alt=\"http://www.geohints.com/Pole_51\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/T9r2CCLHkQjnH7ej9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a>: Manning Park, British Columbia: Fraser Valley, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_52.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_52.jpg\" alt=\"http://www.geohints.com/Pole_52\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/WUctU1vWyHvG4rkx5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a>: Agawa Bay, Ontario: Algoma District, Algoma, Unorganized, North Part"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_53.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_53.jpg\" alt=\"http://www.geohints.com/Pole_53\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/1qzMyD5LTZ1TST378\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a>: Clearwater, British Columbia: Thompson-Nicola, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_54.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_54.jpg\" alt=\"http://www.geohints.com/Pole_54\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/vXuhErWRNhgk3moi7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a>: Caledonia, Ontario: Haldimand County, Haldimand"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_59.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_59.jpg\" alt=\"http://www.geohints.com/Pole_59\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/8sPzd9ZyFyGqqnXw7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a>: Dunmore, Alberta: Cypress County, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_32.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_32.jpg\" alt=\"http://www.geohints.com/Pole_32\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/boZbPd4nCTZKmScB6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Curaao</a>: Willemstad, Curaçao: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_33.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_33.jpg\" alt=\"http://www.geohints.com/Pole_33\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/bG43S1xSpnKbr2gX9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Dominican Republic</a>: Santo Domingo Este, Santo Domingo Province: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_34.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_34.jpg\" alt=\"http://www.geohints.com/Pole_34\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/CvysjKHeppAsgF4H9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Dominican Republic</a>: Santiago de los Caballeros, Santiago: Santiago, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_213.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_213.jpg\" alt=\"http://www.geohints.com/Pole_213\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/cnDabfT5QegvmU4H7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Dominican Republic</a>: Santo Domingo Este, Santo Domingo: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_124.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_124.jpg\" alt=\"http://www.geohints.com/Pole_124\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/REoJeKSaDrjTfur98\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Guatemala</a>: San Pablo, San Marcos Department: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_153.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_153.jpg\" alt=\"http://www.geohints.com/Pole_153\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Fo5pzX5v3MrCdvXf7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Guatemala</a>: Escuintla: Escuintla, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_220.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_220.jpg\" alt=\"http://www.geohints.com/Pole_220\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/YQkzwMN7eEuZWSzp8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Guatemala</a>: Quezaltenango, Quetzaltenango: Quetzaltenango, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_35.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_35.jpg\" alt=\"http://www.geohints.com/Pole_35\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/sZHqZjEaPNJPeZRn7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Greenland</a>: Nuuk, Sermersooq: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_36.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_36.jpg\" alt=\"http://www.geohints.com/Pole_36\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/djYqqFPFCEwUqTsj6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Mexico</a>: Santa Ana Tlacotenco, Ciudad de México: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_140.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_140.jpg\" alt=\"http://www.geohints.com/Pole_140\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ZLYfjppKn6qecvPc6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Mexico</a>: Las Abras de Abajo, Nuevo León: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_105.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_105.jpg\" alt=\"http://www.geohints.com/Pole_105\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/3aDRbmup55sNwtrK9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Puerto Rico</a>: Catano, Cataño: Cataño, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_106.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_106.jpg\" alt=\"http://www.geohints.com/Pole_106\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/vAz7PThnMUdAimKB6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Puerto Rico</a>: Guaynabo, Guaynabo: Pueblo Viejo, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_214.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_214.jpg\" alt=\"http://www.geohints.com/Pole_214\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/SLe5LHeBmCZwZfH27\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Puerto Rico</a>: Ponce, Ponce: Primero, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_56.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_56.jpg\" alt=\"http://www.geohints.com/Pole_56\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/xVvkrT4ZoQ3iBiGB8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a>: Mannum, South Australia: Mid Murray Council, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_61.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_61.jpg\" alt=\"http://www.geohints.com/Pole_61\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/NHu5tL79Wq2X2niD8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a>: Tivendale, Northern Territory: Un-Incorporated (Elrundie) Area, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_62.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_62.jpg\" alt=\"http://www.geohints.com/Pole_62\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/dWhYp5Uzqaa6jcoN7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a>: Latrobe, Tasmania: Latrobe Council, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_63.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_63.jpg\" alt=\"http://www.geohints.com/Pole_63\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/qGNpnk96CkqeMiJVA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a>: Beaudesert, Queensland: Scenic Rim Regional, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_112.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_112.jpg\" alt=\"http://www.geohints.com/Pole_112\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/raMkJRtvPr4skeFu6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a>: Abbotsford, New South Wales: City of Canada Bay Council, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_113.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_113.jpg\" alt=\"http://www.geohints.com/Pole_113\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/yNh4AUt9aWU2csgg8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a>: Merewether, New South Wales: Newcastle City Council, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_167.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_167.jpg\" alt=\"http://www.geohints.com/Pole_167\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/8yP95Tbu7ArxC9Rn7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a>: Bass, Victoria: Bass Coast Shire, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_170.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_170.jpg\" alt=\"http://www.geohints.com/Pole_170\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Pv2ULCc2iQ923ts27\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a>: Bullsbrook, Western Australia: City of Swan, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_171.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_171.jpg\" alt=\"http://www.geohints.com/Pole_171\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/X4HbMwYJKDC5MxR27\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a>: Broken Hill, New South Wales: Unincorporated Far West, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_175.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_175.jpg\" alt=\"http://www.geohints.com/Pole_175\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/DZBQykFg9Vygzg8N9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a>: Chidlow, Western Australia: Shire of Mundaring, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_58.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_58.jpg\" alt=\"http://www.geohints.com/Pole_58\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/b6rNFPZuCzaxoBR89\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Guam</a>: Yigo, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_184.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_184.jpg\" alt=\"http://www.geohints.com/Pole_184\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/U4okycZg25mPaDbT9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Guam</a>: Piti, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_37.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_37.jpg\" alt=\"http://www.geohints.com/Pole_37\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/H8k63x8A6z38PRDM7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">New Zealand</a>: Woodville, Manawatu-Wanganui: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_57.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_57.jpg\" alt=\"http://www.geohints.com/Pole_57\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/MchGuoeGdSVv7rbq9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">New Zealand</a>: Matangi, Waikato: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_147.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_147.jpg\" alt=\"http://www.geohints.com/Pole_147\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/3BkpvdYEMVFCBmzH6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">New Zealand</a>: Auckland, Auckland: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_151.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_151.jpg\" alt=\"http://www.geohints.com/Pole_151\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/D5LWZNPyfxhNecER9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">New Zealand</a>: Pakipaki, Hawke's Bay: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_72.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_72.jpg\" alt=\"http://www.geohints.com/Pole_72\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/HGotKTvogNx1LUC48\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Argentina</a>: Provincia de Buenos Aires: General Villegas, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_111.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_111.jpg\" alt=\"http://www.geohints.com/Pole_111\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/8gGxDEKHqXK5M4ZM7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Argentina</a>: Burzaco, Provincia de Buenos Aires: Almirante Brown, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_160.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_160.jpg\" alt=\"http://www.geohints.com/Pole_160\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/yN7hkqSDriAfane8A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Argentina</a>: Mojotoro, Salta: La Caldera, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_210.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_210.jpg\" alt=\"http://www.geohints.com/Pole_210\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/WB5G86HfGDPJ2JB4A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Argentina</a>: Misiones: Guaraní, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_228.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_228.jpg\" alt=\"http://www.geohints.com/Pole_228\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ZFGsTSGVW673iR2g7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Argentina</a>: Mendoza: General Alvear, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_129.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_129.jpg\" alt=\"http://www.geohints.com/Pole_129\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/rEALuHGhMvAc9Lps9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bolivia</a>: San Isidro, Santa Cruz Department: Manuel María Caballero, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_199.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_199.jpg\" alt=\"http://www.geohints.com/Pole_199\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/cuvo6sMtKWnfPgbt7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bolivia</a>: La Paz, Departamento de La Paz: Murillo, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_200.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_200.jpg\" alt=\"http://www.geohints.com/Pole_200\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/w9k2wTQvJ62BJ8iY7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bolivia</a>: Cochabamba, Departamento de Cochabamba: Cercado, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_38.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_38.jpg\" alt=\"http://www.geohints.com/Pole_38\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/C9UrPEKQz1EYDXMV9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Brazil</a>: Pirajá, Bahia: Salvador, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_211.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_211.jpg\" alt=\"http://www.geohints.com/Pole_211\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/pfjYgKonuLfMrWKY9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Brazil</a>: Rondônia: Candeias do Jamari, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_39.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_39.jpg\" alt=\"http://www.geohints.com/Pole_39\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ntn8oZmUkvXLc6TK8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Chile</a>: La Higuera, Coquimbo: Elqui, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_165.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_165.jpg\" alt=\"http://www.geohints.com/Pole_165\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/YQjw2AVfvikX7jyd9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Chile</a>: El Palqui, Coquimbo: Limarí, Monte Patria"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_215.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_215.jpg\" alt=\"http://www.geohints.com/Pole_215\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/HEheTxuota8mEXrR7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Chile</a>: Ovalle, Coquimbo: Limarí, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_64.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_64.jpg\" alt=\"http://www.geohints.com/Pole_64\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/U7R2Adx6pSYWafeF6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Colombia</a>: Cundinamarca: San Antonio Del Tequendama, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_70.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_70.jpg\" alt=\"http://www.geohints.com/Pole_70\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/wrPikgAufNprn8xXA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Colombia</a>: Necoclí, Antioquia: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_75.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_75.jpg\" alt=\"http://www.geohints.com/Pole_75\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/9qcXBz7TCWWvQPyb7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Colombia</a>: Córdoba: Sahagún, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_174.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_174.jpg\" alt=\"http://www.geohints.com/Pole_174\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/V1MByfB4t8sN5YHo7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Colombia</a>: Cabrera, Cundinamarca: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_186.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_186.jpg\" alt=\"http://www.geohints.com/Pole_186\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Q7iDDNEhwn1WbzUh8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Colombia</a>: Boyacá: Aquitania, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_40.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_40.jpg\" alt=\"http://www.geohints.com/Pole_40\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/k7iRcDtaVC5C3cvS7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ecuador</a>: Jipijapa, Manabí: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_212.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_212.jpg\" alt=\"http://www.geohints.com/Pole_212\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Ny9yKv3az9wGceGY8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ecuador</a>: Guayaquil, Guayas: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_218.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_218.jpg\" alt=\"http://www.geohints.com/Pole_218\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Rg1KYEnesg76fZ8L8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ecuador</a>: Cevallos, Tungurahua: Cantón Cevallos, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_123.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_123.jpg\" alt=\"http://www.geohints.com/Pole_123\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Bkqgdm7T6y3Xxsmj9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Peru</a>: Arequipa, Arequipa: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_156.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_156.jpg\" alt=\"http://www.geohints.com/Pole_156\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/pnkrYMf87iMpuG6HA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Peru</a>: Case Cruz del Sur, Loreto: Maynas, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_168.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_168.jpg\" alt=\"http://www.geohints.com/Pole_168\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/n3c6FvmwcVmTsGUu6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Uruguay</a>: Ciudad de la Costa, Departamento de Canelones: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_169.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_169.jpg\" alt=\"http://www.geohints.com/Pole_169\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/6hvQT5oBqFyNAewG6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Uruguay</a>: Montevideo, Departamento de Montevideo: F, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Poles/pole_191.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Poles/pole_191.jpg\" alt=\"http://www.geohints.com/Pole_191\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/k1mpZABmPe58L1Hd9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Uruguay</a>: San José de Mayo, Departamento de San José: "
+  }
+]
