@@ -1,20 +1,27 @@
 import axios from 'axios';
+import { readFile } from 'fs/promises';
 
 import { config } from 'dotenv';
-import { readFile } from 'fs/promises';
-config();
-const URL_ROUTE = "Bollards"; // DONT FORGET TO UPDATE
-const userId = 2735855;
+config({ path: './.env' });
 
-const courseId = 112143; // DONT FORGET TO UPDATE
-const targetParentNumber = 559108968; // DONT FORGET TO UPDATE
+const URL_ROUTE = "ThinkingFastAndSlow.json"; // DONT FORGET TO UPDATE
+const env_prefix = "CAROLYN_";
+const userId = process.env?.[`${env_prefix}USER_ID`];
 
-const token = process.env.SUPER_MEMO_TOKEN;
+const courseId = process.env?.[`${env_prefix}COURSE_ID`]; // DONT FORGET TO UPDATE
+const targetParentNumber = process.env?.[`${env_prefix}TARGET_PARENT_NUMBER`]; // DONT FORGET TO UPDATE
+
+const token = process.env?.[`${env_prefix}SUPER_MEMO_TOKEN`];
 
 async function readSkipCountriesFromFile() {
     try {
-        const data = await readFile(`./data/${URL_ROUTE}.json`, 'utf-8');
-        return JSON.parse(data);
+        if (URL_ROUTE.includes("json")) {
+            const data = await readFile(`./data/${URL_ROUTE}`, 'utf-8');
+            return JSON.parse(data);
+        }
+        const module = await import(`./data/${URL_ROUTE}`);
+        return module.default;
+
     } catch (err) {
         return [];
     }
@@ -27,11 +34,11 @@ const run = async () => {
     const jsdom = await import('jsdom');
     const { JSDOM } = jsdom;
 
-    console.log(...cards.map((data) => {
-        const dom = new JSDOM(data.answer);
-        const document = dom.window.document;
-        return document.querySelector('a').textContent.trim() + "\n";
-    }));
+    // console.log(...cards.map((data) => {
+    //     const dom = new JSDOM(data.answer);
+    //     const document = dom.window.document;
+    //     return document.querySelector('a').textContent.trim() + "\n";
+    // }));
     const newCardUrl = `https://learn.supermemo.com/api/users/${userId}/courses/${courseId}/pages?contentType=json&targetParentNumber=${targetParentNumber}`;
 
     console.log(newCardUrl);
@@ -58,13 +65,19 @@ const postNewCard = async (newCardUrl, question, answer) => {
         answer: JSON.stringify(answerObject)
     };
 
-    const response = await axios.post(newCardUrl, json, {
-        headers: {
-            'Authorization': `Bearer ${token}`,
-            'Content-Type': 'application/json'
-        }
-    });
-    return response;
+    try {
+
+        const response = await axios.post(newCardUrl, json, {
+            headers: {
+                'Authorization': `Bearer ${token}`,
+                'Content-Type': 'application/json'
+            }
+        });
+        return response;
+    } catch (error) {
+        console.log(error);
+    }
+    return "";
 };
 
 run().then(() => {

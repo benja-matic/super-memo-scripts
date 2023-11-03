@@ -1,0 +1,296 @@
+"write a classic for loop using i that iterates over an array called arr",
+    "for(let i = 0; i < arr.length; i++) { }";
+"write a loop using 'for...of' to iterate over an array called 'arr' and access each item with a variable called 'item'",
+    "for(let item of arr) { }";
+"write a loop using 'for...in' to iterate over the properties of an object called 'obj' and access each property name with a variable called 'key'",
+    "for(let key in obj) { }";
+"write a '.forEach' loop to iterate over an array called 'arr' and use an arrow function to access each item as 'element'",
+    "arr.forEach(element => { })";
+"use the '.map' function to transform each item in an array called 'arr' and store the transformed values in a variable called 'resultArr'",
+    "let resultArr = arr.map(item => item)";
+"write a loop using 'for...of' to iterate over the entries of an array called 'arr' and access each key-value pair with the variables '[index, element]'",
+    "for(let [index, element] of arr.entries()) { }";
+"use the '.sort' function to sort the items in an array called 'arr' based on a criteria. Access two items for comparison with the variables 'a' and 'b'",
+    "arr.sort((a, b) => { return a - b })";
+"use the '.reduce' function to process the elements of an array called 'arr' into a single value. Access the accumulator with 'acc' and the current item with 'curr'",
+    "arr.reduce((acc, curr) => { return acc + curr }, 0)";
+"use the '.filter' function to filter items in an array called 'arr' based on a condition. Access each item with the variable 'item'",
+    "arr.filter(item => { return item > 0 })";
+"use the '.find' function to find the first item in an array called 'arr' that meets a condition. Access each item with the variable 'item'",
+    "arr.find(item => { return item > 0 })";
+"Declare a constant variable called 'myConstant' and set its value to 10.",
+    "const myConstant = 10";
+"Declare a variable called 'myName' and set its value to the string 'John'.",
+    "let myName = 'John'";
+"Write a function using function keyword called 'add' that takes two parameters 'a' and 'b' and returns their sum.",
+    "function add(a, b) { return a + b }";
+"Create an arrow function called 'subtract' that takes two parameters 'x' and 'y' and returns their difference.",
+    "const subtract = (x, y) => x - y";
+"Write an if statement that checks if a variable 'number' is greater than 10 and logs 'Greater' to the console.",
+    "if(number > 10) { console.log('Greater') }";
+"Write a ternary expression that checks if a variable 'age' is greater than 18 and returns 'Adult' if true and 'Minor' if false.",
+    "let status = age > 18 ? 'Adult' : 'Minor'";
+"Write a switch statement for a variable 'fruit' that logs 'I like apples' when the fruit is 'apple'.",
+    "switch(fruit) { case 'apple': console.log('I like apples') break }";
+"Create an array called 'colors' with the values 'red', 'green', and 'blue'.",
+    "const colors = ['red', 'green', 'blue']";
+"Access the second element in an array called 'names' and store it in a variable called 'secondName'.",
+    "let secondName = names[1]";
+"Write a loop that logs numbers from 1 to 5 using a 'for' loop.",
+    "for(let i = 1; i <= 5; i++) { console.log(i) }";
+"Write a function expression that multiplies two numbers. Name the function 'multiply' and it should take parameters 'x' and 'y'.",
+    "const multiply = function(x, y) { return x * y }"
+        `
+      <p>Consider the following JavaScript code:</p>
+      <pre>
+      greet()
+  
+      function greet() {
+        console.log("Hello!")
+      }
+      </pre>
+      <p>Even though the function is called before its declaration, the code runs without any errors. This behavior is due to a fundamental concept in JavaScript. What is this concept called?</p>
+  
+      <p><strong>Visualization:</strong></p>
+      <pre>
+      // This is how JavaScript internally rearranges the code:
+      function greet() {
+        console.log("Hello!")
+      }
+  
+      greet()
+      </pre>
+  
+      <p>This concept means that function declarations are lifted to the top of their scope before the code is executed, allowing them to be called before they appear in the code. What is the name of this concept?</p>
+    `;
+"hoisting"
+    `
+      <p>In JavaScript, which one will be hoisted?</p>
+  
+      <ul>
+        <li><code>const myConst = 10</code></li>
+        <li><code>let myLet = 20</code></li>
+        <li><code>myArrowFunc = () => { return 'Hello' }</code></li>
+        <li><code>var myVar = 0</code></li>
+      </ul>
+    `;
+"var myVar = 0"
+    `
+        what does x represent in this loop: for(let x in obj) { } 
+    `;
+"key"
+    `
+        what does x represent in this loop: for(let x of obj) { } 
+    `;
+"value"
+    `
+        what does i represent in this loop: for( let i = 0; i < arr.length; i++) { }
+    `;
+"index"
+    `what does arr[i] represent in body of this loop: for( let i = 0; i < arr.length; i++) { arr[i] }`;
+"value"
+    `
+        what is another name for key in an object
+    `;
+"property name"
+    `what is a name for both key and value in an object
+    `;
+"property"
+    `
+        what is another name for property name
+    `;
+"key"
+    `
+        can add a property {y: "x" } to an existing object 'a' and store it in const b. Use destructuring
+    `
+    `const b = {...a, y: "x" }`
+    `
+        can add a property {y: "x" } to an existing object 'a' and store it in const b. Dont create new object 
+    `
+
+    `a.y = "x"
+const b = a`
+    `
+a.y = "x"
+const b = a
+what is output of a === b
+    `
+
+    `true`
+    `
+      const b = {...a, y: "x" }
+what is output of a === b
+    `
+
+    `false`
+    `
+      a whole object is iterated through coping every value into a new variable like with destructuring (or a loop):
+const b = {...a }
+what is the name for this operation
+    `
+
+    `shallow copy`
+    `
+      assign objects 'a' reference to another const object 'b'. 
+      Object 'a' is just an alias (different name but the same) as object 'b'
+    `
+
+    `const b = a`
+    `
+      use destructuring:
+get properties 'x' and 'y' from object 'a' and assign them to constants with the same name 
+    `
+
+    `const {x, y} = a`
+    `
+      without destructuring:
+      get properties 'x' and 'y' from object 'a' and assign them to variables with the same name 
+    `
+
+    `let x = a.x
+let y = a.y`
+    `
+      without destructuring:
+      get properties 'x' and 'y' from object 'a' and assign them to constants named 'b' and 'c'
+    `
+
+    `const b = a.x
+const c = a.y`
+    `
+      use destructuring:
+      get properties 'x' and 'y' from object 'a' and assign them to variables named 'b' and 'c'
+    `
+
+    `let {x: b, y: c} = a`
+    `
+    let obj = {
+      name: "John",
+    }
+    what is the key   
+    `
+
+    `name`
+    `
+    let obj = {
+      name: "John",
+    }
+    what is the value the only property in obj
+    `
+
+    `John`
+    `
+    let obj = {
+      name: "John",
+    }
+    what is the value the property in obj
+    `
+
+    `name: "John"`
+    `
+    let obj = {
+      name: "John",
+    }
+    what is the name of this object
+    `
+
+    `obj`
+    `
+    let obj = {
+      name: "John",
+    }
+    what is the name of this object
+    `
+
+    `obj`
+    `
+     with destructuring and ES5 function
+     create a function declaration of a component 'Hello' that takes props 'a', 'b'
+    `
+
+    `function Hello({ a, b })`
+    `
+     without destructuring 
+     create a function declaration of a component 'Hello' that takes props 'a', 'b'
+    `
+
+    `function Hello(props)`
+
+    `create a parameterless function with empty body named myFunc using ES5 syntax`
+    ,
+
+    `function myFunc () {}`
+
+        `create a parameterless arrow function with empty body named myFunc using`
+    ,
+
+    `const myFunc = () => {}`
+
+        `Complete this code so it logs value of prop 'a'
+      const MyComponent = ({a}) => {
+        // what code goes here
+        return (<div> Very Bland Component Camille would like to eat it </div>)
+      }`
+    ,
+
+    `console.log(a)`
+
+
+        `Complete this code so it logs value of prop 'a'
+      const MyComponent = (props) => {
+        // what code goes here
+        return (<div> Very Bland Component Camille would like to eat it </div>)
+      }`
+    ,
+
+    `console.log(props.a)`
+
+        `Complete this code so it displays the value of prop 'a' onto the website
+      const MyComponent = (props) => {
+        return (
+          <div> 
+          A more spicy component which Camille is likely to dislike
+          // code to display prop 'a' goes here  
+          </div>)
+      }`
+
+        `{{props.a}}`
+
+        `Complete this code so it displays the value of prop 'a' onto the website
+      const MyComponent = ({a}) => {
+        return (
+          <div> 
+          A more spicy component which Camille is likely to dislike
+          // code to display prop 'a' goes here  
+          </div>)
+      }`
+
+        `{{a}}`
+
+        `Given a component MyComponet pass in a prop called 'a' with value 'pierogi' to it.
+      The component doesnt take any children (it is empty terminate it with /> )`
+
+        `<MyComponent a="pierogi" />`
+
+        `Given a component MyComponet pass in a prop called 'a' with value of a variable called 'b' to it.
+      The component doesnt take any children (it is empty terminate it with /> )`
+
+        `<MyComponent a={{b}} />`
+
+        `Given a component MyComponet pass in a text child that contains text "Excitement!" to it`
+
+        `<MyComponent > Excitement! </MyCompotnet>`
+
+        `Given a component MyComponet pass in a child div tag that contains text "Careful!" to it`
+
+        `<MyComponent > <div> Careful! </div> </MyCompotnet>`
+
+
+        `what is the name of the parent of the div tag in this line of code:
+      <MyComponent > <div> Careful </div> </MyCompotnet>`
+
+        `MyComponent`
+
+        `what is the name of the parent of the div tag in this line of code:
+      <MyComponent > <div> Careful </div> </MyCompotnet>`
+
+        `MyComponent`;

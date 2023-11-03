@@ -1,0 +1,978 @@
+1. **Flashcard Designs for "Thinking, Fast and Slow" - Chapter One: "The Characters of the Story"**
+**Flashcard 1**: **Front**: What operates automatically and quickly, requiring little effort? **Back**: System 1
+
+---
+
+**Flashcard 2**: **Front**: Which system can be trained through repetition for specialized patterns? **Back**: System 1
+
+---
+
+**Flashcard 3**: **Front**: Mnemonic: "Drive with ease, no keys, please!" **Question**: Which system is associated with this rhyme, and what activity can it relate to from the book's examples? **Back**: System 1 - Driving on an empty road
+
+---
+
+**Flashcard 4**: **Front**: Name a task that demands allocated attention and effortful mental activities. **Back**: Focusing on a single voice in a noisy room (System 2)
+
+---
+
+**Flashcard 5**: **Front**: Concept Map with two sections labeled: "Automatic tasks" and "Effortful tasks". Only one example in each section is provided. "Answering '2+2?'" is under "Automatic tasks" and "Searching memory to recognize a sound" is under "Effortful tasks". **Question**: Identify which system corresponds to each section and provide another example for each. **Back**: Automatic tasks - System 1 - Example: Detecting hostility in a voice. Effortful tasks - System 2 - Example: Maintaining a faster walking speed than natural.
+
+---
+
+**Flashcard 6**: **Front**: Which system is inclined to be lazy, especially during challenging tasks? **Back**: System 2
+
+---
+
+**Flashcard 7**: **Front**: Comparison Table with two columns, one labeled "System 1" and the other "System 2". Under "System 1", there's an entry "Generates feelings and impressions". Under "System 2", there's an entry "Allocates attention to demanding tasks". **Question**: For each system, provide another key characteristic or function from the book. **Back**: System 1 - Operates without voluntary control System 2 - Often accepts what System 1 tells it
+
+---
+
+**Flashcard 8**: **Front**: Mnemonic: "When you feel the beat, and your feet move neat!" **Question**: Which system does this rhyme refer to and what specific example can be connected from the book? **Back**: System 2 - Maintaining a faster walking speed than is natural for you
+
+---
+
+**Flashcard 9**: **Front**: Which system often just accepts the other system's suggestions? **Back**: System 2
+
+---
+
+**Flashcard 10**: **Front**: In which system is the act of detecting hostility in a voice a primary example? **Back**: System 1
+
+---
+
+**Flashcard 11**: **Front**: When thinking of a sound and trying to remember where you've heard it, which system are you primarily using? **Back**: System 2
+
+---
+
+**Flashcard 12**: **Front**: Concept Map: Centered is "System 1", connected are three nodes: "Fast", "Automatic", and "Examples". Only "Detecting hostility" is filled under "Examples". **Question**: Fill in two more examples for System 1. **Back**: Answering "2+2?", Driving on an empty road
+
+
+2. ***Flashcard Designs for "Thinking, Fast and Slow" - Chapter One: "The Characters of the Story" on "The Invisible Gorilla Test"**
+
+---
+
+**Flashcard 1**: **Front**: Who were the two researchers responsible for the "Invisible Gorilla" experiment? **Back**: Christopher Chabris and Daniel Simons
+
+---
+
+**Flashcard 2**: **Front**: Mnemonic: "Baskets, passes, and unseen masses!" **Question**: What experiment does this rhyme refer to, and what's its main surprising element? **Back**: The Invisible Gorilla Test - many participants failed to notice a person in a gorilla suit (or a woman with an umbrella) passing through the scene.
+
+---
+
+**Flashcard 3**: **Front**: In the Invisible Gorilla experiment, what were participants primarily asked to do while watching the film? **Back**: Count the number of passes made by two teams passing basketballs.
+
+---
+
+**Flashcard 4**: **Front**: Concept Map: Centered is "Invisible Gorilla Test", connected are two nodes: "Task Given" and "Unexpected Event". Only "Count basketball passes" is filled under "Task Given". **Question**: What was the unexpected event in the video that many participants missed? **Back**: A woman with an umbrella or a person in a gorilla suit walking through the scene.
+
+---
+
+**Flashcard 5**: **Front**: What does the Invisible Gorilla Test reveal about human attention? **Back**: It demonstrates the limitations of our attention. We can be blind to the obvious and even blind to our blindness.
+
+---
+
+**Flashcard 6**: **Front**: During the Invisible Gorilla Test, besides the gorilla, what's another unexpected character that some versions of the experiment included? **Back**: A woman with an umbrella
+
+---
+
+**Flashcard 7**: **Front**: Comparison Table with two columns. One labeled "Expected Event" and the other "Unexpected Event". Under "Expected Event", there's an entry "Two teams passing basketballs". **Question**: What is the main "Unexpected Event" in the experiment that many missed? **Back**: A person in a gorilla suit walking through the scene.
+
+---
+
+**Flashcard 8**: **Front**: Mnemonic: "Counting hoops, missing troops!" **Question**: What significant detail from the Invisible Gorilla Test does this rhyme remind you of? **Back**: While participants were focused on counting basketball passes, they missed seeing the gorilla.
+
+---
+
+**Flashcard 9**: **Front**: What is the deeper implication of the Invisible Gorilla Test in terms of cognitive awareness? **Back**: It suggests that we are often unaware of our cognitive blind spots; we can be blind to the obvious and also blind to our blindness.
+
+---
+
+**Flashcard 10**: **Front**: Active Recall: Think of an experiment where participants were so engrossed in a counting task that they missed an obvious anomaly in a video. **Back**: The Invisible Gorilla Test by Chabris and Simons.
+
+3. **Flashcard Designs for "Thinking, Fast and Slow" - Chapter One: "The Characters of the Story" on "Cognitive Ease vs. Cognitive Strain"**
+
+---
+
+**Flashcard 1**: **Front**: In which cognitive state are you more likely to trust your intuitions? **Back**: Cognitive Ease
+
+---
+
+**Flashcard 2**: **Front**: Mnemonic: "Strain your brain, creativity wanes!" **Question**: Which cognitive state does this rhyme refer to, and what's one of its effects on your thinking? **Back**: Cognitive Strain - You become less intuitive and less creative.
+
+---
+
+**Flashcard 3**: **Front**: Active Recall: Describe a state where you feel comfortable and in a good mood, but may be less vigilant. **Back**: Cognitive Ease
+
+---
+
+**Flashcard 4**: **Front**: Concept Map: Centered is "Cognitive States", connected are two nodes: "Feels Good & Trusts Intuition" and "Less Comfort & Fewer Errors". **Question**: Name the cognitive states represented by these nodes. **Back**: "Feels Good & Trusts Intuition" - Cognitive Ease; "Less Comfort & Fewer Errors" - Cognitive Strain.
+
+---
+
+**Flashcard 5**: **Front**: Which cognitive state makes you more error-prone due to its comfortability and trust in intuition? **Back**: Cognitive Ease
+
+---
+
+**Flashcard 6**: **Front**: When involved in tasks demanding System 2, performing an additional task will likely disrupt the original. Give an example of two tasks you can't do simultaneously. **Back**: Calculating multiplication problems and making deliberate choices.
+
+---
+
+**Flashcard 7**: **Front**: Comparison Table with two columns, one labeled "Cognitive Ease" and the other "Cognitive Strain". Under "Cognitive Ease", there's an entry "Good mood & trusts intuition". **Question**: Provide an equivalent feature for "Cognitive Strain". **Back**: Less comfortable & Makes fewer errors.
+
+---
+
+**Flashcard 8**: **Front**: Mnemonic: "At ease, I please, with less guard on these!" **Question**: What cognitive state does this rhyme refer to and what potential downside does it hint at? **Back**: Cognitive Ease - Being less vigilant or guarded.
+
+---
+
+**Flashcard 9**: **Front**: Which cognitive state is linked with feeling less comfortable, but making fewer mistakes? **Back**: Cognitive Strain
+
+---
+
+**Flashcard 10**: **Front**: Active Recall: If you're in a state where you're less intuitive and your creativity dips, which cognitive mode are you likely in? **Back**: Cognitive Strain
+
+---
+
+**Flashcard 11**: **Front**: Anything that occupies System 2 can disrupt performance on another task that also demands System 2. True or False? **Back**: True
+
+---
+
+**Flashcard 12**: **Front**: Concept Map: Centered is "Cognitive Strain", connected is a node labeled "Effects". Only "Fewer Errors" is filled under "Effects". **Question**: List another effect of being in a state of Cognitive Strain. **Back**: Less intuitive and less creative.
+
+---
+
+4. **Flashcard Designs for "Thinking, Fast and Slow" - Chapter One: "The Characters of the Story" on "The Associative Machine"**
+
+---
+
+**Flashcard 1**: **Front**: Which system is referred to as the "associative machine"? **Back**: System 1
+
+---
+
+**Flashcard 2**: **Front**: Mnemonic: "System 1's associating spree, suggests intuitions to System 2 you see!" **Question**: What is this rhyme explaining about the relationship between System 1 and System 2? **Back**: System 1 constantly generates suggestions like impressions and intuitions for System 2.
+
+---
+
+**Flashcard 3**: **Front**: Active Recall: If System 2 endorses the impulses from System 1, what do these impulses transform into? **Back**: Voluntary actions.
+
+---
+
+**Flashcard 4**: **Front**: Concept Map: Centered is "Associative Machine", with two connected nodes: "Generates" and "Endorsed By". Under "Generates" there's "Impressions" and "Intuitions". Under "Endorsed By", it's left blank. **Question**: What system endorses the suggestions from the Associative Machine, and when it does, what do "Impressions" and "Intuitions" become? **Back**: System 2; "Impressions" become beliefs and "Intuitions" also turn into beliefs.
+
+---
+
+**Flashcard 5**: **Front**: When System 1 thinks of "bananas", it may evoke various memories, emotions, and thoughts. What principle does this exemplify? **Back**: The associative nature of System 1.
+
+---
+
+**Flashcard 6**: **Front**: Active Recall: What does System 1 continuously provide to System 2? **Back**: Impressions, intuitions, intentions, and feelings.
+
+---
+
+**Flashcard 7**: **Front**: Comparison Table with two columns: "System 1 (Associative Machine)" and "System 2". Under "System 1", there's an entry "Generates Impressions". **Question**: If System 2 endorses these "Impressions", what do they become? **Back**: Beliefs.
+
+---
+
+**Flashcard 8**: **Front**: Mnemonic: "An associated word, like 'apple' or 'bird', brings memories stirred, in System 1, have you heard?" **Question**: What cognitive mechanism is this rhyme describing? **Back**: The associative nature of System 1.
+
+---
+
+**Flashcard 9**: **Front**: In the context of the Associative Machine, if an impression is not endorsed by System 2, it remains just an impression. True or False? **Back**: True.
+
+---
+
+**Flashcard 10**: **Front**: Active Recall: Give an example of how System 1 operates as an associative machine using a random word. **Back**: A word like "bananas" might evoke memories, emotions, and associated thoughts in System 1.
+
+---
+
+**Flashcard 11**: **Front**: Concept Map: Centered is "Endorsed By System 2". Connected are two nodes: "Impressions" and "Impulses". Only "Impressions" is filled as "Becomes Beliefs". **Question**: When endorsed by System 2, what do "Impulses" transform into? **Back**: Voluntary actions.
+
+---
+
+5. **Flashcard 1**: **Front**: Mnemonic: "Anomalies not so nice, System 1 rings the System 2 bell, twice!" **Question**: What happens when System 1 encounters an anomaly? **Back**: It alerts System 2.
+
+---
+
+**Flashcard 2**: **Front**: Active Recall: If System 1 detects an unusual sound, which system is prompted to allocate attention to this irregularity? **Back**: System 2.
+
+---
+
+**Flashcard 3**: **Front**: What role does an unexpected or rare event play in the interaction between System 1 and System 2? **Back**: An unexpected or rare event prompts System 2 to allocate attention to the anomaly detected by System 1.
+
+---
+
+**Flashcard 4**: **Front**: Active Recall: When System 1 cannot quickly resolve an issue, which system does it signal for help? **Back**: System 2.
+
+---
+
+**Flashcard 5**: **Front**: Comparison Table: Two columns titled "System 1" and "System 2". Under "System 1", there's the entry "Detects Anomalies". **Question**: When "Detects Anomalies" is triggered in System 1, what is the immediate response of System 2? **Back**: Allocates attention to the anomaly.
+
+---
+
+**Flashcard 6**: **Front**: Active Recall: Which system is inherently more alert and vigilant when it comes to surprises or unexpected events? **Back**: System 2.
+
+---
+
+**Flashcard 7**: **Front**: Which system gets alarmed when there's a deviation from the norm or an expected pattern? **Back**: System 2.
+
+---
+
+**Flashcard 8**: **Front**: Active Recall: If a tree suddenly falls in your path while driving, which system would be primarily responsible for detecting this as an unexpected event? **Back**: System 1.
+
+---
+
+**Flashcard 9**: **Front**: Mnemonic: "Rare sights and sudden sounds, System 2's attention is where they're found!" **Question**: Which system allocates attention to unexpected events? **Back**: System 2.
+
+---
+
+5. **Flashcard Designs for "Thinking, Fast and Slow" - Chapter One: "The Characters of the Story" on "Surprises"**
+
+---
+
+**Flashcard 1**: **Front**: Mnemonic: "Anomalies not so nice, System 1 rings the System 2 bell, twice!" **Question**: What happens when System 1 encounters an anomaly? **Back**: It alerts System 2.
+
+---
+
+**Flashcard 2**: **Front**: Active Recall: If System 1 detects an unusual sound, which system is prompted to allocate attention to this irregularity? **Back**: System 2.
+
+---
+
+**Flashcard 3**: **Front**: What role does an unexpected or rare event play in the interaction between System 1 and System 2? **Back**: An unexpected or rare event prompts System 2 to allocate attention to the anomaly detected by System 1.
+
+---
+
+**Flashcard 4**: **Front**: Active Recall: When System 1 cannot quickly resolve an issue, which system does it signal for help? **Back**: System 2.
+
+---
+
+**Flashcard 5**: **Front**: Comparison Table: Two columns titled "System 1" and "System 2". Under "System 1", there's the entry "Detects Anomalies". **Question**: When "Detects Anomalies" is triggered in System 1, what is the immediate response of System 2? **Back**: Allocates attention to the anomaly.
+
+---
+
+**Flashcard 6**: **Front**: Active Recall: Which system is inherently more alert and vigilant when it comes to surprises or unexpected events? **Back**: System 2.
+
+---
+
+**Flashcard 7**: **Front**: Which system gets alarmed when there's a deviation from the norm or an expected pattern? **Back**: System 1.
+
+---
+
+**Flashcard 8**: **Front**: Active Recall: If a tree suddenly falls in your path while driving, which system would be primarily responsible for detecting this as an unexpected event? **Back**: System 1.
+
+---
+
+**Flashcard 9**: **Front**: Mnemonic: "Rare sights and sudden sounds, System 2's attention is where they're found!" **Question**: Which system allocates attention to unexpected events? **Back**: System 2.
+
+---
+
+**Flashcard 10**: **Front**: Comparison Card: "Everyday Event vs. Surprising Sound". **Question**: In the context of the two systems, how are these treated differently? **Back**: Everyday events are processed by System 1 without alerting System 2, while surprising sounds alert System 2 to allocate attention.
+
+---
+
+6. **Flashcard Designs for "Thinking, Fast and Slow" - Chapter One: "The Characters of the Story" on "System 1's Biases"**
+
+---
+
+**Flashcard 1**: **Front**: Mnemonic: "System 1 may be speedy, but sometimes it's quite greedy!" **Question**: How does this mnemonic relate to System 1's operation? **Back**: It emphasizes that System 1, while fast, often jumps to conclusions leading to biases.
+
+---
+
+**Flashcard 2**: **Front**: Active Recall: While System 1 is often correct, what is its notable weakness? **Back**: It is prone to biases.
+
+---
+
+**Flashcard 3**: **Front**: What do the biases of System 1 lead to? **Back**: Systematic patterns of deviation from norm or rationality in judgment, resulting in perceptual and judgment errors.
+
+---
+
+**Flashcard 4**: **Front**: Active Recall: Name a consequence of System 1 operating on biases. **Back**: Judgment errors.
+
+---
+
+**Flashcard 5**: **Front**: Comparison Table: Two columns titled "System 1" and "System 2". Under "System 1", there's the entry "Fast but Biased". **Question**: When System 1 operates on biases, what does it often result in? **Back**: Systematic patterns of deviation from norm or rationality.
+
+---
+
+**Flashcard 6**: **Front**: Active Recall: What kind of patterns do System 1's biases show? **Back**: Systematic patterns of deviation from norm or rationality in judgment.
+
+---
+
+**Flashcard 7**: **Front**: Even if System 1 operates quickly, why is it not always reliable? **Back**: Because it's biased and can lead to perceptual and judgment errors.
+
+---
+
+**Flashcard 8**: **Front**: Mnemonic: "Quick to pick, but may miss the trick!" **Question**: Which system does this mnemonic relate to and what aspect of it does it highlight? **Back**: Relates to System 1, highlighting its biases despite its speed.
+
+---
+
+**Flashcard 9**: **Front**: Active Recall: If System 1 is making judgments without considering all information or is relying on shortcuts, what is it demonstrating? **Back**: Its biases.
+
+---
+
+**Flashcard 10**: **Front**: Comparison Card: "Accuracy vs. Speed in System 1". **Question**: In the context of biases, how does System 1 often compromise one for the other? **Back**: System 1 prioritizes speed, which can sometimes lead to compromised accuracy due to biases.
+
+7. **Flashcard Designs for "Thinking, Fast and Slow" - Chapter One: "The Characters of the Story" on "The Law of Least Effort" and "Function of System 2"**
+
+---
+
+**Flashcard 1**:  
+**Front**: Mnemonic: "Lazy System 2, taking the path that's easy for you!"  
+**Question**: What concept does this mnemonic refer to?  
+**Back**: The Law of Least Effort, emphasizing that System 2 will generally opt for the path of least resistance.
+
+---
+
+**Flashcard 2**:  
+**Front**: Active Recall: Which system in our cognition tends to take the path of least resistance and effort?  
+**Back**: System 2.
+
+---
+
+**Flashcard 3**:  
+**Front**: When faced with the option of exerting effort or taking an easier route, which cognitive system usually chooses the latter?  
+**Back**: System 1.
+
+---
+
+**Flashcard 4**:  
+**Front**: Comparison Card: "Effortful vs. Effort-Averse".  
+**Question**: Which system typically avoids effort when possible?  
+**Back**: System 2.
+
+---
+
+**Flashcard 5**:  
+**Front**: Mnemonic: "To deny and comply, System 2's the guy!"  
+**Question**: How does this mnemonic relate to the primary function of System 2?  
+**Back**: It emphasizes that System 2 is in charge of self-control and inhibiting intuitive reactions that contradict known truths.
+
+---
+
+**Flashcard 6**:  
+**Front**: Active Recall: Which system oversees our ability to override an intuitive reaction that might be wrong?  
+**Back**: System 2.
+
+---
+
+**Flashcard 7**:  
+**Front**: What primary role does System 2 play when faced with a response that feels right but is logically incorrect?  
+**Back**: It exercises self-control to inhibit the intuitive but incorrect response.
+
+---
+
+**Flashcard 8**:  
+**Front**: Comparison Card: "Impulse vs. Inhibition".  
+**Question**: When intuition suggests one thing but knowledge contradicts it, which system steps in to rectify the decision?  
+**Back**: System 2.
+
+---
+
+**Flashcard 9**:  
+**Front**: Active Recall: If you have to suppress an intuitive action or thought because it goes against what you logically know, which system is at work?  
+**Back**: System 2.
+
+---
+
+**Flashcard 10**:  
+**Front**: System 2 is often associated with which cognitive trait regarding actions or beliefs that conflict with known truths?  
+**Back**: Self-control.
+
+8. **Flashcard 1**:  
+**Front**: Mnemonic: "Ambiguity arises, System 1 story-izes!"  
+**Question**: What is the core process this mnemonic is hinting at?  
+**Back**: When System 1 faces ambiguity, it forms a coherent story incorporating available facts, leading to our beliefs.
+
+---
+
+**Flashcard 2**:  
+**Front**: Active Recall: When faced with uncertain or unclear information, how does System 1 help us form an understanding?  
+**Back**: It creates a consistent story that integrates as many of the known facts as possible, shaping our belief.
+
+---
+
+**Flashcard 3**:  
+**Front**: System 1's method of dealing with ambiguity is to _______.  
+**Back**: Construct the most plausible story that aligns with the available facts, resulting in our belief.
+
+---
+
+**Flashcard 4**:  
+**Front**: Comparison Card: "Data vs. Story".  
+**Question**: In the context of handling ambiguity, how does System 1 transition from scattered data to a belief?  
+**Back**: By piecing together a consistent narrative or story from the data.
+
+---
+
+**Flashcard 5**:  
+**Front**: Mnemonic: "From a foggy haze, to a story we praise!"  
+**Question**: What cognitive action does this mnemonic represent in the context of System 1's functionality?  
+**Back**: System 1's ability to transform ambiguous information into a coherent story that forms our belief.
+
+---
+
+**Flashcard 6**:  
+**Front**: Active Recall: If System 1 was a novelist, what would its specialty be when dealing with fragmented or unclear details?  
+**Back**: Crafting a comprehensive and consistent narrative (belief) by weaving together all available details.
+
+---
+
+**Flashcard 7**:  
+**Front**: What results from System 1's attempt to make sense of ambiguous situations by linking available facts?  
+**Back**: Our belief system.
+
+---
+
+**Flashcard 8**:  
+**Front**: Comparison Card: "Fact Fragment vs. Full Narrative".  
+**Question**: When dealing with pieces of uncertain information, how does System 1 create a belief?  
+**Back**: By stitching together the fragments into a full, consistent narrative.
+
+---
+
+Chapter 2:
+
+**Flashcard Designs for "Thinking, Fast and Slow" - Chapter Two: "Attention and Effort" on "Pupils and Effort"**
+
+---
+
+**Flashcard 1**:  
+**Front**: Mnemonic: "Eyes expand with mental demand!"  
+**Question**: How do pupils relate to cognitive strain based on Kahneman's observation?  
+**Back**: The pupils dilate as a direct response to the mental effort being expended on a task.
+
+---
+
+**Flashcard 2**:  
+**Front**: Active Recall: What physical observation did Kahneman make about participants when they were presented with challenging math problems?  
+**Back**: He noticed that their pupils enlarged in direct proportion to the difficulty of the multiplication task.
+
+---
+
+**Flashcard 3**:  
+**Front**: During Kahneman's army days, what key relationship did he discover about pupils and cognitive tasks?  
+**Back**: Pupil size acts as an indicator or marker for the amount of mental effort being applied.
+
+---
+
+**Flashcard 4**:  
+**Front**: Comparison Card: "Easy Task vs. Hard Task".  
+**Question**: How did participants' eyes respond differently between these two types of tasks, based on Kahneman's observation?  
+**Back**: For easy tasks, pupils showed minimal dilation, but for harder tasks, a significant dilation was observed.
+
+---
+
+**Flashcard 5**:  
+**Front**: Mnemonic: "Math gets tough, pupils show it's rough!"  
+**Question**: In the context of multiplying numbers, how do pupils react?  
+**Back**: The pupils enlarge more as the mathematical challenge increases, reflecting the added mental effort.
+
+---
+
+**Flashcard 6**:  
+**Front**: Active Recall: If you were to observe someone's eyes while they tackled a progressively harder set of problems, what specific change should you expect to witness?  
+**Back**: A noticeable dilation or enlargement of their pupils in line with the increasing difficulty of the problems.
+
+---
+
+**Flashcard 7**:  
+**Front**: During his research, what physical aspect did Kahneman use as a barometer for mental exertion?  
+**Back**: The dilation of pupils.
+
+---
+
+**Flashcard 8**:  
+**Front**: Comparison Card: "Resting vs. Solving".  
+**Question**: Based on Kahneman's observations, how would the pupils of a person differ in these two states?  
+**Back**: In a resting state, the pupils would be relatively smaller, but while solving challenging problems, the pupils would exhibit noticeable dilation.
+
+---
+
+2. flashcards designed based on Chapter 2: "Attention and Effort" from "Thinking, Fast and Slow," focusing on intricate details and specific stories:
+
+---
+
+**Flashcard 1**:
+
+**Front**: In the context of physical effort vs. mental effort, how do economists traditionally view them?
+
+**Back**: Economists traditionally recognize _physical effort_ as a limited resource but are less inclined to accept _mental effort_ as a similarly limited resource.
+
+**Mnemonic**: Imagine a tired economist using a calculator. The calculator represents mental effort – while he acknowledges the physical fatigue of pressing buttons, he overlooks the mental energy it takes to do calculations.
+
+---
+
+**Flashcard 2**:
+
+**Front**: What experiment did Kahneman refer to in order to demonstrate the correlation between cognitive load and pupil dilation?
+
+**Back**: Participants were asked to multiply numbers. As the difficulty of the multiplication increased, their pupils dilated in correlation.
+
+**Mnemonic**: Think of a pupil as a multiplication "x" sign. As the calculations become more complex, the "x" grows bigger (dilates).
+
+---
+
+**Flashcard 3**:
+
+**Front**: What mechanism controls the effort that is allocated to various tasks?
+
+**Back**: The 'gating mechanism.'
+
+**Mnemonic**: Imagine a gatekeeper deciding who to let through a gate based on their energy or effort levels.
+
+---
+
+**Flashcard 4**:
+
+**Front**: After exerting cognitive effort on one task, what might an individual be more susceptible to in an unrelated domain?
+
+**Back**: Making poor choices due to "ego depletion."
+
+**Mnemonic**: Imagine a deflated balloon labeled "ego" after a hard mental task, making it susceptible to being easily popped (or making a bad choice).
+
+---
+
+**Flashcard 5**:
+
+**Front**: Describe the "Polar Bear Experiment" briefly.
+
+**Back**: Participants were told not to think about a white bear, but they found it hard to suppress that thought, demonstrating the difficulty in controlling thoughts.
+
+**Mnemonic**: Picture a white polar bear trying to hide but always peeking out, representing the persistent thought.
+
+---
+
+**Flashcard 6**:
+
+**Front**: In the context of walking while conversing, what happens when faced with a tough question?
+
+**Back**: People often stop walking because the tough question requires attention and interferes with the act of walking.
+
+**Mnemonic**: Imagine a person walking and then suddenly being handed a large, heavy question mark, causing them to stop.
+
+---
+
+**Flashcard 7** (Comparison Card):
+
+**Front**: Compare the roles of System 1 and System 2 in terms of allocating effort.
+
+**Back**:
+
+- **System 1**: Automatic, typically effortless, associative
+- **System 2**: Allocates attention to effortful mental activities, can be lazy and prefers to avoid hard work if possible.
+
+**Mnemonic**: System 1 is like a reflexive quick-draw gunslinger. System 2 is like a thoughtful chess player, deliberate but sometimes avoiding the harder moves.
+
+3. flashcards designed based on Chapter 2: "Attention and Effort" from "Thinking, Fast and Slow," focusing specifically on the concepts surrounding the 'gating mechanism' and 'task-switching':
+
+---
+
+**Flashcard 1**:
+
+**Front**: What is the 'gating mechanism' in the context of cognitive effort?
+
+**Back**: It is the mechanism that controls the effort allocated to different tasks, ensuring that cognitive resources are distributed appropriately.
+
+**Mnemonic**: Envision a gate that opens or closes to control the flow of water (effort) to various paths (tasks).
+
+---
+
+**Flashcard 2**:
+
+**Front**: How does task-switching relate to cognitive effort?
+
+**Back**: Task-switching demands effort, especially when moving between two tasks that both require System 2 thinking.
+
+**Mnemonic**: Picture a person juggling two heavy books labeled "System 2 Task A" and "System 2 Task B" – it's challenging to keep both in the air.
+
+---
+
+**Flashcard 3**:
+
+**Front**: Provide an example from the book that illustrates the challenge of managing two demanding System 2 tasks simultaneously.
+
+**Back**: Trying to drive in dense fog (which requires focused attention) while simultaneously attempting to solve a multiplication problem. Both are so demanding that they become mutually exclusive.
+
+**Mnemonic**: Picture a foggy road with math symbols floating in the fog, making it hard to see and navigate.
+
+---
+
+**Flashcard 4**:
+
+**Front**: If both tasks require System 2 thinking, what happens to our ability to manage them concurrently?
+
+**Back**: It becomes difficult, if not impossible, to manage them effectively at the same time because of the demanding nature of System 2 processes.
+
+**Mnemonic**: Imagine two energy-draining monsters labeled "Task A" and "Task B" trying to pull from the same limited energy source.
+
+---
+
+**Flashcard 5** (Comparison Card):
+
+**Front**: Compare System 1 and System 2 in terms of task management.
+
+**Back**:
+
+- **System 1**: Automatic, can handle routine tasks without much effort.
+- **System 2**: Deliberative, when tasked with multiple demanding activities, struggles to manage them concurrently.
+
+**Mnemonic**: System 1 is like a skilled autopilot on a calm day, while System 2 is like a pilot navigating a storm – needing focus and effort.
+
+4. "Law of Least Effort" from Chapter 2 of "Thinking, Fast and Slow," I'll design detailed flashcards for high IQ students:
+
+---
+
+**Flashcard 1**:
+
+**Front**: What is the primary guiding principle of System 2's operations when not deliberately engaged?
+
+**Back**: The "Law of Least Effort" – System 2 prefers to expend as little energy as possible and adopts a passive mode.
+
+**Mnemonic**: Imagine System 2 as a person lying on a hammock, only getting up when something surprising happens or when a decision is needed.
+
+---
+
+**Flashcard 2**:
+
+**Front**: Which system is more likely to default to a passive mode and follow the path of least resistance?
+
+**Back**: System 2.
+
+**Mnemonic**: Picture System 2 as water flowing down a hill – it naturally follows the easiest path unless something actively diverts it.
+
+---
+
+**Flashcard 3**:
+
+**Front**: What are the two primary stimuli that can actively engage System 2, drawing it out of its passive state?
+
+**Back**: Surprising events and specific decisions or computations that require attention.
+
+**Mnemonic**: Visualize a dormant volcano (System 2) that erupts (activates) when an unexpected event (a lightning strike) occurs or when specific tasks (a ritual dance) are performed.
+
+---
+
+**Flashcard 4**:
+
+**Front**: Why is it significant to understand the "Law of Least Effort" when considering human decision-making?
+
+**Back**: It helps explain why people often default to easier or more automatic choices and require motivation to engage in more effortful, deliberate thinking.
+
+**Mnemonic**: Picture a person at a crossroads: one path is straight and flat (easy), while the other is uphill (effortful). They'll naturally lean towards the easy path unless there's a compelling reason to take the harder one.
+
+---
+
+**Flashcard 5** (Comparison Card):
+
+**Front**: Compare the operational modes of System 1 and System 2 in terms of effort.
+
+**Back**:
+
+- **System 1**: Automatic, always active, and requires little to no effort.
+- **System 2**: Effortful, defaults to a passive mode due to the "Law of Least Effort" unless actively engaged.
+
+**Mnemonic**: System 1 is like a car's autopilot, always on. System 2 is like manual driving but prefers cruise control unless conditions demand active steering.
+
+5. flashcards based on the theme of "Self-Control and Cognitive Effort" from Chapter 2 of "Thinking, Fast and Slow":
+
+---
+
+**Flashcard 1**:
+
+**Front**: How does exerting self-control relate to cognitive effort according to Kahneman?
+
+**Back**: Exerting self-control, such as suppressing emotions or resisting temptations, demands significant cognitive effort.
+
+**Mnemonic**: Visualize a brain lifting weights when trying to resist a piece of cake.
+
+---
+
+**Flashcard 2**:
+
+**Front**: If someone has recently expended significant cognitive effort on one task, how might it affect their decision-making in a separate, unrelated domain?
+
+**Back**: They might be more susceptible to making suboptimal or poor choices, as their cognitive resources have been drained.
+
+**Mnemonic**: Picture a battery being drained after one activity and having little energy left for the next.
+
+---
+
+**Flashcard 3**:
+
+**Front**: What term describes the phenomenon where one's self-control and decision-making ability are weakened after engaging in a mentally demanding task?
+
+**Back**: "Ego depletion."
+
+**Mnemonic**: Imagine an ego balloon deflating after each mentally challenging task.
+
+---
+
+**Flashcard 4**:
+
+**Front**: Why is understanding "ego depletion" crucial for assessing human behavior and choices?
+
+**Back**: It provides insight into why individuals might act impulsively or make less rational decisions after periods of intensive mental exertion.
+
+**Mnemonic**: Visualize a person choosing to eat junk food right after taking a long, mentally draining exam.
+
+---
+
+**Flashcard 5** (Comparison Card):
+
+**Front**: Differentiate between the mental states of someone experiencing "ego depletion" versus someone fully rested.
+
+**Back**:
+
+- **Ego-depleted**: Lower self-control, increased impulsivity, reduced decision-making capability.
+- **Fully Rested**: Higher self-control, less impulsivity, optimized decision-making capability.
+
+**Mnemonic**: Think of a car: "ego-depleted" is like running on low fuel while "fully rested" is a car with a full tank and tuned-up engine.
+
+6. flashcards based on the "Polar Bear Experiment" from Chapter 2 of "Thinking, Fast and Slow":
+
+---
+
+**Flashcard 1**:
+
+**Front**: Describe the main task given to participants in the Polar Bear Experiment.
+
+**Back**: Participants were instructed not to think about a white bear.
+
+**Mnemonic**: Visualize a sign saying "No White Bears Allowed".
+
+---
+
+**Flashcard 2**:
+
+**Front**: What was the common result experienced by most participants in the Polar Bear Experiment?
+
+**Back**: They found it challenging to suppress the thought of the white bear and frequently ended up thinking about it.
+
+**Mnemonic**: Think of a white bear constantly popping up in a game of "Whack-a-Mole".
+
+---
+
+**Flashcard 3**:
+
+**Front**: What main insight about thought control does the Polar Bear Experiment demonstrate?
+
+**Back**: It highlights the difficulty of controlling (especially suppressing) specific thoughts, as doing so often requires significant mental effort.
+
+**Mnemonic**: Imagine trying to push a giant inflatable white bear under water — it keeps popping back up!
+
+---
+
+**Flashcard 4**:
+
+**Front**: According to the insights from the Polar Bear Experiment, what might be the cognitive implication of trying to suppress unwanted thoughts?
+
+**Back**: Continuously attempting to suppress thoughts can be mentally draining, and it can lead to an increase in the frequency of those very thoughts.
+
+**Mnemonic**: The more you push the "Do Not Press" button in your mind, the more you're tempted to press it.
+
+---
+
+**Flashcard 5** (Comparison Card):
+
+**Front**: Differentiate between actively thinking about a subject vs. trying to suppress thoughts about the same subject.
+
+**Back**:
+
+- **Actively Thinking**: Deliberate focus and engagement with the subject, can be less mentally draining.
+- **Suppressing Thoughts**: Attempting to push the subject out of one's mind, often leads to increased mental effort and potential backfire by thinking about it more.
+
+**Mnemonic**: It's like holding a ball in your hand (active thinking) versus trying to keep a floating ball submerged in water (suppressing thoughts).
+
+7. Let's create flashcards based on the "Divided Attention" concept from Chapter 2 of "Thinking, Fast and Slow":
+
+---
+
+**Flashcard 1**:
+
+**Front**: What happens when people divide their attention between two tasks that both require System 2 thinking?
+
+**Back**: Performance can degrade on both tasks due to the limited resources of System 2 thinking.
+
+**Mnemonic**: Imagine trying to juggle two heavy objects simultaneously — both are likely to drop.
+
+---
+
+**Flashcard 2**:
+
+**Front**: Describe a common real-life phenomenon that exemplifies the challenge of dividing attention between two demanding tasks.
+
+**Back**: Often, people will stop walking when faced with a tough question during a conversation, showcasing the interference between the demanding tasks of walking and deep thinking.
+
+**Mnemonic**: Picture a person frozen in mid-step, deep in thought, while trying to answer a challenging question.
+
+---
+
+**Flashcard 3**:
+
+**Front**: Why might a seemingly simple task like walking be impacted when combined with a demanding cognitive task?
+
+**Back**: Although walking is typically a System 1 activity, when combined with a demanding System 2 task, it may require more conscious effort and thus be impacted.
+
+**Mnemonic**: Think of walking on a straight path (easy) but then suddenly being asked to walk on a tightrope while solving a math problem.
+
+---
+
+**Flashcard 4** (Comparison Card):
+
+**Front**: Compare System 1 tasks and System 2 tasks in terms of divided attention.
+
+**Back**: 
+- **System 1 Tasks**: Automatic, often can be combined without significant performance loss (e.g., walking while talking).
+- **System 2 Tasks**: Deliberate and resource-intensive. Combining two System 2 tasks often results in degraded performance on both.
+
+**Mnemonic**: System 1 is like background music you can tune out, while System 2 is like trying to listen to two podcasts at once.
+
+---
+
+8. Let's design flashcards focusing on the "Feedback" concept from Chapter 2 of "Thinking, Fast and Slow":
+
+---
+
+**Flashcard 1**:
+
+**Front**: How does System 2 react to clear feedback that action is required?
+
+**Back**: System 2 is more likely to engage and allocate effort when it receives clear feedback necessitating action.
+
+**Mnemonic**: Imagine a dormant engine roaring to life when it senses the need (clear feedback).
+
+---
+
+**Flashcard 2**:
+
+**Front**: What can be the consequence when System 2 does not receive clear feedback?
+
+**Back**: Without clear feedback, System 2 might remain passive, leading to errors that go uncorrected.
+
+**Mnemonic**: Visualize a machine missing a glitch because no warning light (feedback) flashed.
+
+---
+
+**Flashcard 3**:
+
+**Front**: Why is feedback essential for the activation of System 2?
+
+**Back**: Feedback serves as an alert mechanism that wakes up System 2 from its passive mode, prompting it to engage in the situation or problem at hand.
+
+**Mnemonic**: Think of feedback as an alarm bell that rouses a sleeping guard (System 2).
+
+---
+
+**Flashcard 4** (Comparison Card):
+
+**Front**: Compare the responses of System 2 with and without clear feedback.
+
+**Back**: 
+- **With Clear Feedback**: System 2 engages, becomes active, and allocates the required effort.
+- **Without Clear Feedback**: System 2 remains passive and potential errors might not be addressed.
+
+**Mnemonic**: It's like the difference between a vigilant watchman alerted by a siren versus one dozing off without any alarm.
+
+---
+
+9. Designing flashcards focusing on the "Expertise and Intuition" concept from Chapter 2 of "Thinking, Fast and Slow":
+
+---
+
+**Flashcard 1**:
+
+**Front**: How does expertise affect the role of System 2 in task execution?
+
+**Back**: With adequate training and expertise, tasks that initially necessitated System 2 thinking can become more automatic, shifting towards System 1.
+
+**Mnemonic**: Imagine a rocky, challenging path (System 2) that, over time with frequent travel, becomes a smooth paved road (System 1).
+
+---
+
+**Flashcard 2**:
+
+**Front**: What is the impact of expertise on pattern recognition, especially in complex tasks like chess?
+
+**Back**: Chess masters, with their expertise, can intuitively recognize intricate patterns on the chessboard, reducing the need for deliberation compared to novices.
+
+**Mnemonic**: Visualize a chess master effortlessly dancing across the board, while a novice ponders each step.
+
+---
+
+**Flashcard 3**:
+
+**Front**: How does the development of expertise relate to the transition from deliberate thinking to intuition?
+
+**Back**: As one develops expertise, the need for deliberate, conscious thought (System 2) diminishes, and intuition (System 1) begins to play a more dominant role.
+
+**Mnemonic**: Picture a student slowly turning into a master, with the gears in their head (System 2) gradually quieting down as intuition takes the lead.
+
+---
+
+**Flashcard 4** (Comparison Card):
+
+**Front**: Compare the decision-making process of an expert versus a novice in a specialized task.
+
+**Back**: 
+- **Expert**: Intuitive, quick recognition of patterns, minimal deliberation, mostly System 1 driven.
+- **Novice**: More deliberate thinking, slower decision-making, heavy reliance on System 2.
+
+**Mnemonic**: It's like comparing an eagle swiftly spotting its prey versus a young bird hesitantly searching.
+
+---
+
+ 10. **Flashcard Designs for "Thinking, Fast and Slow" - Chapter Three: "The Anchoring Effect"**
+
+---
+
+**Flashcard 1**:  
+**Front**: Mnemonic: "First info fixates, making future estimates!"  
+**Question**: What is the essential concept behind the anchoring effect?  
+**Back**: An initial piece of information, known as the "anchor", plays a significant role in influencing subsequent judgments or decisions.
+
+---
+
+**Flashcard 2**:  
+**Front**: Active Recall: Imagine you're at a car dealership and the salesperson first shows you a luxury car priced at $100,000. Later, they show a car priced at $40,000. How might the first car's price affect your perception of the second car's value?  
+**Back**: Due to the anchoring effect, the second car might seem relatively inexpensive or a better deal in comparison to the first luxury car's price.
+
+---
+
+**Flashcard 3**:  
+**Front**: Simplicity: What term describes the phenomenon where one piece of information influences future decisions?  
+**Back**: Anchoring.
+
+---
+
+**Flashcard 4**:  
+**Front**: Comparison Card: "Seeing an expensive item first vs. Seeing a cheaper item first".  
+**Question**: How might these two scenarios differently impact a shopper's perception of subsequent product prices?  
+**Back**: When seeing an expensive item first, subsequent items might seem more affordable in comparison. Conversely, seeing a cheaper item first may make subsequent items seem overpriced.
+
+---
+
+**Flashcard 5**:  
+**Front**: Mnemonic: "Anchor weighs down, guiding judgment's town!"  
+**Question**: In the context of negotiations or estimates, how does an established anchor play a role?  
+**Back**: Once an anchor is set, all subsequent discussions and estimations tend to revolve around or be influenced by that anchored value.
+
+---
+
+**Flashcard 6**:  
+**Front**: Active Recall: If a company first quotes a high price for a service and later offers a discount, how might the initial price impact the perceived value of the discounted price?  
+**Back**: Due to the anchoring effect, the discounted price will seem like a much better deal, even if it's still high, because the perception is anchored to the initially quoted higher price.
+
+---
+
+**Flashcard 7**:  
+**Front**: Simplicity: How does the anchoring effect manipulate one's perception in decision-making?  
+**Back**: It biases perceptions and decisions based on the initial information presented, even if it's irrelevant.
+
+---
+
+**Flashcard 8**:  
+**Front**: Comparison Card: "High starting salary vs. Low starting salary negotiation".  
+**Question**: In job negotiations, how might these two starting points influence the final agreed-upon salary?  
+**Back**: A high starting salary serves as an anchor, likely resulting in a higher final salary, while a low starting salary can lead to a final agreement closer to that lower amount.
+
+---
+
+11. 
