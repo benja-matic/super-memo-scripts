@@ -1,0 +1,510 @@
+[
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_1.jpg\" alt=\"Sources/Lights/light_1.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/wNtmXMvvswEmFmRb7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Botswana</a> - Gaborone, Gaborone City: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_2.jpg\" alt=\"Sources/Lights/light_2.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/8D7wasj7m6uz5v8V7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Eswatini</a> - Mbabane, Hhohho Region: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_3.jpg\" alt=\"Sources/Lights/light_3.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/AeVdhQcYDc4v3ecw5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ghana</a> - Accra, Greater Accra Region: Ayawaso West Municipal, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_4.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_4.jpg\" alt=\"Sources/Lights/light_4.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/UURcaSuCAzCRV8tE7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Kenya</a> - Mombasa, Coast: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_5.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_5.jpg\" alt=\"Sources/Lights/light_5.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/EhHGfHhAW9Uiznrn7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Lesotho</a> - Maseru, Maseru: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_6.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_6.jpg\" alt=\"Sources/Lights/light_6.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/VT3nYnrWszeNDrqE6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Nigeria</a> - Abuja, Federal Capital Territory: Abuja Municipal Area Council, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_107.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_107.jpg\" alt=\"Sources/Lights/light_107.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/zog6HT6HqSGXV7Za8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Rwanda</a> - Kigali, Kigali City: Gasabo, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_87.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_87.jpg\" alt=\"Sources/Lights/light_87.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/u4gu9wgG9HvhPvzK9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Senegal (Dakar)</a> - Dakar, Région de Dakar: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_7.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_7.jpg\" alt=\"Sources/Lights/light_7.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/GNcfMep47ARJ1NbF6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">South Africa</a> - Pretoria, Gauteng: City of Tshwane Metropolitan Municipality, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_94.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_94.jpg\" alt=\"Sources/Lights/light_94.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/QpSVb7Qy76zq8Mng8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Uganda</a> - Kampala, Central Region: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_106.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_106.jpg\" alt=\"Sources/Lights/light_106.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/RwdhrN2eLbdvJ4V59\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Christmas Island</a> - Kampong, Other Territories: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_95.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_95.jpg\" alt=\"Sources/Lights/light_95.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/FQEMVxCF3RXBaYJbA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Hong Kong</a> - New Territories: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_96.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_96.jpg\" alt=\"Sources/Lights/light_96.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/4FdRiMTVj96aBcG36\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Hong Kong</a> - New Territories: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_123.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_123.jpg\" alt=\"Sources/Lights/light_123.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/X9Lu2YXjPH9wqJgM6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">India</a> - Mumbai, Maharashtra: Konkan Division, Mumbai City"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_8.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_8.jpg\" alt=\"Sources/Lights/light_8.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/TBsxQ7h1NmoDoEWQ7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Indonesia</a> - Jakarta: South Jakarta City, Setiabudi"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_9.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_9.jpg\" alt=\"Sources/Lights/light_9.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/PyyqozvXoXQm3pFz7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Indonesia</a> - Daerah Khusus Ibukota Jakarta: Kota Jakarta Timur, Kecamatan Matraman"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_10.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_10.jpg\" alt=\"Sources/Lights/light_10.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/WGL61X9MAsEcgWcEA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Israel</a> - Holon, Center District: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_11.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_11.jpg\" alt=\"Sources/Lights/light_11.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/UkkzN3m6wajxoR1B7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Japan</a> - Hakodate, Hokkaido: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_12.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_12.jpg\" alt=\"Sources/Lights/light_12.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/5Gqsb5qYVX2hNWwa6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Jordan</a> - Amman, Amman Governorate: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_13.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_13.jpg\" alt=\"Sources/Lights/light_13.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/M7N9qoqVoyF57N7f6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Jordan</a> - Amman, Amman Governorate: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_14.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_14.jpg\" alt=\"Sources/Lights/light_14.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/k4ueYDK1L4LEexAa9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Kyrgyzstan</a> - Bishkek, Bishkek City: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_15.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_15.jpg\" alt=\"Sources/Lights/light_15.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/wRg5bWPjDpHvxoHh8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Kyrgyzstan</a> - Osh, Osh City: Kara-Suu District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_16.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_16.jpg\" alt=\"Sources/Lights/light_16.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/QrPKX84uQtr5MiDJ6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Laos</a> - Vientiane, Vientiane Prefecture: Chanthabuly, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_98.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_98.jpg\" alt=\"Sources/Lights/light_98.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Hci7RSxCCxbr2WYw6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Lebanon</a> - Beirut, Beirut Governorate: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_17.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_17.jpg\" alt=\"Sources/Lights/light_17.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/qFTx4adLGUCC9Ppv6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Malaysia</a> - Skudai, Johor: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_18.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_18.jpg\" alt=\"Sources/Lights/light_18.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/BYAZiTgU5rSoWUBS9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Mongolia</a> - Nalayh, Ulaanbaatar: Nalaikh District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_125.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_125.jpg\" alt=\"Sources/Lights/light_125.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/s53iHvUTuM7tm8bw7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Qatar</a> - Lusail, Doha Municipality: Zone 69, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_126.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_126.jpg\" alt=\"Sources/Lights/light_126.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ZntWm8afrMkX2iyw6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Qatar</a> - Ar Rayyan, Al Rayyan Municipality: Zone 52, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_19.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_19.jpg\" alt=\"Sources/Lights/light_19.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/VB2Tu4Ma4WYsoKLj7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Russia</a> - Omsk, Omskaya oblast': "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_20.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_20.jpg\" alt=\"Sources/Lights/light_20.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/AeZLGN7YTxxJR87p7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Singapore</a> - Singapore, undefined: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_21.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_21.jpg\" alt=\"Sources/Lights/light_21.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Gj7FVmWPbfPcQYdy9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">South Korea</a> - Jakjeon-dong, Incheon: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_22.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_22.jpg\" alt=\"Sources/Lights/light_22.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/E1QaZsoDMo6ZjfYy6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Taiwan</a> - 台北市: 松山區, 民有里"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_23.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_23.jpg\" alt=\"Sources/Lights/light_23.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/9YA4bQJh9wEY9jgCA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Taiwan</a> - Taichung City: Nantun District, 三義里"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_24.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_24.jpg\" alt=\"Sources/Lights/light_24.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/3Ph4S1yxhLUJFmwV7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Taiwan</a> - Yilan County: Luodong Township, 新群里"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_25.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_25.jpg\" alt=\"Sources/Lights/light_25.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/eP8j63tgxwRuEi7V6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Thailand</a> - Khwaeng Dao Khanong, Krung Thep Maha Nakhon: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_26.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_26.jpg\" alt=\"Sources/Lights/light_26.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/A1RobPgNoCYHWrPe9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Thailand</a> - Tambon Sam Rong Nua, Chang Wat Samut Prakan: Amphoe Mueang Samut Prakan, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_27.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_27.jpg\" alt=\"Sources/Lights/light_27.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/SrnD91jBqwSqPnoQ8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">United Arab Emirates</a> - الشارقة, إمارة الشارقةّ: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_28.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_28.jpg\" alt=\"Sources/Lights/light_28.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/TfU5owqJ5TNY9g4E9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">United Arab Emirates</a> - Dubai, Dubai: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_30.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_30.jpg\" alt=\"Sources/Lights/light_30.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/VKCNti7sT258rMfX6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Albania</a> - Tirana, Tirana County: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_31.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_31.jpg\" alt=\"Sources/Lights/light_31.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ZBVxoxBff1afvvnf9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Andorra</a> - Santa Coloma, Andorra la Vella: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_32.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_32.jpg\" alt=\"Sources/Lights/light_32.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/QhbijzMoT7AVkWt29\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Austria</a> - Wien, Wien: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_81.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_81.jpg\" alt=\"Sources/Lights/light_81.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/tFqBEURyM3sLkeRK9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Austria</a> - Villach, Kärnten: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_83.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_83.jpg\" alt=\"Sources/Lights/light_83.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/cJsXLg4xpUebA8fa7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Austria</a> - Zell am See, Salzburg: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_104.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_104.jpg\" alt=\"Sources/Lights/light_104.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/KQNYdFXbcrFoJfjt9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Belarus</a> - Minsk, Minskaja voblasć: Minski rajon, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_33.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_33.jpg\" alt=\"Sources/Lights/light_33.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/KjwkZdCCEnDeKVkG9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Belgium</a> - Antwerpen, Vlaams Gewest: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_34.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_34.jpg\" alt=\"Sources/Lights/light_34.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/5tFMDYCH91m9KGmX8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bulgaria</a> - Plovdiv, Plovdiv: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_77.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_77.jpg\" alt=\"Sources/Lights/light_77.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/uE2dUXG4cqszxLQf7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bulgaria</a> - Sofia, Sofia City Province: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_35.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_35.jpg\" alt=\"Sources/Lights/light_35.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ab6D2TE9DkmFfquW6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Croatia</a> - Rijeka, Primorsko-goranska županija: Grad Rijeka, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_36.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_36.jpg\" alt=\"Sources/Lights/light_36.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/kT93Kmdyrfu5vu1n8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Denmark</a> - Aarhus, undefined: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_37.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_37.jpg\" alt=\"Sources/Lights/light_37.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Y6RSQGBoTQNgocmt8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Estonia</a> - Tallinn, Harju maakond: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_84.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_84.jpg\" alt=\"Sources/Lights/light_84.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/TDdiAp6e9bW3R5Rt6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Germany (Berlin)</a> - Berlin, Berlin: Kreisfreie Stadt Berlin"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_85.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_85.jpg\" alt=\"Sources/Lights/light_85.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/EzztUduWXK36u2BVA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Germany (Berlin)</a> - Berlin, Berlin: Kreisfreie Stadt Berlin"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_38.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_38.jpg\" alt=\"Sources/Lights/light_38.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/DK1pqbT6iQyoupux5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Gibraltar</a> - Gibraltar, undefined: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_39.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_39.jpg\" alt=\"Sources/Lights/light_39.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/bXXGK3nW2ifaEv4c9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Greece</a> - Paleo Faliro, undefined: Notios Tomeas Athinon"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_40.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_40.jpg\" alt=\"Sources/Lights/light_40.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/JpAM5pyiwJmCJNsbA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Hungary</a> - Debrecen, undefined: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_41.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_41.jpg\" alt=\"Sources/Lights/light_41.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/rsznKbxPYeN4MhYS9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Iceland</a> - Reykjavík, Reykjavíkurborg: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_42.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_42.jpg\" alt=\"Sources/Lights/light_42.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/dZesD7VBP2uUHHR58\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ireland</a> - Limerick, County Limerick: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_43.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_43.jpg\" alt=\"Sources/Lights/light_43.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/GWt2cWzLEi7XcUad8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ireland</a> - County Dublin: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_44.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_44.jpg\" alt=\"Sources/Lights/light_44.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/3sJ5to7KdXVBKunY7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Isle of Man</a> - Douglas, Douglas: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_124.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_124.jpg\" alt=\"Sources/Lights/light_124.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/o284dPBB2tJr5iTbA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Italy</a> - Milano, Lombardia: Città Metropolitana di Milano, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_45.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_45.jpg\" alt=\"Sources/Lights/light_45.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/wjWJPuMhwNxUuH8c8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Jersey</a> - Saint Helier, St Helier: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_46.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_46.jpg\" alt=\"Sources/Lights/light_46.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/dkYTRqGEWCL4DY3E7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Latvia</a> - Rīga, undefined: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_47.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_47.jpg\" alt=\"Sources/Lights/light_47.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/g2oNjY8Cqj8mb5XN8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Lithuania</a> - Vilnius, Vilniaus apskritis: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_86.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_86.jpg\" alt=\"Sources/Lights/light_86.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/uM83ssZVMNv7caWn8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Lithuania</a> - Klaipėda, Klaipėdos apskritis: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_29.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_29.jpg\" alt=\"Sources/Lights/light_29.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/EifGosT2pJ16G2RL8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Monaco</a> - Monaco, undefined: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_48.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_48.jpg\" alt=\"Sources/Lights/light_48.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Lzqns9yFtV5VA4peA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Montenegro</a> - Podgorica, Podgorica Municipality: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_49.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_49.jpg\" alt=\"Sources/Lights/light_49.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/NzZN73GiAzseEC4U8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Netherlands</a> - Amersfoort, Utrecht: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_119.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_119.jpg\" alt=\"Sources/Lights/light_119.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/b8eKMPUWV1FU2kcv8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Netherlands</a> - Roermond, Limburg: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_120.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_120.jpg\" alt=\"Sources/Lights/light_120.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/T9PeYyuCchYgmUkM7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Netherlands</a> - Alkmaar, Noord-Holland: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_121.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_121.jpg\" alt=\"Sources/Lights/light_121.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/hzCr29TrCDYQUGXn9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Netherlands</a> - Maastricht, Limburg: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_122.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_122.jpg\" alt=\"Sources/Lights/light_122.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/BWxLEPbNmCgbZTW68\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Netherlands</a> - Maastricht, Limburg: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_50.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_50.jpg\" alt=\"Sources/Lights/light_50.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/4dH6qCxYn3hrfQTE6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">North Macedonia</a> - Skopje, Greater Skopje: Karpoš, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_51.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_51.jpg\" alt=\"Sources/Lights/light_51.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/LNaXwvkYgjYHSm7y8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Norway</a> - Oslo, Oslo: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_52.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_52.jpg\" alt=\"Sources/Lights/light_52.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/99e75W1wUgqh4GBw6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Poland</a> - Warszawa, Mazowieckie: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_53.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_53.jpg\" alt=\"Sources/Lights/light_53.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/WveCk4w9SMTQUVjN9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Poland</a> - Jasło, Podkarpackie: Powiat jasielski, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_54.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_54.jpg\" alt=\"Sources/Lights/light_54.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/bhHdybhRAoGpvtfy9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Romania</a> - Craiova, Județul Dolj: Municipiu Craiova, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_55.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_55.jpg\" alt=\"Sources/Lights/light_55.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ZoY4dKsvVrC1oycC6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Serbia</a> - Paraćin, undefined: Pomoravski okrug, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_56.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_56.jpg\" alt=\"Sources/Lights/light_56.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/xY9uRJ5mkbivMpAZ9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Slovakia</a> - Nové Zámky, Nitriansky kraj: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_57.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_57.jpg\" alt=\"Sources/Lights/light_57.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/pxN8ejfp5QF2Atui9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Slovakia</a> - Nitra, Nitriansky kraj: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_58.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_58.jpg\" alt=\"Sources/Lights/light_58.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/vuJaWKPP5J612D3n8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Slovenia</a> - Postojna: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_59.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_59.jpg\" alt=\"Sources/Lights/light_59.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/83vy68tMwQFB7ZKP6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Sweden</a> - Öster, Skåne län: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_60.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_60.jpg\" alt=\"Sources/Lights/light_60.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Kb29NPVK8kC6Pyzs8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Sweden</a> - Sylten-Oxelbergen, Östergötlands län: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_61.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_61.jpg\" alt=\"Sources/Lights/light_61.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/LRnSSXZj7Lj1GxxX9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Switzerland</a> - Luzern, Kanton Luzern: Luzern-Stadt District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_62.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_62.jpg\" alt=\"Sources/Lights/light_62.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/MPJ8nwKnRFnHzJ2b9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Turkey</a> - İstanbul: Fatih, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_63.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_63.jpg\" alt=\"Sources/Lights/light_63.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/hiozwjHX3HfK6PbK6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Turkey</a> - Konya: Selçuklu, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_64.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_64.jpg\" alt=\"Sources/Lights/light_64.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/9ng9Jgeav5HjrxVa9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ukraine</a> - Kyiv, Kyiv: Kyiv City, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_65.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_65.jpg\" alt=\"Sources/Lights/light_65.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/TAwdgkDhRdRpEejs8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">United Kingdom</a> - England: Warwickshire, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_97.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_97.jpg\" alt=\"Sources/Lights/light_97.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/xaPttkkqBLjLD4Xu5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bermuda</a> - St. George's Parish: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_127.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_127.jpg\" alt=\"Sources/Lights/light_127.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/hNBvS9rxua3F4yGy8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bermuda</a> - Hamilton, Hamilton: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_80.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_80.jpg\" alt=\"Sources/Lights/light_80.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/oNa6uENsLiEwDMSaA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a> - Sydney, Nova Scotia: Cape Breton Regional Municipality, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_88.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_88.jpg\" alt=\"Sources/Lights/light_88.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/WugNGdUvikntdta66\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a> - Sydney, Nova Scotia: Cape Breton Regional Municipality, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_89.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_89.jpg\" alt=\"Sources/Lights/light_89.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/RvL9AyMiearkRCae9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a> - Toronto, Ontario: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_90.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_90.jpg\" alt=\"Sources/Lights/light_90.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/DqyWzeWp2ibzu1idA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a> - London, Ontario: Middlesex County, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_91.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_91.jpg\" alt=\"Sources/Lights/light_91.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/5hPw2DMb1KPGWtrT8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a> - London, Ontario: Middlesex County, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_92.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_92.jpg\" alt=\"Sources/Lights/light_92.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/pC6SFpi2dgmDxowx9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a> - Montréal, Québec: Communauté-Urbaine-de-Montréal, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_93.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_93.jpg\" alt=\"Sources/Lights/light_93.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/27rvEyRun9E8ETbE8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a> - Montréal, Québec: Communauté-Urbaine-de-Montréal, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_102.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_102.jpg\" alt=\"Sources/Lights/light_102.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/27rvEyRun9E8ETbE8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Costa Rica</a> - Montréal, Québec: Communauté-Urbaine-de-Montréal, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_66.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_66.jpg\" alt=\"Sources/Lights/light_66.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/G1ottqKKDuorN2WK8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Curaao</a> - Willemstad, Curaçao: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_67.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_67.jpg\" alt=\"Sources/Lights/light_67.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/GiDaLLBLepYbQf4N6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Puerto Rico</a> - San Juan, San Juan: Sabana Llana Norte, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_100.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_100.jpg\" alt=\"Sources/Lights/light_100.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/h1jPPELTFQPjYtiM8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">United States</a> - Los Angeles, California: Los Angeles County, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_101.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_101.jpg\" alt=\"Sources/Lights/light_101.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/U9VDm7xk8aj37JWy7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">United States</a> - New York, New York: New York County, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_68.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_68.jpg\" alt=\"Sources/Lights/light_68.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/LZjdF7xQ71rbjsnY7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a> - Mount Lawley, Western Australia: City of Vincent, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_75.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_75.jpg\" alt=\"Sources/Lights/light_75.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/TXhFb9XpgViANSmK8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a> - Homebush, New South Wales: Municipality of Strathfield, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_76.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_76.jpg\" alt=\"Sources/Lights/light_76.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Kx5hu5AtEQgcURwcA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a> - Melbourne, Victoria: City of Melbourne, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_78.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_78.jpg\" alt=\"Sources/Lights/light_78.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/rHnW9tAuUCby6wS9A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a> - Adelaide, South Australia: Adelaide City Council, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_79.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_79.jpg\" alt=\"Sources/Lights/light_79.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ArLdmgsmMBUidgaA9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a> - Wodonga, Victoria: City of Wodonga, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_82.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_82.jpg\" alt=\"Sources/Lights/light_82.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/otZCHfsMfLgg4HUU8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a> - Parramatta, New South Wales: City of Parramatta Council, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_99.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_99.jpg\" alt=\"Sources/Lights/light_99.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/mYazmEaZe6hG4W2u6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a> - Melbourne, Victoria: City of Melbourne, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_105.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_105.jpg\" alt=\"Sources/Lights/light_105.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/6NmngKGFoL7WUrhN9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a> - Redfern, New South Wales: City of Sydney, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_118.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_118.jpg\" alt=\"Sources/Lights/light_118.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/rDoCqVQzcVF22yrZ9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a> - Hobart, Tasmania: City of Hobart, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_69.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_69.jpg\" alt=\"Sources/Lights/light_69.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/qpFxbhwaAGkty8Nu7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Guam</a> - Hagåtña, undefined: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_70.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_70.jpg\" alt=\"Sources/Lights/light_70.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/RCbegLLrQ93FHsCR9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">New Zealand</a> - Christchurch, Canterbury: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_71.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_71.jpg\" alt=\"Sources/Lights/light_71.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/YLeXNSkKnsiNLyA96\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Northern Mariana Islands</a> - Garapan, Saipan: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_116.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_116.jpg\" alt=\"Sources/Lights/light_116.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Q8shmKnmsELn2jhYA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Argentina</a> - Córdoba, Córdoba: Capital, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_117.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_117.jpg\" alt=\"Sources/Lights/light_117.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/HzLtK3EbLwaKZGwC9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Argentina</a> - Rosario, Santa Fe: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_113.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_113.jpg\" alt=\"Sources/Lights/light_113.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/GJgA5CdRidghXApH7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bolivia</a> - Cochabamba, Departamento de Cochabamba: Cercado, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_114.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_114.jpg\" alt=\"Sources/Lights/light_114.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/hLqA917FCnt8xdTZ6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bolivia</a> - La Paz, Departamento de La Paz: Murillo, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_115.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_115.jpg\" alt=\"Sources/Lights/light_115.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/nPFW8LA6TdDi67uj7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bolivia</a> - La Paz, Departamento de La Paz: Murillo, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_103.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_103.jpg\" alt=\"Sources/Lights/light_103.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/o4D3Tj3yKXcxDMuP7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Brazil</a> - Cidade Jardim, Mato Grosso do Sul: Campo Grande, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_72.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_72.jpg\" alt=\"Sources/Lights/light_72.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/15kRSMK2aL8jEYjy7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Chile</a> - Santiago, Región Metropolitana: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_73.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_73.jpg\" alt=\"Sources/Lights/light_73.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/nZQQqaNkhbxBaEBT7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Colombia</a> - Armenia, Quindío: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_108.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_108.jpg\" alt=\"Sources/Lights/light_108.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/7FBBPz6wbWgYtQ2r5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ecuador</a> - Guayaquil, Guayas: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_109.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_109.jpg\" alt=\"Sources/Lights/light_109.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/yzY9C6rnQ2mmoNha9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ecuador</a> - Guayaquil, Guayas: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_110.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_110.jpg\" alt=\"Sources/Lights/light_110.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/PdSctfjsyLdnKh959\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ecuador</a> - Quito, Pichincha: Distrito Metropolitano de Quito, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_111.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_111.jpg\" alt=\"Sources/Lights/light_111.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/iimwwHbVcpit1cHR7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Peru</a> - Ayacucho, Ayacucho: Huamanga, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_112.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_112.jpg\" alt=\"Sources/Lights/light_112.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/MH8LY2oEA2oyfdoA9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Peru</a> - Independencia, Provincia de Lima: Lima, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Lights/light_74.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Lights/light_74.jpg\" alt=\"Sources/Lights/light_74.jpg\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/HChPArPeeEWbGTD8A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Uruguay</a> - Montevideo, Departamento de Montevideo: C, "
+  }
+]

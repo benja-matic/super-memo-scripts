@@ -4,8 +4,8 @@ import { readFile } from 'fs/promises';
 import { config } from 'dotenv';
 config({ path: './.env' });
 
-const URL_ROUTE = "ThinkingFastAndSlow.json"; // DONT FORGET TO UPDATE
-const env_prefix = "CAROLYN_";
+const URL_ROUTE = "Trees.json"; // DONT FORGET TO UPDATE
+const env_prefix = "";
 const userId = process.env?.[`${env_prefix}USER_ID`];
 
 const courseId = process.env?.[`${env_prefix}COURSE_ID`]; // DONT FORGET TO UPDATE
@@ -13,7 +13,7 @@ const targetParentNumber = process.env?.[`${env_prefix}TARGET_PARENT_NUMBER`]; /
 
 const token = process.env?.[`${env_prefix}SUPER_MEMO_TOKEN`];
 
-async function readSkipCountriesFromFile() {
+async function readDataFromFile() {
     try {
         if (URL_ROUTE.includes("json")) {
             const data = await readFile(`./data/${URL_ROUTE}`, 'utf-8');
@@ -29,7 +29,7 @@ async function readSkipCountriesFromFile() {
 
 const run = async () => {
 
-    const cards = await readSkipCountriesFromFile();
+    const cards = await readDataFromFile();
     shuffle(cards); // possibly a better way to separate reoccuring values could be needed
     const jsdom = await import('jsdom');
     const { JSDOM } = jsdom;

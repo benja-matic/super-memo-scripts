@@ -4,7 +4,7 @@ import { config } from 'dotenv';
 import FormData from 'form-data';
 import fs from 'fs';
 import path from 'path';
-import { answers } from "./answers.js";
+import { answers } from "./data/answers.js";
 config();
 
 const token = process.env.SUPER_MEMO_TOKEN;
