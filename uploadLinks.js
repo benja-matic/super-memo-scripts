@@ -4,7 +4,7 @@ import { readFile } from 'fs/promises';
 import { config } from 'dotenv';
 config({ path: './.env' });
 
-const URL_ROUTE = "Trees.json"; // DONT FORGET TO UPDATE
+const URL_ROUTE = "Houses.json"; // DONT FORGET TO UPDATE
 const env_prefix = "";
 const userId = process.env?.[`${env_prefix}USER_ID`];
 

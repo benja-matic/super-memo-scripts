@@ -5,8 +5,8 @@ import { config } from 'dotenv';
 config();
 
 const BASE_URL = "http://www.geohints.com/";
-const URL_ROUTE = "Trees"; // DONT FORGET TO UPDATE
-const IMG_CLASS = "noZoomRift";
+const URL_ROUTE = "Houses"; // DONT FORGET TO UPDATE
+const IMG_CLASS = "noZoomCar";
 const IMG_CLASS_2 = "noZoomTall";
 
 
@@ -72,35 +72,39 @@ const run = async () => {
 
     for (const continent of Array.from(continents)) {
         // const bollards = continent.querySelectorAll("div.inside > div.bollard");
-        const bollards = continent.querySelectorAll("div.bollard");
+        const bollards = continent.querySelectorAll("div");
         for (const bollard of Array.from(bollards)) {
-            const imageElem = bollard.querySelector(`img.${IMG_CLASS}`) ?? bollard.querySelector(`img.${IMG_CLASS_2}`);
-            const imgSrc = imageElem?.getAttribute("src");
-            const imgAlt = imageElem?.getAttribute("alt").replace("Sources/Signs/Numbers/", "").replace("http://www.geohints.com/", "").replace(`Sources/${URL_ROUTE}/`, "");
+            const country = bollard.textContent?.replace(":", "")?.replaceAll("🌍", "")?.replaceAll("\n", "") ?? "";
+            const imageElems = bollard.querySelectorAll(`img.${IMG_CLASS}`) ?? bollard.querySelector(`img.${IMG_CLASS_2}`);
+            const aTags = Array.from(bollard.querySelectorAll("a.gps"));
+            for (const [index, imageElem] of imageElems.entries()) {
 
-            const country = bollard.querySelector("p.country").textContent.replace(/[^\x00-\x7F]/g, "").trim();
-            const aElement = bollard.querySelector("p.country > a.gps");
-            const href = bollard.querySelector("p.country > a.gps")?.getAttribute("href");
-            if (!imgSrc) {
-                console.log(bollard.querySelector(`img`));
-                console.log(bollard.querySelector(`img`).getAttribute("class"));
+                const imgSrc = imageElem?.getAttribute("src");
+                const imgAlt = imageElem?.getAttribute("alt")?.replace("Sources/Signs/Numbers/", "")?.replace("http://www.geohints.com/", "")?.replace(`Sources/${URL_ROUTE}/`, "") ?? imgSrc?.replace("Sources/Houses/", "");
+                const aElement = aTags[index];
+                const href = aElement?.getAttribute("href");
+                if (!imgSrc) {
+                    console.log(bollard.querySelector(`img`));
+                    console.log(bollard.querySelector(`img`).getAttribute("class"));
+                }
+                console.log(imgAlt);
+
+                const itallicText = bollard.querySelector(`i`)?.textContent ? `name: ${bollard.querySelector(`i`)?.textContent}` : "";
+                const imageTagHTML = `<a href="${BASE_URL}${imgSrc}" target="_blank"><img src="${BASE_URL}${imgSrc}" alt="${imgAlt}" /></a>`;
+
+                // const googleLocation = "";
+                const googleLocation = await getGoogleLocation(href);
+
+                aElement.removeAttribute("style"); // remove all inline styles
+                aElement.textContent = aElement.textContent.replace("🌍", country); // replace globe emoji with country
+                aElement.style.fontWeight = 'bold'; // make the text bold
+                aElement.style.textDecoration = 'none'; // remove the underline
+                aElement.style.color = 'black'; // make link text black 
+
+                const answer = aElement.outerHTML + " - " + googleLocation + itallicText;
+                cards.push({ question: imageTagHTML, answer });
             }
-            console.log(imgAlt);
 
-            const itallicText = bollard.querySelector(`i`)?.textContent ? `name: ${bollard.querySelector(`i`)?.textContent}` : "";
-            const imageTagHTML = `<a href="${BASE_URL}${imgSrc}" target="_blank"><img src="${BASE_URL}${imgSrc}" alt="${imgAlt}" /></a>`;
-
-            // const googleLocation = "";
-            const googleLocation = await getGoogleLocation(href);
-
-            aElement.removeAttribute("style"); // remove all inline styles
-            aElement.textContent = aElement.textContent.replace("🌍", country); // replace globe emoji with country
-            aElement.style.fontWeight = 'bold'; // make the text bold
-            aElement.style.textDecoration = 'none'; // remove the underline
-            aElement.style.color = 'black'; // make link text black 
-
-            const answer = aElement.outerHTML + " - " + googleLocation + itallicText;
-            cards.push({ question: imageTagHTML, answer });
         };
 
     };
