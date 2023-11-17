@@ -5,7 +5,7 @@ import { config } from 'dotenv';
 config();
 
 const BASE_URL = "http://www.geohints.com/";
-const URL_ROUTE = "Trees"; // DONT FORGET TO UPDATE
+const URL_ROUTE = "Pedestrian"; // DONT FORGET TO UPDATE
 const IMG_CLASS = "noZoomRift";
 const IMG_CLASS_2 = "noZoomTall";
 
@@ -49,7 +49,7 @@ const getGoogleLocation = async (url) => {
         const state2 = details.find(comp => comp.types.includes("administrative_area_level_2"));
         const state3 = details.find(comp => comp.types.includes("administrative_area_level_3"));
         const stateDetails = `${state2 && state2?.long_name != locality?.long_name ? state2?.long_name + ", " : ""}${state3 && state3?.long_name != locality?.long_name && state3?.long_name != state2?.long_name ? state3?.long_name : ""}`;
-        return `${locality ? locality?.long_name + ", " : ""}${state?.long_name + ": "}${stateDetails}`;
+        return `${locality ? (locality?.long_name ?? "") + ", " : ""}${(state?.long_name ?? "") + ": "}${stateDetails ?? ""}`;
     } catch (error) {
         console.error(error);
         return "";
@@ -66,15 +66,15 @@ const run = async () => {
     const dom = new JSDOM(response.data);
     console.log(`${BASE_URL}${URL_ROUTE}`);
     const document = dom.window.document;
-    // const continents = document.body.querySelectorAll("div.section");
-    const continents = document.querySelectorAll("body");
+    const continents = document.body.querySelectorAll("div.section");
+    // const continents = document.querySelectorAll("body");
     const cards = [];
 
     for (const continent of Array.from(continents)) {
-        // const bollards = continent.querySelectorAll("div.inside > div.bollard");
-        const bollards = continent.querySelectorAll("div.bollard");
+        const bollards = continent.querySelectorAll("div.inside > div.bollard");
+        // const bollards = continent.querySelectorAll("div.bollard");
         for (const bollard of Array.from(bollards)) {
-            const imageElem = bollard.querySelector(`img.${IMG_CLASS}`) ?? bollard.querySelector(`img.${IMG_CLASS_2}`);
+            const imageElem = bollard.querySelector(`img`);
             const imgSrc = imageElem?.getAttribute("src");
             const imgAlt = imageElem?.getAttribute("alt").replace("Sources/Signs/Numbers/", "").replace("http://www.geohints.com/", "").replace(`Sources/${URL_ROUTE}/`, "");
 

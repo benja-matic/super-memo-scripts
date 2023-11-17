@@ -4,7 +4,7 @@ import { readFile } from 'fs/promises';
 import { config } from 'dotenv';
 config({ path: './.env' });
 
-const URL_ROUTE = "Houses.json"; // DONT FORGET TO UPDATE
+const URL_ROUTE = "Pedestrian.json"; // DONT FORGET TO UPDATE
 const env_prefix = "";
 const userId = process.env?.[`${env_prefix}USER_ID`];
 
@@ -34,11 +34,11 @@ const run = async () => {
     const jsdom = await import('jsdom');
     const { JSDOM } = jsdom;
 
-    // console.log(...cards.map((data) => {
-    //     const dom = new JSDOM(data.answer);
-    //     const document = dom.window.document;
-    //     return document.querySelector('a').textContent.trim() + "\n";
-    // }));
+    console.log(...cards.map((data) => {
+        const dom = new JSDOM(data.answer);
+        const document = dom.window.document;
+        return document.querySelector('a').textContent.trim() + "\n";
+    }));
     const newCardUrl = `https://learn.supermemo.com/api/users/${userId}/courses/${courseId}/pages?contentType=json&targetParentNumber=${targetParentNumber}`;
 
     console.log(newCardUrl);

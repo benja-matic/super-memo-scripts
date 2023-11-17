@@ -1,0 +1,1226 @@
+[
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/botswana.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/botswana.svg\" alt=\"botswana_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Q9yGRy3aV6gTPczv6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Botswana</a> - Gaborone, Gaborone City: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/botswana_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/botswana_2.svg\" alt=\"botswana_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/R7GqTXRpD9ic4CRB8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Botswana</a> - Gaborone, Gaborone City: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/botswana_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/botswana_3.svg\" alt=\"botswana_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/H9DH3TL5s76UoZvE8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Botswana</a> - Francistown, Francistown City: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/eswatini.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/eswatini.svg\" alt=\"eswatini_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/RpjwdACBAueqjNJf8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Eswatini</a> - Croydon, Manzini: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/eswatini_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/eswatini_2.svg\" alt=\"eswatini_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/cwADU3ipevozcNnn6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Eswatini</a> - Mbabane, Hhohho Region: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/ghana.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/ghana.svg\" alt=\"ghana_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/zniAdkukRq55NJnz8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ghana</a> - Accra, Greater Accra Region: Ayawaso East Municipal, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/ghana_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/ghana_2.jpg\" alt=\"ghana_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/JSG7ELaLoSdxzVqt7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ghana</a> - Tema, Greater Accra Region: Tema Metropolitan, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/ghana_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/ghana_3.svg\" alt=\"ghana_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/CP9QfGsV1ZHHLeHeA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ghana</a> - Kumasi, Ashanti Region: Oforikrom Municipal, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/ghana_4.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/ghana_4.jpg\" alt=\"ghana_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/kGKfnvk4sRjdonNK7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ghana</a> - Kumasi, Ashanti Region: Kumasi Metropolitan, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/kenya.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/kenya.svg\" alt=\"kenya_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/bbcRyC9jdiU5KHtS6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Kenya</a> - Nairobi, Nairobi County: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/kenya_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/kenya_2.svg\" alt=\"kenya_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/q9hAcApB6ovD3Gzc9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Kenya</a> - Nairobi, Nairobi County: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/kenya_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/kenya_3.svg\" alt=\"kenya_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ze2GzDWff8oxcPLj7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Kenya</a> - Nairobi, Nairobi County: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/lesotho.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/lesotho.svg\" alt=\"lesotho_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/N7CJkkYKJV68jaeJ8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Lesotho</a> - Maseru, Maseru: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/lesotho_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/lesotho_2.svg\" alt=\"lesotho_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/gF5VqmLTo9Dp2xie8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Lesotho</a> - Hlotse, Leribe: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/madagascar.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/madagascar.svg\" alt=\"madagascar_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/7q4dJfeguoymy2yD6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Madagascar</a> - Morondava, Menabe: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/nigeria.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/nigeria.svg\" alt=\"nigeria_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/JzQHf15B9XQwhLjKA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Nigeria</a> - Enugu, Enugu: Enugu North, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/nigeria_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/nigeria_2.svg\" alt=\"nigeria_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Q5AvbBrMYWhSWsjx9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Nigeria</a> - Lekki, Lagos: Eti Osa, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/nigeria_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/nigeria_3.svg\" alt=\"nigeria_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/UXSfD9gPzhpwRgDX9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Nigeria</a> - Lagos, Lagos: Eti Osa, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/rwanda.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/rwanda.svg\" alt=\"rwanda_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/84W73wjEoKRMr1WV7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Rwanda</a> - Kigali, Kigali City: Gasabo, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/rwanda_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/rwanda_2.svg\" alt=\"rwanda_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/vb8ZoMwZwxawVsMB9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Rwanda</a> - Kigali, Kigali City: Gasabo, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/rwanda_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/rwanda_3.svg\" alt=\"rwanda_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/PKwiVF7KePcSxGVa9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Rwanda</a> - Kigali, Kigali City: Gasabo, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/senegal.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/senegal.svg\" alt=\"senegal_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/oZPfspnGqrQwc5156\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Senegal</a> - Touba, Diourbel Region: Mbacke, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/senegal_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/senegal_2.svg\" alt=\"senegal_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/xZH4GjKh2C7VMHEm6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Senegal</a> - Touba, Diourbel Region: Mbacke, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/south_africa.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/south_africa.svg\" alt=\"south_africa_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/SK9z4YR3a55WNMxE9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">South Africa</a> - Cape Town, Western Cape: City of Cape Town Metropolitan Municipality, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/south_africa_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/south_africa_2.svg\" alt=\"south_africa_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Yz2R2efNTybSQUNc6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">South Africa</a> - Pretoria, Gauteng: City of Tshwane Metropolitan Municipality, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/tunisia.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/tunisia.jpg\" alt=\"tunisia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Z3idMy7o2BQb6yXz6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Tunisia</a> - Sfax, Sfax: Sfax Ouest, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/uganda.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/uganda.svg\" alt=\"uganda_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/cWM2NGHFxnLyeTzT7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Uganda</a> - Kampala, Central Region: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/uganda_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/uganda_2.svg\" alt=\"uganda_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/KYMdz43tABxJ3XD69\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Uganda</a> - Kampala, Central Region: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/uganda_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/uganda_3.jpg\" alt=\"uganda_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/QN47T5WSEnM1bAZu7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Uganda</a> - Kampala, Central Region: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/uganda_4.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/uganda_4.jpg\" alt=\"uganda_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/bwDumHQxPzSVfJBg8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Uganda</a> - Kampala, Central Region: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/uganda_5.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/uganda_5.svg\" alt=\"uganda_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/FEccmXA9bSPbTsrA9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Uganda</a> - Entebbe, Central Region: Wakiso, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/bangladesh.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/bangladesh.svg\" alt=\"bangladesh_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/PdZgVmfgShDhhqFKA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bangladesh</a> - Dhaka, Dhaka Division: Dhaka District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/bhutan.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/bhutan.svg\" alt=\"bhutan_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/U8UkXLu7pwsPXuF38\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bhutan</a> - Thimphu, Thimphu: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/cambodia.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/cambodia.svg\" alt=\"cambodia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/To7B1B5VubLsNmqn7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Cambodia</a> - Phnom Penh, Phnom Penh: Prampi Makara, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/christmas_island.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/christmas_island.svg\" alt=\"christmas_island_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/9awLgHST8FEcq68T6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Christmas Island</a> - Christmas Island, OT: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/hong_kong.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/hong_kong.svg\" alt=\"hong_kong_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/H2TwFV3wjsWBJyp16\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Hong Kong</a> - Hong Kong Island: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/india.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/india.svg\" alt=\"india_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/coDMttvX6JmdJQgY6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">India</a> - Mumbai, Maharashtra: Konkan Division, Mumbai Suburban"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/india_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/india_2.svg\" alt=\"india_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/K5URF1AcA2BAiyFV6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">India</a> - Hunachur, Karnataka: Bangalore Division, Bangalore Rural"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/india_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/india_3.jpg\" alt=\"india_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/UNzqD9TcoUD31U278\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">India</a> - Chennai, Tamil Nadu: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/india_4.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/india_4.jpg\" alt=\"india_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/RdRXSWLbKHHYxpQA7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">India</a> - Attapur, Telangana: Rangareddy"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/india_5.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/india_5.svg\" alt=\"india_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/dtNTwqr4RorKDEWLA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">India</a> - Pali, Haryana: Faridabad Division, Faridabad"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/indonesia.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/indonesia.jpg\" alt=\"indonesia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/HyWN3sfkkQuzeHB89\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Indonesia</a> - Daerah Khusus Ibukota Jakarta: Jakarta Utara, Kecamatan Penjaringan"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/indonesia_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/indonesia_2.svg\" alt=\"indonesia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/XyAJsrEiPcwthmUu6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Indonesia</a> - Bali: Kota Denpasar, Kecamatan Denpasar Selatan"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/indonesia_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/indonesia_3.svg\" alt=\"indonesia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/SsPhPCM7LKjXCUFe6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Indonesia</a> - Jawa Timur: Kota Malang, Kecamatan Klojen"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/indonesia_4.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/indonesia_4.jpg\" alt=\"indonesia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ac6u1eUbw28vonpf9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Indonesia</a> - Jawa Timur: Kota Malang, Kecamatan Klojen"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/indonesia_5.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/indonesia_5.jpg\" alt=\"indonesia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/nWv8JNpuTF2SCZ7H7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Indonesia</a> - East Java: Malang City, Klojen"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/indonesia_6.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/indonesia_6.svg\" alt=\"indonesia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/qtFQ2wAjcPkA95yg7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Indonesia</a> - Bali: Kabupaten Badung, Kecamatan Kuta Selatan"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/indonesia_7.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/indonesia_7.jpg\" alt=\"indonesia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/yy7WzYg41HMvYDzY6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Indonesia</a> - Jawa Timur: Kota Malang, Kecamatan Klojen"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/indonesia_8.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/indonesia_8.jpg\" alt=\"indonesia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/LYYTALzFPQAYA4NCA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Indonesia</a> - Bali: Kabupaten Badung, Kecamatan Kuta Selatan"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/indonesia_9.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/indonesia_9.jpg\" alt=\"indonesia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/df8oSpg1Gqp9ccmQ6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Indonesia</a> - Jawa Barat: Kota Bekasi, Kecamatan Jatisampurna"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/indonesia_10.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/indonesia_10.jpg\" alt=\"indonesia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/9sTkp29SDjLkUUA96\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Indonesia</a> - Jawa Barat: Kota Depok, Kecamatan Cimanggis"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/indonesia_11.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/indonesia_11.jpg\" alt=\"indonesia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/SUt5zK72yPXyB1YFA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Indonesia</a> - Jawa Barat: Kota Depok, Kecamatan Cimanggis"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/indonesia_12.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/indonesia_12.jpg\" alt=\"indonesia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ucgBiGfc8kRpdvVK6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Indonesia</a> - Jawa Barat: Kota Bekasi, Kecamatan Jatisampurna"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/israel.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/israel.svg\" alt=\"israel_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/mxtJGMmcxDj3Sqpo7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Israel</a> - Tel Aviv-Yafo, Tel Aviv District: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/israel_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/israel_2.jpg\" alt=\"israel_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/twwMN6quZ4khPFDQ6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Israel</a> - Jerusalem, Jerusalem District: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/israel_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/israel_3.svg\" alt=\"israel_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/GFHE4fHqBwsuJUXC6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Israel</a> - Bracha, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/israel_4.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/israel_4.jpg\" alt=\"israel_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/1b54faQB4ws85rAZ9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Israel</a> - Eilat, South District: Be'er Sheva, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/israel_5.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/israel_5.svg\" alt=\"israel_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/zjnWe9mwnTD4PfEFA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Israel</a> - Ramallah, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/israel_6.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/israel_6.svg\" alt=\"israel_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/akeaNhDLSM1b8tta6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Israel</a> - Jerusalem, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/israel_7.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/israel_7.svg\" alt=\"israel_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/jjvecV6wreYJjdnC6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Israel</a> - Akko, North District: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/israel_8.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/israel_8.svg\" alt=\"israel_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/3jDkNrfGKrM5bsjEA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Israel</a> - Jerusalem, Jerusalem District: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/japan.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/japan.svg\" alt=\"japan_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/4hiQxVqSx4Mjncp39\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Japan</a> - Meguro City, Tokyo: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/jordan.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/jordan.svg\" alt=\"jordan_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/NFq3pRYr9pwNgtje6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Jordan</a> - Aqaba, Aqaba Governorate: Liwa Qasabat al-Aqaba, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/jordan_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/jordan_2.svg\" alt=\"jordan_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/3ZcMdFYHf7L8bUWh6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Jordan</a> - Karak, Karak Governorate: Karak Qasabah District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/jordan_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/jordan_3.svg\" alt=\"jordan_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/JT9oSP3EdNY6VGQJ8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Jordan</a> - Aqaba, Aqaba Governorate: Liwa Qasabat al-Aqaba, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/jordan_4.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/jordan_4.jpg\" alt=\"jordan_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/LvxogSeLC21rqKTj9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Jordan</a> - Aqaba, Aqaba Governorate: Liwa Qasabat al-Aqaba, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/jordan_5.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/jordan_5.svg\" alt=\"jordan_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/RTqvgqD95mKonuAB9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Jordan</a> - Madaba, Madaba Governorate: Madaba Qasabah District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/jordan_6.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/jordan_6.jpg\" alt=\"jordan_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Gv5ZW6eAfHUqdyXB7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Jordan</a> - Amman, Amman Governorate: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/kyrgyzstan.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/kyrgyzstan.svg\" alt=\"kyrgyzstan_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/or8j1kq5C4D1RD819\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Kyrgyzstan</a> - Bishkek, Bishkek City: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/kyrgyzstan_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/kyrgyzstan_2.svg\" alt=\"kyrgyzstan_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/XzdSvE1tYSGETnBe6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Kyrgyzstan</a> - Bishkek, Chüy Region: Ysyk-Ata, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/laos.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/laos.svg\" alt=\"laos_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/4ShatJsZEswLZTTr9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Laos</a> - Pakse, Champasak Province: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/laos_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/laos_2.svg\" alt=\"laos_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/jS5SAq8bjPP8dBwP8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Laos</a> - Vientiane, Vientiane Prefecture: Sisattanak, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/laos_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/laos_3.svg\" alt=\"laos_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ZSoFz2n3ohKpS62VA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Laos</a> - Vientiane, Vientiane Prefecture: Chanthabuly, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/laos_4.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/laos_4.svg\" alt=\"laos_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/wh441vd2P6Y5nMuk9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Laos</a> - Vientiane, Vientiane Prefecture: Chanthabuly, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/laos_5.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/laos_5.svg\" alt=\"laos_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/kPUgQheVWeuVjm2U9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Laos</a> - Luang Prabang, Luang Prabang Province: Luangprabang, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/laos_6.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/laos_6.svg\" alt=\"laos_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Munj3kMvtKi4mjjz5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Laos</a> - Vientiane, Vientiane Prefecture: Chanthabuly, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/macau.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/macau.jpg\" alt=\"macau_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/tNu7kVBvCHb4yoBX9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Macau</a> - : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/macau_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/macau_2.jpg\" alt=\"macau_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/w8m6Gt2dEgbJGU7j9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Macau</a> - : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/macau_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/macau_3.jpg\" alt=\"macau_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/CtemeFHCDJdr6EnK8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Macau</a> - : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/malaysia.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/malaysia.svg\" alt=\"malaysia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/KNtgM5ix7iQimZyL8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Malaysia</a> - Kuching, Sarawak: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/malaysia_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/malaysia_2.svg\" alt=\"malaysia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/x5AtyLmERd3Nmp5q8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Malaysia</a> - Klang, Selangor: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/malaysia_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/malaysia_3.svg\" alt=\"malaysia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/KGBsAbqboGs6ktAG8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Malaysia</a> - Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/malaysia_4.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/malaysia_4.svg\" alt=\"malaysia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/LUDFTipDgHkuMc9U8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Malaysia</a> - Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/malaysia_5.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/malaysia_5.svg\" alt=\"malaysia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/zP1wpUudrTbaui4U6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Malaysia</a> - Kuching, Sarawak: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/malaysia_6.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/malaysia_6.svg\" alt=\"malaysia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/WihaTn3UCSJ9WiKP8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Malaysia</a> - Kuching, Sarawak: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/malaysia_7.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/malaysia_7.jpg\" alt=\"malaysia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/PLS38uPpvEL1z6d37\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Malaysia</a> - Tawau, Sabah: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/malaysia_8.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/malaysia_8.svg\" alt=\"malaysia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/LHSUpPLtaLKWoZjP8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Malaysia</a> - Balik Pulau, Penang: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/malaysia_9.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/malaysia_9.svg\" alt=\"malaysia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/cAB6efNc3egkV5Mb8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Malaysia</a> - Johor Bahru, Johor: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/mongolia.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/mongolia.svg\" alt=\"mongolia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Hv4jx7TNk3ePirZb8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Mongolia</a> - Ulaanbaatar, Ulaanbaatar: Chingeltei, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/mongolia_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/mongolia_2.svg\" alt=\"mongolia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/UMuUS1qJ2NUCANCW6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Mongolia</a> - Ulaanbaatar, Ulaanbaatar: Sukhbaatar, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/philippines.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/philippines.svg\" alt=\"philippines_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/4Bax8Jdgvzq4R6PQ8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Philippines</a> - Manila, Metro Manila: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/philippines_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/philippines_2.svg\" alt=\"philippines_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ekZn9nwLz2MTcnWu8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Philippines</a> - Baguio, Cordillera Administrative Region: Benguet, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/russia.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/russia.svg\" alt=\"russia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/b2HrkrqExHhWfmtq9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Russia</a> - Khabarovsk, Khabarovskiy kray: Gorod Khabarovsk, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/singapore.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/singapore.svg\" alt=\"singapore_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/3LoFCVd9UPbZVakz8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Singapore</a> - Singapore, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/singapore_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/singapore_2.svg\" alt=\"singapore_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/8LXBLfxkV4kyzujL7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Singapore</a> - Singapore, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/south_korea.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/south_korea.svg\" alt=\"south_korea_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/YhDWtzFY31cxuQZV9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">South Korea</a> - 중구, 서울특별시: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/south_korea_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/south_korea_2.svg\" alt=\"south_korea_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/RcWCjpVA7tHEEahx8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">South Korea</a> - Seogwipo, Jeju-do: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/south_korea_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/south_korea_3.svg\" alt=\"south_korea_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/4mphu1ayhaHJkbbBA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">South Korea</a> - Daebang-dong, Seoul: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/south_korea_4.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/south_korea_4.svg\" alt=\"south_korea_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/k64DxTNSyu34MEi8A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">South Korea</a> - Sindaebang-dong, Seoul: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/south_korea_5.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/south_korea_5.svg\" alt=\"south_korea_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/JsACG4cAHBUeZGp56\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">South Korea</a> - Seogwipo, Jeju-do: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/south_korea_6.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/south_korea_6.svg\" alt=\"south_korea_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Srg1C7bYTx7bQMBLA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">South Korea</a> - Yeonsan-dong, Busan: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/south_korea_7.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/south_korea_7.svg\" alt=\"south_korea_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/DYqtGXSF4gvgTqfH6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">South Korea</a> - Sinpung-ro, Seoul: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/sri_lanka.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/sri_lanka.jpg\" alt=\"sri_lanka_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/NwC1oWY5v6zvDD5C9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Sri Lanka</a> - Galle, Southern Province: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/sri_lanka_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/sri_lanka_2.svg\" alt=\"sri_lanka_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/5bs4QUApCLQfj4ZP8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Sri Lanka</a> - Nuwara Eliya, Central Province: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/sri_lanka_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/sri_lanka_3.svg\" alt=\"sri_lanka_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/kXurQLrbRJfcQkBL6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Sri Lanka</a> - Colombo, Western Province: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/sri_lanka_4.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/sri_lanka_4.svg\" alt=\"sri_lanka_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ATJmhqFqAxeUL3477\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Sri Lanka</a> - North Central Province: Polonnaruwa, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/sri_lanka_5.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/sri_lanka_5.jpg\" alt=\"sri_lanka_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/zqBYuEyYWE3yZyyB8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Sri Lanka</a> - Anuradhapura, North Central Province: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/sri_lanka_6.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/sri_lanka_6.svg\" alt=\"sri_lanka_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/c5Y26xXcxzPKKeNdA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Sri Lanka</a> - Pottuvil, Eastern Province: Ampara, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/taiwan.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/taiwan.svg\" alt=\"taiwan_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/4oQVtZpUVEk2DuXp8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Taiwan</a> - Taipei City: Da’an District, 龍坡里"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/thailand.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/thailand.svg\" alt=\"thailand_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/89KrUpEfEUGWjPAF8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Thailand</a> - Khwaeng Wat Phraya Krai, Krung Thep Maha Nakhon: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/thailand_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/thailand_2.svg\" alt=\"thailand_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/KVcdYxQJJrUVpLwHA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Thailand</a> - Khwaeng Wat Bowon Niwet, Krung Thep Maha Nakhon: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/uae.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/uae.svg\" alt=\"uae_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/5kb6F7bjUBH6Cukh7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">United Arab Emirates</a> - Dubai, Dubai: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/uae_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/uae_2.svg\" alt=\"uae_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/8ydUqh8jPs3odJeX7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">United Arab Emirates</a> - Dubai, Dubai: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/albania.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/albania.svg\" alt=\"albania_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Y67CBjJX5DiaqHCB8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Albania</a> - Tirana, Tirana County: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/albania_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/albania_2.svg\" alt=\"albania_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/GddEuAq1rja1DAR4A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Albania</a> - Tirana, Tirana County: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/andorra.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/andorra.svg\" alt=\"andorra_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/RnHgzZbRH4LeMk418\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Andorra</a> - Escaldes-Engordany, Escaldes-Engordany: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/andorra_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/andorra_2.svg\" alt=\"andorra_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/7R1uzuCnZvYJWcg78\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Andorra</a> - Andorra la Vella, Andorra la Vella: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/andorra_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/andorra_3.svg\" alt=\"andorra_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/P1FjA85R6q8wdfCN6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Andorra</a> - Engordany, Encamp: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/austria.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/austria.svg\" alt=\"aurstia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/5AZcEKttgzYm86qu9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Austria</a> - Graz, Steiermark: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/austria_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/austria_2.svg\" alt=\"aurstia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/cggaBMVEzzrjuvSu7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Austria</a> - Wien, Wien: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/belarus.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/belarus.svg\" alt=\"berlarus_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/WbxRxvJS9Y7uy7m4A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Belarus</a> - Minsk, Minskaja voblasć: Minski rajon, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/belarus_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/belarus_2.svg\" alt=\"berlarus_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/TmbcUjbHdYT8WaJb9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Belarus</a> - Minsk, Minskaja voblasć: Minski rajon, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/belgium.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/belgium.svg\" alt=\"belgium_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/c5JRZ1u4Vo6dnPPv5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Belgium</a> - Lommel, Vlaams Gewest: Limburg, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/bulgaria.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/bulgaria.svg\" alt=\"bulgaria_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/h78g4X14goZJjXHUA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bulgaria</a> - Sofia, Sofia City Province: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/croatia.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/croatia.svg\" alt=\"croatia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/UAoj9LCcitjfUuay7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Croatia</a> - Zagreb, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/croatia_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/croatia_2.svg\" alt=\"croatia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/rJJXZ9oqKm9zTcVu7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Croatia</a> - Sračinec, Varaždinska županija: Općina Sračinec, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/czech_republic.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/czech_republic.svg\" alt=\"czech_republic_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/GvKCAmTZhg4We6yZ7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Czech Republic</a> - Praha 6, Hlavní město Praha: Hlavní město Praha, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/czech_republic_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/czech_republic_2.svg\" alt=\"czech_republic_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/RDBhLYF6HcKEaUCX7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Czech Republic</a> - Praha 3, Hlavní město Praha: Hlavní město Praha, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/denmark.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/denmark.svg\" alt=\"denmark_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/yMdwP5RVwFsLLUsA6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Denmark</a> - København, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/denmark_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/denmark_2.svg\" alt=\"denmark_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/f86tT2k98QMjt8Yw7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Denmark</a> - København, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/estonia.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/estonia.svg\" alt=\"estonia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/F1KTuwxpsr6UeiwG6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Estonia</a> - Paide, Järva maakond: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/faroe_islands.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/faroe_islands.svg\" alt=\"faroe_islands_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/b6Twa6gH6bfL7wNeA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Faroe Islands</a> - Runavík, Eysturoyar: Runavíkar, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/faroe_islands_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/faroe_islands_2.svg\" alt=\"faroe_islands_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/aesNgb7pa3NFAAcs7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Faroe Islands</a> - Thorshavn, Streymoyar: Tórshavnar, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/faroe_islands_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/faroe_islands_3.svg\" alt=\"faroe_islands_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/b4ssmEXGmgP8FAWy7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Faroe Islands</a> - Tórshavn, Streymoyar: Tórshavnar, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/finland.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/finland.svg\" alt=\"finland_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/sTjbcFb3PVGxtpta8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Finland</a> - Nokia, Pirkanmaa: Tampere, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/finland_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/finland_2.svg\" alt=\"finland_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/isu7N3dpsjqUn4jU8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Finland</a> - Uusimaa: Helsinki, Sipoo"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/france.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/france.svg\" alt=\"france_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/G2XgCL3oWjDMa4g26\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">France</a> - Vitry-sur-Seine, Île-de-France: Val-de-Marne, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/france_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/france_2.svg\" alt=\"france_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/gQsFLrbyYQnJJaus7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">France</a> - Antony, Île-de-France: Hauts-de-Seine, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/france_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/france_3.svg\" alt=\"france_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/kMx2HZFvvuRkHqGQ7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">France</a> - Saint-Illiers-la-ville, Île-de-France: Yvelines, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/germany.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/germany.svg\" alt=\"germany_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/rzwXWtXbyY9UzAiWA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Germany</a> - Hannover, Niedersachsen: Region Hannover"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/germany_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/germany_2.svg\" alt=\"germany_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/EX4UEeppsV9YWfPh7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Germany</a> - Hannover, Niedersachsen: Region Hannover"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/gibraltar.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/gibraltar.svg\" alt=\"gibraltar_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/CH5QqBwvG1x6epWf6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Gibraltar</a> - Gibraltar, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/greece.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/greece.svg\" alt=\"greece_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/QKBZ7vjLm8h7id9A8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Greece</a> - Thessaloniki, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/greece_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/greece_2.svg\" alt=\"greece_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/yuce646zL6XHgTgb8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Greece</a> - Kallithea, : Notios Tomeas Athinon"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/hungary.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/hungary.svg\" alt=\"hungary_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/HfCT3AsW4ztFxD418\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Hungary</a> - Budapest, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/hungary_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/hungary_2.svg\" alt=\"hungary_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/FqRCVsSDPWeo3xhe7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Hungary</a> - Budapest, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/hungary_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/hungary_3.svg\" alt=\"hungary_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Qh8aEbZRKjvz6Mn58\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Hungary</a> - Budapest, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/iceland.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/iceland.svg\" alt=\"iceland_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/e9E3yTY7iJamwfCS8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Iceland</a> - Reykjavík, Reykjavíkurborg: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/ireland.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/ireland.svg\" alt=\"ireland_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/JzW7jdK4kLHHFmg88\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ireland</a> - Tramore, County Waterford: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/ireland_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/ireland_2.svg\" alt=\"ireland_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/m3veLjRvesYDRiMcA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ireland</a> - Midleton, County Cork: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/ireland_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/ireland_3.svg\" alt=\"ireland_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/NKi5nR6YfNsay2e89\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ireland</a> - Dooradoyle, County Limerick: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/isle_of_man.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/isle_of_man.svg\" alt=\"isle_of_man_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/5pZCmvcRp1Hps4dRA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Isle of Man</a> - Douglas, Douglas: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/isle_of_man_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/isle_of_man_2.svg\" alt=\"isle_of_man_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/D99dcFdM82QevS21A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Isle of Man</a> - Malew: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/italy.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/italy.svg\" alt=\"italy_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/GSUmUZPY8rhaxJUu8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Italy</a> - Roma, Lazio: Città metropolitana di Roma Capitale, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/italy_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/italy_2.svg\" alt=\"italy_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Mq8dTPuiVSMjtJjL8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Italy</a> - Sassari, Sardegna: Provincia di Sassari, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/jersey.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/jersey.svg\" alt=\"jersey_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/eCzAKJngjViwgTg76\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Jersey</a> - Saint Helier, St Helier: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/latvia.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/latvia.svg\" alt=\"latvia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/JmqSRYstGoJupQxJ7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Latvia</a> - Aizkraukle, Aizkraukles novads: Aizkraukle pilsēta, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/lithuania.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/lithuania.svg\" alt=\"lithuania_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/gh95ieaMC7UzanN29\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Lithuania</a> - Pagėgiai, Tauragės apskritis: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/lithuania_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/lithuania_2.svg\" alt=\"lithuania_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/vuiUrHX5nigPgKhK8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Lithuania</a> - Dovainonys, Kauno apskritis: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/luxembourg.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/luxembourg.svg\" alt=\"luxembourg_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/f2NPm6fsNUed4D4S7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Luxembourg</a> - Biwer, Gréiwemaacher: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/luxembourg_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/luxembourg_2.svg\" alt=\"luxembourg_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/k11bnFtzDfpAxnvG7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Luxembourg</a> - Esch-sur-Alzette, Esch-sur-Alzette: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/luxembourg_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/luxembourg_3.svg\" alt=\"luxembourg_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/z3aLpJL6XckY8dju8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Luxembourg</a> - Esch-sur-Alzette, Esch-sur-Alzette: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/malta.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/malta.svg\" alt=\"malta_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/YZn4CF9UKyykU8TJ9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Malta</a> - Tas-Sliema, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/malta_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/malta_2.svg\" alt=\"malta_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/sxZxs7jmY2iV7HbT8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Malta</a> - Tas-Sliema, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/malta_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/malta_3.svg\" alt=\"malta_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/uGgnXjqAuKSRKmSr9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Malta</a> - San Ġiljan, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/malta_4.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/malta_4.svg\" alt=\"malta_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/bmCTmv74d1KzAgEf7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Malta</a> - : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/monaco.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/monaco.svg\" alt=\"monaco_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/GTwdFpJ5M2e8XqoF9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Monaco</a> - Monaco, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/monaco_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/monaco_2.jpg\" alt=\"monaco_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/DHjKiTEB9ZNptBr36\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Monaco</a> - Monaco, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/monaco_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/monaco_3.svg\" alt=\"monaco_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/GRyrhPeqxLg96Pfd7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Monaco</a> - Monaco, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/montenegro.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/montenegro.svg\" alt=\"montenegro_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/muiQTp79Gv58yjtP9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Montenegro</a> - Podgorica, Podgorica Municipality: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/montenegro_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/montenegro_2.svg\" alt=\"montenegro_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/X2m7vuiQwmw97Do3A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Montenegro</a> - Podgorica, Glavni grad Podgorica: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/montenegro_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/montenegro_3.jpg\" alt=\"montenegro_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ab7PZcK1zL5KTN888\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Montenegro</a> - Tivat, Tivat Municipality: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/montenegro_4.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/montenegro_4.svg\" alt=\"montenegro_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/QpmkpQZGBdQXeGta8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Montenegro</a> - Nikšić, Opština Nikšić: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/montenegro_5.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/montenegro_5.svg\" alt=\"montenegro_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/SJEdG93pMeyHiVy87\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Montenegro</a> - Goričani, Podgorica Municipality: Golubovci Urban Municipality, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/netherlands.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/netherlands.svg\" alt=\"netherlands_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/cRgWaCVqNd5gi9rXA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Netherlands</a> - Amersfoort, Utrecht: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/north_macedonia.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/north_macedonia.svg\" alt=\"north_macedonia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/11GL9TxnLpTVxxBd9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">North Macedonia</a> - Skopje, Greater Skopje: Karpoš, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/north_macedonia_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/north_macedonia_2.svg\" alt=\"north_macedonia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/FZFhpymafpUoHbKa7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">North Macedonia</a> - Skopje, Greater Skopje: Karpoš, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/north_macedonia_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/north_macedonia_3.svg\" alt=\"north_macedonia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/pmUq2YBBZTDkLEy58\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">North Macedonia</a> - Skopje, Greater Skopje: Karpoš, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/north_macedonia_4.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/north_macedonia_4.svg\" alt=\"north_macedonia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/J844WP8GtwFzbBuf6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">North Macedonia</a> - Prilep, Prilep Municipality: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/norway.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/norway.svg\" alt=\"norway_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/f9Q2i2eTivziSMJH7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Norway</a> - Oslo: Oslo kommune, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/norway_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/norway_2.svg\" alt=\"norway_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/uHo6dBQVBoFtoPjw5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Norway</a> - Sentrum, Oslo: Oslo kommune, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/norway_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/norway_3.svg\" alt=\"norway_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/mCHFkjssiggq3HwW9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Norway</a> - Troms og Finnmark: Tromsø, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/poland.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/poland.svg\" alt=\"poland_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ruguGkM2v1Vybr3f7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Poland</a> - Łódź, Łódzkie: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/poland_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/poland_2.svg\" alt=\"poland_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/s6XgWhW2QjqGprVD8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Poland</a> - Bydgoszcz, Kujawsko-Pomorskie: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/portugal.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/portugal.svg\" alt=\"portugal_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ZG946x29Gt2kdQUc8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Portugal</a> - Lisboa, Lisboa: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/portugal_4.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/portugal_4.svg\" alt=\"portugal_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/17mZMNjt88jmNzyP9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Portugal</a> - Cruz Quebrada, Lisboa: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/portugal_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/portugal_3.jpg\" alt=\"portugal_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/5rxSrzG8cg5nGAqL8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Portugal</a> - Lisboa, Lisboa: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/portugal_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/portugal_2.jpg\" alt=\"portugal_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/MZXAvwx6iGcUFSLg8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Portugal</a> - Lisboa, Lisboa: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/romania.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/romania.svg\" alt=\"romania_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/xY1P76UutLXHsstD9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Romania</a> - Brașov, Județul Brașov: Municipiu Braşov, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/romania_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/romania_2.svg\" alt=\"romania_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/f8BoxdehNKg4kX8HA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Romania</a> - Constanța, Județul Constanța: Municipiul Constanța, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/san_marino.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/san_marino.svg\" alt=\"san_marino_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/yDjsxwWeJqnZhZHA7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">San Marino</a> - Serravalle, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/san_marino_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/san_marino_2.svg\" alt=\"san_marino_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ptV2xc8iwEqgvqoEA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">San Marino</a> - Serravalle, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/serbia.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/serbia.svg\" alt=\"serbia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/uekGgTQyTBA8U1XEA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Serbia</a> - Beograd, : Grad Beograd, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/serbia_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/serbia_2.svg\" alt=\"serbia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/MaV3bvnEiZMa7Xtm6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Serbia</a> - Niš, : Nišavski okrug, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/slovakia.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/slovakia.svg\" alt=\"slovakia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/1P7ZYakuHSAHYtUG6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Slovakia</a> - Bratislava, Bratislavský kraj: Bratislava I, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/slovakia_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/slovakia_2.svg\" alt=\"slovakia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/aHU45WycygsaBgsF8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Slovakia</a> - Bratislava, Bratislavský kraj: Bratislava I, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/slovakia_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/slovakia_3.svg\" alt=\"slovakia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/VUPL2bUTxnkhQkUx7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Slovakia</a> - Brezno, Banskobystrický kraj: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/slovakia_4.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/slovakia_4.svg\" alt=\"slovakia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ACvfUiLtrrgMqfYE8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Slovakia</a> - Nové Zámky, Nitriansky kraj: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/slovakia_5.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/slovakia_5.svg\" alt=\"slovakia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/bLxaVRJiZqWn5iXv5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Slovakia</a> - Piešťany, Trnavský kraj: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/slovenia.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/slovenia.svg\" alt=\"slovenia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Z6jHcDyzsjVPnpWQ7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Slovenia</a> - Ljubljana: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/slovenia_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/slovenia_2.svg\" alt=\"slovenia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/LPUWbg9NsvhxQUMS6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Slovenia</a> - Ljubljana: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/slovenia_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/slovenia_3.svg\" alt=\"slovenia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/4PG9WdHMLdNxYh3LA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Slovenia</a> - Nova Gorica: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/spain.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/spain.svg\" alt=\"spain_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/3GREfd13oAJBnUGRA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Spain</a> - Madrid, Comunidad de Madrid: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/spain_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/spain_2.svg\" alt=\"spain_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/P7L3uGtfXNBHaHNh6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Spain</a> - Madrid, Comunidad de Madrid: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/spain_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/spain_3.svg\" alt=\"spain_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/44jmr3gyHq227d7h9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Spain</a> - Nigrán, Galicia: Pontevedra, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/spain_4.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/spain_4.svg\" alt=\"spain_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/XYAvgraFGvxLq92T9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Spain</a> - Fuenlabrada, Comunidad de Madrid: Madrid, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/spain_5.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/spain_5.svg\" alt=\"spain_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/zrTjt6p7u1CF7urH9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Spain</a> - Alhama de Murcia, Región de Murcia: Murcia, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/spain_6.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/spain_6.svg\" alt=\"spain_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Tmuwwj54srSSL9rL6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Spain</a> - Alhama de Murcia, Región de Murcia: Murcia, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/sweden.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/sweden.svg\" alt=\"sweden_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/dkwuGkDeMzxdKyJ86\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Sweden</a> - Södermalm, Stockholms län: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/sweden_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/sweden_2.svg\" alt=\"sweden_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/NeME1YVBbL5s6pHz9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Sweden</a> - Södermalm, Stockholms län: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/sweden_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/sweden_3.svg\" alt=\"sweden_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/XshLJSWFDDvY63GJ7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Sweden</a> - Södermalm, Stockholms län: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/switzerland.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/switzerland.svg\" alt=\"switzerland_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/JaGy2t2cvf8dHVfp9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Switzerland</a> - Winterthur, Zürich: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/switzerland_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/switzerland_2.svg\" alt=\"switzerland_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/QZcqLNwHqSfKpcVm7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Switzerland</a> - Zürich, Zürich: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/switzerland_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/switzerland_3.svg\" alt=\"switzerland_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/C51Hm6vKGc9hZNkV9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Switzerland</a> - Zürich, Zürich: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/turkey.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/turkey.svg\" alt=\"turkey_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/DHLzPGbXjk2hM1oV9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Turkey</a> - Ankara: Çankaya, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/turkey_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/turkey_2.svg\" alt=\"turkey_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/A6xJcPBkVNRNLWFS8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Turkey</a> - İstanbul: Bahçelievler, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/turkey_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/turkey_3.svg\" alt=\"turkey_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/N2gAdXNCD1peYVYS9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Turkey</a> - Kayseri: Melikgazi, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/turkey_4.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/turkey_4.svg\" alt=\"turkey_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/2qcrR9DfUxx4oi6W9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Turkey</a> - Kayseri: Melikgazi, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/turkey_5.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/turkey_5.jpg\" alt=\"turkey_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/p1uF4kbKmCJ6wdVL7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Turkey</a> - Ardahan: Ardahan Merkez, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/ukraine.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/ukraine.svg\" alt=\"ukraine_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/gY1AXrakPFMng6pU7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ukraine</a> - Rakhiv, Zakarpats'ka oblast: Rakhivs'kyi district, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/uk.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/uk.svg\" alt=\"uk_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/YHmmGLFYLZLvpP6G6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">United Kingdom</a> - England: Greater London, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/bermuda.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/bermuda.svg\" alt=\"bermuda_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/JjgwLap2Eyvqrbv1A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bermuda</a> - Hamilton, Pembroke Parish: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada.svg\" alt=\"canada_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/VYmqWQQ2XiU93caa6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - British Columbia, Saskatchewan, Nova Scotia, Newfoundland and Labrador, Northwest Territories, Yukon</a> - Prince George, British Columbia: Fraser-Fort George, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_2.svg\" alt=\"canada_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ZJcifTq42gyL2j7Y7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Alberta, Saskatchewan, Manitoba, Ontario, New Brunswick, Prince Edward Island</a> - Edmonton, Alberta: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_3.svg\" alt=\"canada_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/LeQKHMcjx8V1jNYJ8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Alberta, Ontario</a> - Medicine Hat, Alberta: Cypress County, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_4.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_4.svg\" alt=\"canada_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Mxot8wwpjW6iCmng8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Manitoba</a> - Thompson, Manitoba: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_5.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_5.svg\" alt=\"canada_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Y1VpXYhLtnYWeibg8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Quebec</a> - Laval, Québec: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_6.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_6.svg\" alt=\"canada_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/LjXEWb8ii5vQsryEA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Quebec</a> - Laval, Québec: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_7.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_7.svg\" alt=\"canada_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/4eVyxMCwEdtWDTNBA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Nova Scotia, Newfoundland and Labrador, Prince EdwardIsland Canada</a> - Sydney, Nova Scotia: Cape Breton Regional Municipality, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_8.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_8.svg\" alt=\"canada_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/VFgvhpJC825GVcqt9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Newfoundland and Labrador</a> - Churchill Falls, Newfoundland and Labrador: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_9.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_9.svg\" alt=\"canada_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/EshobiWWPZmUtYte9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Newfoundland and Labrador</a> - Happy Valley-Goose Bay, Newfoundland and Labrador: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_10.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_10.svg\" alt=\"canada_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/dPsn4C3GSDwp5o9x8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Newfoundland and Labrador, Nunavut,AlbertaYukonPrince Edward Island</a> - Happy Valley-Goose Bay, Newfoundland and Labrador: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_11.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_11.svg\" alt=\"canada_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/8VJWynDbwKYR6dSt6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Nunavut</a> - Iqaluit, Nunavut: Qikiqtaaluk Region, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_12.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_12.svg\" alt=\"canada_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/DjSo9NXCkcDdKXY16\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Northwest Territories</a> - Inuvik, Northwest Territories: Inuvik Region, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_13.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_13.jpg\" alt=\"canada_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/StRra14U3jPDJYWg8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Ontario</a> - Cornwall, Ontario: Stormont, Dundas and Glengarry United Counties, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_14.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_14.svg\" alt=\"canada_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/pufWXjFdfxPv4pg48\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - British Columbia</a> - Squamish, British Columbia: Squamish-Lillooet, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_15.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_15.jpg\" alt=\"canada_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/9DAu9EcBr4YaBxJ77\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Newfoundland and Labrador</a> - Spaniard's Bay, Newfoundland and Labrador: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_17.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_17.svg\" alt=\"canada_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/VPMKkvZmDGZD8A748\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Alberta</a> - Alberta: Improvement District No. 9, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_20.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_20.svg\" alt=\"canada_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/edzuZobP9XbyogZj7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Ontario</a> - Matheson, Ontario: Cochrane District, Black River-Matheson"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_16.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_16.svg\" alt=\"canada_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/zq3kxyj9Wx7ZtPEo9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Alberta</a> - Banff, Alberta: Improvement District No. 9, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_18.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_18.svg\" alt=\"canada_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/5FZCuXMSHRVSBc5u9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Price Edward Island</a> - Borden-Carleton, Prince Edward Island: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_19.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_19.svg\" alt=\"canada_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/2hSEohqvzmHQjEQ79\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Price Edward Island</a> - Borden-Carleton, Prince Edward Island: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_21.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_21.svg\" alt=\"canada_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/LEmXyTBRf6Kuhyiq6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Newfoundland and Labrador</a> - Rocky Harbour, Newfoundland and Labrador: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/costa_rica.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/costa_rica.svg\" alt=\"costa_rica_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/HFAhhd7yXAqProSU8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Costa Rica</a> - Cartago, Cartago Province: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/curacao.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/curacao.svg\" alt=\"curacao_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/XUgzP5BjmHe6efx56\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Curaao</a> - Willemstad, Curaçao: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/curacao_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/curacao_2.svg\" alt=\"curacao_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/RHypsiCQuYcjCa4p8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Curaao</a> - Willemstad, Curaçao: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/dominican_republic.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/dominican_republic.jpg\" alt=\"dominican_republic_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/FJ65EqExWdmC2Acs7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Dominican Republic</a> - Santo Domingo, Distrito Nacional: Santo Domingo de Guzman, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/dominican_republic_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/dominican_republic_2.svg\" alt=\"dominican_republic_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/RwSEgHyPibPEm9tp6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Dominican Republic</a> - Santo Domingo, Distrito Nacional: Santo Domingo de Guzman, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/greenland.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/greenland.svg\" alt=\"greenland_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/BvjDfQjBvV56Azbr7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Greenland</a> - Nuuk, Sermersooq: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/greenland_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/greenland_2.svg\" alt=\"greenland_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/3ycwBtZEuGuDpYby6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Greenland</a> - Nuuk, Sermersooq: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/guatemala.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/guatemala.svg\" alt=\"guatemala_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/pLaGihTSY1R4prAe8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Guatemala</a> - Ciudad de Guatemala, Guatemala: Guatemala, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/mexico.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/mexico.svg\" alt=\"mexico_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/DP7VXRXQT5bfnmfD9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Mexico</a> - Mérida, Yucatán: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/puerto_rico.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/puerto_rico.svg\" alt=\"puerto_rico_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/GiKzDmFmBQV199qJ6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Puerto Rico</a> - San Juan, San Juan: Hato Rey Norte, Eleanor Roosevelt"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/puerto_rico_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/puerto_rico_2.svg\" alt=\"puerto_rico_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Ea2FEkUWse9nTmhi8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Puerto Rico</a> - San Juan, San Juan: Hato Rey Sur, La 37"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/united_states.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/united_states.svg\" alt=\"united_states_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/jafSe5WQgZYgznjZ8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">United States</a> - Nahant, Massachusetts: Essex County, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/united_states_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/united_states_2.svg\" alt=\"united_states_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Dcovn3D36zDNYVjV7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">United States</a> - Dallas, Texas: Dallas County, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/united_states_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/united_states_3.svg\" alt=\"united_states_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/yMtk97humLdiezpB8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">United States</a> - Washington, District of Columbia: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/united_states_4.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/united_states_4.svg\" alt=\"united_states_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/xSjULVM8iE46MifK6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">United States</a> - Los Angeles, California: Los Angeles County, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/us_virgin_islands.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/us_virgin_islands.svg\" alt=\"us_virgin_islands_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/jafSe5WQgZYgznjZ8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">US Virgin Islands</a> - Nahant, Massachusetts: Essex County, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/american_samoa.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/american_samoa.svg\" alt=\"american_samoa_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/83sVYBticdxrU2i67\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">American Samoa</a> - Pago Pago, Eastern District: Ma'oputasi County, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/australia.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/australia.svg\" alt=\"australia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ftNaRUdvPfDw9B8X6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a> - Mascot, New South Wales: Bayside Council, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/australia_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/australia_2.svg\" alt=\"australia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/5nP4uix1QsW11KZW9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a> - West Island, Shire of Cocos: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/australia_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/australia_3.svg\" alt=\"australia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/UFZjMUdK55ueJQno8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia - Queensland</a> - Whitfield, Queensland: Cairns Regional, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/australia_4.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/australia_4.svg\" alt=\"australia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/3Xx2DPdMK3eqQYoz7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a> - Coffs Harbour, New South Wales: Coffs Harbour City Council, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/australia_5.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/australia_5.svg\" alt=\"australia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/MQDrQAQyzyAnFvbg9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a> - Frenchs Forest, New South Wales: Northern Beaches Council, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/australia_6.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/australia_6.svg\" alt=\"australia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/wYRkcEwP83o8dUqz8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a> - Frenchs Forest, New South Wales: Northern Beaches Council, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/australia_7.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/australia_7.svg\" alt=\"australia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/2G4t7XNRSGoCGWo6A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia - Queensland</a> - Injune, Queensland: Maranoa Regional, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/australia_8.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/australia_8.svg\" alt=\"australia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/MXXZNYk4zZdXUC8T9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a> - Cremorne, New South Wales: North Sydney Council, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/australia_9.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/australia_9.svg\" alt=\"australia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/n3Df4hQH6zuaqKVu7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a> - Box Hill, Victoria: Whitehorse City, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/australia_10.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/australia_10.svg\" alt=\"australia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/DEB7tPMo4hthpZFU7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a> - Hobart, Tasmania: City of Hobart, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/australia_11.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/australia_11.svg\" alt=\"australia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/mgBarxU8ciFFj7G67\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a> - Killara, New South Wales: Ku-ring-gai Council, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/australia_12.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/australia_12.svg\" alt=\"australia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/wdWcX8MzvnrRXfUf7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a> - Chullora, New South Wales: City of Canterbury-Bankstown, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/guam.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/guam.svg\" alt=\"guam_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/u8JjeAaqDX4jhMAT6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Guam</a> - Hagåtña, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/guam_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/guam_2.svg\" alt=\"guam_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/A76wn8nut4ck5FKP7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Guam</a> - Tumon, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/new_zealand.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/new_zealand.svg\" alt=\"new_zealand_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/P3FBprZZxXFPC7QC8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">New Zealand</a> - Invercargill, Southland: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/new_zealand_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/new_zealand_2.svg\" alt=\"new_zealand_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ctq3LhzRciaKvr2G6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">New Zealand</a> - Wellington, Wellington: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/northern_mariana_islands.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/northern_mariana_islands.svg\" alt=\"northern_mariana_islands_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/kLRuHe22BvrqzyKE9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Northern Mariana Islands</a> - Garapan, Saipan: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/northern_mariana_islands_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/northern_mariana_islands_2.svg\" alt=\"northern_mariana_islands_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ku2kQfpfzWPGrDd1A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Northern Mariana Islands</a> - Garapan, Saipan: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/argentina.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/argentina.jpg\" alt=\"argentina_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/aedbgYRfxtPWJPaS6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Argentina</a> - Buenos Aires, Buenos Aires: Comuna 1, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/argentina_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/argentina_2.jpg\" alt=\"argentina_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/AqyhUtABT2U1jPZo8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Argentina</a> - Buenos Aires, Buenos Aires: Comuna 1, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/argentina_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/argentina_3.jpg\" alt=\"argentina_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/tK1QSYeP9YRA6xdj7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Argentina</a> - Buenos Aires, Buenos Aires: Comuna 4, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/argentina_4.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/argentina_4.jpg\" alt=\"argentina_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/kKNdPVJaDC96hPqu6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Argentina</a> - Rosario, Santa Fe: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/bolivia.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/bolivia.svg\" alt=\"bolivia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/QgYCTQRMavqr7xXu8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bolivia</a> - El Alto, La Paz Department: Pedro Domingo Murillo Province, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/bolivia_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/bolivia_2.svg\" alt=\"bolivia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/bZgjakQhuzTw69hNA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bolivia</a> - Cochabamba, Departamento de Cochabamba: Cercado, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/brazil.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/brazil.svg\" alt=\"brazil_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/TrKpMm7s7bEtGKk99\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Brazil</a> - Comércio Local Sul 302, Distrito Federal: Brasília, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/brazil_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/brazil_2.svg\" alt=\"brazil_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/v8j5aXRkUPjFJ4Pj8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Brazil</a> - UnB, Distrito Federal: Brasília, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/brazil_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/brazil_3.svg\" alt=\"brazil_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/SXB1GduyXwpZJZTbA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Brazil</a> - Alagoas: Água Branca, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/brazil_4.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/brazil_4.svg\" alt=\"brazil_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/dhFQdCwCWSPDiFU89\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Brazil</a> - Jardim Felicidade, Amapá: Macapá, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/brazil_5.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/brazil_5.svg\" alt=\"brazil_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ciG4A2AWJJNx4SnW7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Brazil</a> - Mato Grosso: Cuiabá, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/brazil_6.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/brazil_6.svg\" alt=\"brazil_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/9rs65P8gjwLmfTpv5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Brazil</a> - Vila Sao Joao, Paraíba: Cabedelo, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/chile.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/chile.svg\" alt=\"chile_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/oWAciCp4tci69RyF7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Chile</a> - Santiago, Región Metropolitana: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/chile_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/chile_2.svg\" alt=\"chile_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/YHahjtCG6fLVfDvc9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Chile</a> - Santiago, Región Metropolitana: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/colombia.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/colombia.svg\" alt=\"colombia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/dyQVPFkdLLFBJQvH8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Colombia</a> - Bogotá, Bogotá: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/colombia_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/colombia_2.svg\" alt=\"colombia_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/WDxPHWzdWa6n3nnNA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Colombia</a> - Bogotá, Bogotá: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/ecuador.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/ecuador.svg\" alt=\"ecuador_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/CPXJRttkud3NJ97X8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ecuador</a> - Quito, Pichincha: Distrito Metropolitano de Quito, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/ecuador_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/ecuador_2.jpg\" alt=\"ecuador_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/CaEHR7VnYYgx95Eq8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ecuador</a> - Quito, Pichincha: Distrito Metropolitano de Quito, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/ecuador_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/ecuador_3.svg\" alt=\"ecuador_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/rTA4hGPzgVX2FNPu9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ecuador</a> - Quito, Pichincha: Distrito Metropolitano de Quito, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/ecuador_4.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/ecuador_4.svg\" alt=\"ecuador_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/VwLoWB1T6U7tfGYS8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ecuador</a> - Tabacundo, Pichincha: Pedro Moncayo, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/ecuador_5.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/ecuador_5.svg\" alt=\"ecuador_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/rNkjqNin6SB5a36N9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ecuador</a> - Bolívar, Carchi: Bolivar, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/ecuador_6.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/ecuador_6.jpg\" alt=\"ecuador_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/giPsorLgmvwSJfkf6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ecuador</a> - Puerto Cayo, Manabí: Jipijapa, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/peru.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/peru.svg\" alt=\"peru_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/WGpoNzTCZuSfs4xt7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Peru</a> - Pueblo Libre, Provincia de Lima: Lima, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/uruguay.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/uruguay.jpg\" alt=\"uruguay_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Wu7fmsvB4NtWEnFTA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Uruguay</a> - Florida, Florida Department: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/uruguay_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/uruguay_2.svg\" alt=\"uruguay_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/76pFpyaxSztN6YyE6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Uruguay</a> - Treinta y Tres, Departamento de Treinta y Tres: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/uruguay_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/uruguay_3.jpg\" alt=\"uruguay_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/PothVZP9uxnpnbY47\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Uruguay</a> - Tacuarembó, Departamento de Tacuarembó: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/uruguay_4.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/uruguay_4.jpg\" alt=\"uruguay_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/x71fYsKepcpFnwbM9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Uruguay</a> - Minas, Departamento de Lavalleja: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/uruguay_5.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/uruguay_5.svg\" alt=\"uruguay_pedestrian\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/uVmcuJHGADsoUDp59\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Uruguay</a> - Florida, Departamento de Florida: "
+  }
+]
