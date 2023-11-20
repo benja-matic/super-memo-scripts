@@ -888,12 +888,52 @@
     "answer": "<a href=\"https://goo.gl/maps/JjgwLap2Eyvqrbv1A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bermuda</a> - Hamilton, Pembroke Parish: "
   },
   {
-    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada.svg\" alt=\"canada_pedestrian\" /></a>",
-    "answer": "<a href=\"https://goo.gl/maps/VYmqWQQ2XiU93caa6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - British Columbia, Saskatchewan, Nova Scotia, Newfoundland and Labrador, Northwest Territories, Yukon</a> - Prince George, British Columbia: Fraser-Fort George, "
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"canada_pedestrian\" /></a> West Coast - Not Yukon",
+    "answer": "<a href=\"https://goo.gl/maps/VYmqWQQ2XiU93caa6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - British Columbia</a> - Prince George, British Columbia: Fraser-Fort George, "
   },
   {
-    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_2.svg\" alt=\"canada_pedestrian\" /></a>",
-    "answer": "<a href=\"https://goo.gl/maps/ZJcifTq42gyL2j7Y7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Alberta, Saskatchewan, Manitoba, Ontario, New Brunswick, Prince Edward Island</a> - Edmonton, Alberta: "
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"canada_pedestrian\" /></a> West Coast - Not British Columbia",
+    "answer": "<a href=\"https://goo.gl/maps/VYmqWQQ2XiU93caa6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Yukon</a>"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"canada_pedestrian\" /></a> Central - Not Northwest Territories",
+    "answer": "<a href=\"https://goo.gl/maps/VYmqWQQ2XiU93caa6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Saskatchewan</a> - Prince George, British Columbia: Fraser-Fort George, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"canada_pedestrian\" /></a> Central - Not Saskatchewan",
+    "answer": "<a href=\"https://goo.gl/maps/VYmqWQQ2XiU93caa6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Northwest Territories</a> - Prince George, British Columbia: Fraser-Fort George, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"canada_pedestrian\" /></a> East Coast - Not Newfoundland and Labrador",
+    "answer": "<a href=\"https://goo.gl/maps/VYmqWQQ2XiU93caa6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Nova Scotia</a> - Prince George, British Columbia: Fraser-Fort George, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"canada_pedestrian\" /></a> East Coast - Not Nova Scotia",
+    "answer": "<a href=\"https://goo.gl/maps/VYmqWQQ2XiU93caa6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Newfoundland and Labrador</a> - Prince George, British Columbia: Fraser-Fort George, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_2.svg\" alt=\"canada_pedestrian\" /></a> Central - Not Alberta, Saskatchewan",
+    "answer": "<a href=\"https://goo.gl/maps/ZJcifTq42gyL2j7Y7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Manitoba</a> - Edmonton, Alberta: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_2.svg\" alt=\"canada_pedestrian\" /></a> Central - Not Alberta, Manitoba",
+    "answer": "<a href=\"https://goo.gl/maps/ZJcifTq42gyL2j7Y7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Saskatchewan</a> - Edmonton, Alberta: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_2.svg\" alt=\"canada_pedestrian\" /></a> Central - Not Saskatchewan, Manitoba",
+    "answer": "<a href=\"https://goo.gl/maps/ZJcifTq42gyL2j7Y7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Alberta</a> - Edmonton, Alberta: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_2.svg\" alt=\"canada_pedestrian\" /></a> East Coat - Not Ontario, New Brunswick",
+    "answer": "<a href=\"https://goo.gl/maps/ZJcifTq42gyL2j7Y7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Prince Edward Island</a> - Edmonton, Alberta: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_2.svg\" alt=\"canada_pedestrian\" /></a> Not  New Brunswick, Prince Edward Island",
+    "answer": "<a href=\"https://goo.gl/maps/ZJcifTq42gyL2j7Y7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Ontario</a> - Edmonton, Alberta: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_2.svg\" alt=\"canada_pedestrian\" /></a> Not Ontario, Prince Edward Island",
+    "answer": "<a href=\"https://goo.gl/maps/ZJcifTq42gyL2j7Y7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - New Brunswick</a> - Edmonton, Alberta: "
   },
   {
     "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_3.svg\" alt=\"canada_pedestrian\" /></a>",
@@ -912,8 +952,16 @@
     "answer": "<a href=\"https://goo.gl/maps/LjXEWb8ii5vQsryEA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Quebec</a> - Laval, Québec: "
   },
   {
-    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_7.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_7.svg\" alt=\"canada_pedestrian\" /></a>",
-    "answer": "<a href=\"https://goo.gl/maps/4eVyxMCwEdtWDTNBA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Nova Scotia, Newfoundland and Labrador, Prince EdwardIsland Canada</a> - Sydney, Nova Scotia: Cape Breton Regional Municipality, "
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_7.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_7.svg\" alt=\"canada_pedestrian\" /></a> Not Nova Scotia, Newfoundland and Labrador",
+    "answer": "<a href=\"https://goo.gl/maps/4eVyxMCwEdtWDTNBA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Prince Edward Island</a> - Sydney, Nova Scotia: Cape Breton Regional Municipality, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_7.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_7.svg\" alt=\"canada_pedestrian\" /></a> Nova Scotia, Prince Edward Island",
+    "answer": "<a href=\"https://goo.gl/maps/4eVyxMCwEdtWDTNBA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Newfoundland and Labrador</a> - Sydney, Nova Scotia: Cape Breton Regional Municipality, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_7.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_7.svg\" alt=\"canada_pedestrian\" /></a> Not Newfoundland and Labrador, Prince Edward Island",
+    "answer": "<a href=\"https://goo.gl/maps/4eVyxMCwEdtWDTNBA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Nova Scotia</a> - Sydney, Nova Scotia: Cape Breton Regional Municipality, "
   },
   {
     "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_8.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_8.svg\" alt=\"canada_pedestrian\" /></a>",
@@ -924,8 +972,16 @@
     "answer": "<a href=\"https://goo.gl/maps/EshobiWWPZmUtYte9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Newfoundland and Labrador</a> - Happy Valley-Goose Bay, Newfoundland and Labrador: "
   },
   {
-    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_10.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_10.svg\" alt=\"canada_pedestrian\" /></a>",
-    "answer": "<a href=\"https://goo.gl/maps/dPsn4C3GSDwp5o9x8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Newfoundland and Labrador, Nunavut,AlbertaYukonPrince Edward Island</a> - Happy Valley-Goose Bay, Newfoundland and Labrador: "
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_10.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_10.svg\" alt=\"canada_pedestrian\" /></a> Not Nova Scotia, Newfoundland and Labrador",
+    "answer": "<a href=\"https://goo.gl/maps/dPsn4C3GSDwp5o9x8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Prince Edward Island</a> - Happy Valley-Goose Bay, Newfoundland and Labrador"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_10.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_10.svg\" alt=\"canada_pedestrian\" /></a> Not Nova Scotia, Prince Edward Island",
+    "answer": "<a href=\"https://goo.gl/maps/4eVyxMCwEdtWDTNBA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Newfoundland and Labrador</a> - Happy Valley-Goose Bay, Newfoundland and Labrador"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_10.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_10.svg\" alt=\"canada_pedestrian\" /></a> Not Newfoundland and Labrador, Prince Edward Island",
+    "answer": "<a href=\"https://goo.gl/maps/4eVyxMCwEdtWDTNBA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada - Nova Scotia</a> - Happy Valley-Goose Bay, Newfoundland and Labrador"
   },
   {
     "question": "<a href=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_11.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Pedestrian/canada_11.svg\" alt=\"canada_pedestrian\" /></a>",
