@@ -1,10 +1,16 @@
 import axios from 'axios';
 import { readFile } from 'fs/promises';
+import { dirname } from 'path';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 
 import { config } from 'dotenv';
-config({ path: './.env' });
+config({ path: `${__dirname}/.env` });
 
-const URL_ROUTE = "Pedestrian.json"; // DONT FORGET TO UPDATE
+console.log(process.env.USER_ID);
+const URL_ROUTE = "numbersMnemonics.js"; // DONT FORGET TO UPDATE
 const env_prefix = "";
 const userId = process.env?.[`${env_prefix}USER_ID`];
 
@@ -16,13 +22,14 @@ const token = process.env?.[`${env_prefix}SUPER_MEMO_TOKEN`];
 async function readDataFromFile() {
     try {
         if (URL_ROUTE.includes("json")) {
-            const data = await readFile(`./data/${URL_ROUTE}`, 'utf-8');
+            const data = await readFile(`./data/${URL_ROUTE}`, 'utf-8'); //./data/
             return JSON.parse(data);
         }
         const module = await import(`./data/${URL_ROUTE}`);
         return module.default;
 
     } catch (err) {
+        console.log(err);
         return [];
     }
 }
@@ -30,15 +37,15 @@ async function readDataFromFile() {
 const run = async () => {
 
     const cards = await readDataFromFile();
-    shuffle(cards); // possibly a better way to separate reoccuring values could be needed
+    // shuffle(cards); // possibly a better way to separate reoccuring values could be needed
     const jsdom = await import('jsdom');
     const { JSDOM } = jsdom;
 
-    console.log(...cards.map((data) => {
-        const dom = new JSDOM(data.answer);
-        const document = dom.window.document;
-        return document.querySelector('a').textContent.trim() + "\n";
-    }));
+    // console.log(...cards.map((data) => {
+    //     const dom = new JSDOM(data.answer);
+    //     const document = dom.window.document;
+    //     return document.querySelector('a').textContent.trim() + "\n";
+    // }));
     const newCardUrl = `https://learn.supermemo.com/api/users/${userId}/courses/${courseId}/pages?contentType=json&targetParentNumber=${targetParentNumber}`;
 
     console.log(newCardUrl);
@@ -50,7 +57,6 @@ const run = async () => {
 };
 
 const postNewCard = async (newCardUrl, question, answer) => {
-
 
     const questionObject = {
         content: question

@@ -1,0 +1,101 @@
+000 - Wedding ring from Braid: Tennis ball, Doughnut, Egg
+001 - purple flamed candle: God, Flagpole, Tower
+002 - swan: Swan’s neck, Infinity symbol, Sunglasses
+003 - trident: Fork, W-shaped Bird, Three-leaf Clover
+004 - car: Box kite, Sailboat, Windmill
+005 - star: Starfish, Handprint, Pentagram
+006 - cherry: elephant, Elephant’s trunk, Lock
+007 - cliff: Boomerang, Axe, Lightning bolt
+008 - hourglass: Snowman, DNA strand, Goggles
+009 - balloon: Balloon on a string, Tennis racket, Spiral galaxy
+010 - bat and ball: Plate and cutlery, Peacock with tail, Two balloons tied together
+011 - goalposts: Parallel pencils, Chopsticks, Twin towers
+012 - swan and cygnet: Heart shape, Clock at 6:30, Eyeglasses
+013 - witch's broom: Broom, Trident head, Dinosaur footprint
+014 - ring: Four-leaf clover, Shark fin, Open book
+015 - payphone: Hand with all fingers, Quill and ink, Knight’s helmet
+016 - sweet sixteen: Lipstick mark, Six-string guitar, Witch hat
+017 - magazine: Leaf, Kite, Crescent moon
+018 - voting booth: Hourglass, Figure-eight race track, DNA double helix
+019 - skateboard: Balloon on a stick, Lollipop, Semicircle
+020 - glasses: Swans in love (heart shape), Pretzel, Ballet slippers
+021 - key: Wine glass, Magnet, Arrowhead
+022 - ducks: Swan pair, Sunglasses, Heart
+023 - mouse: Mouse ears, W-shaped seagull, Bum cheeks
+024 - egg carton: Cross, Kite, Flower
+025 - quarter: Starburst, Hand fan, Crown
+026 - lion's mane: Loop, Lasso, Crescent with star
+027 - duck with a crutch: Boomerang, Mountain, Croissant
+028 - snowman with a hat: Infinity sign, Pretzel, Slinky
+029 - baseball team: Spiral, Moon through branches, Fiddlehead fern
+030 - thrones: M, Camel hump, Waves
+031 - ice cream cone: Spearhead, Shark fin, Mountain peak
+032 - molar tooth: Butterfly, Moustache, Bra
+033 - butterflies: Butterfly wings, Double scoop ice cream cone, Mountains
+034 - horse hooves: Clover, Diamond, Kite tails
+035 - crown: Triangular pennant, Arrow, Paper plane
+036 - double cherries: Glasses, Binoculars, Owl face
+037 - stick figure walking: Boomerang, Arrow zig-zag, Lightning bolt
+038 - glasses with thick frames: Snowman, Binoculars, Figure 8 race track
+039 - steps: Spiral staircase, Twisted rope, Harp
+040 - flag on a pole: Sailboat, Kite, Cross
+041 - chair: Kite with tail, Open book, Hang glider
+042 - glasses on a book: Owl eyes, Bra, Sunglasses on an open book
+043 - sailboat: Bird in flight, Mountain range, Arrow
+044 - yacht: Sailboat with two sails, Hourglass, Bowtie
+045 - record player: Fan blades, Spider, Four-leaf clover with one leaf larger
+046 - bookshelf: Bridge, Gate, Piano keys
+047 - kilt: Boomerang with one side longer, Mountain with flag, Road forking
+048 - hourglass with wings: Two snowmen side by side, Butterfly, Race track
+049 - balloon on a stick: Paddle and ball, Lollipop, Spiral lollipop
+050 - half a dollar: Shell, Sunrise, Arc
+051 - pencil: Rocket, Feather, Obelisk
+052 - dragon: Swan with spread wings, Stethoscope, Hourglass with streamers
+053 - bulldozer: Bird taking off, Broken heart, Butterfly net
+054 - ladder: Open book with a bookmark, Sail with a number, Chair back
+055 - snakes: Double S, Tracks, Earbuds
+056 - trumpet: Tusk, Crescent moon with a star, Banana
+057 - ketchup bottle: Axe head, Road diverging, Hang glider from the side
+058 - race car: S-shaped road, DNA strand with curves, Serpent
+059 - balloon on a leash: Seashell, Spiral galaxy, French horn
+060 - clock at five: Roundabout, Peace sign, Pie with a slice taken out
+061 - chessboard: Hexagon, Honeycomb, Star of David
+062 - queen's crown: Mountain with snow, Open clam with pearl, Eye with long lashes
+063 - cricket bat: Wrench, Bow, Boomerang with a ball
+064 - chessboard with pieces: Windowpane, Chocolate bar, Checkerboard
+065 - old man with a cane: Forked road, Sling, Wishbone
+066 - double footballs: Yin and Yang, Infinity sign, Glasses from above
+067 - street lamp: Jousting lance, Golf club, Flamingo
+068 - snowman with a scarf: Figure 8 with a belt, Peanut, Infinity pool
+069 - yin and yang: Comedy and tragedy masks, Sixty-nine position, Taijitu
+070 - rainbow: Boomerang with both ends, Arch, Bridge
+071 - flag at checkpoint: Sword, Plumb bob, T-square
+072 - parrot: Heart with wings, Angel, Dove in flight
+073 - matchstick: Zigzag, Lightning, Zebra crossing
+074 - cross: Window with four panes, Kite from above, Plus sign
+075 - hook: Boomerang with a sharp angle, Harpoon, Can opener
+076 - trombone: Pipe, J, Boomerang with a loop
+077 - double axes: Double kites, Zigzag pattern, Lightning bolts
+078 - grand piano: Hourglass with legs, Bowtie with buttons, Figure eight with a tail
+079 - pipe: Question mark, Sickle, Comet
+080 - racetrack: Double infinity symbol, Binoculars, Hourglass
+081 - chessboard with a piece: Square with a dot, Window with a flowerpot, Tic-tac-toe board
+082 - panda: Butterfly with uneven wings, Sunglasses with a pattern, Mask
+083 - snowflake: Bird in flight from above, Propeller, Asterisk
+084 - twin peaks: Mountain with two peaks, Bow with arrows, M
+085 - butterfly with a broken wing: Propeller with one blade longer, Harp, Anchor
+086 - jar of honey: Goblet, Bell, Pregnant belly
+087 - flag in the wind: Arrow with a streamer, Checkmark, Boomerang
+088 - double infinity: Double racetracks, Snowman with a bowtie, Binoculars with straps
+089 - balloon with a string: Spiral notebook, Lasso, Fiddlehead
+090 - telescope: Letter P, Megaphone, Golf club
+091 - tower with a flag: Pencil with an eraser, Rocket, Thermometer
+092 - flamingo: Swan with a crooked neck, Question mark, Saxophone
+093 - palm tree: Broom, Anchor, Seahorse
+094 - sailboat with a tall mast: Giraffe, Syringe, Flagpole
+095 - snake with a stick: Walking stick, Candy cane, Shepherd's crook
+096 - elephant with a curly trunk: Water hose, Tornado, Spiral staircase
+097 - axe in a block: Cliff with a flag, Boomerang with a handle, J with a line
+098 - hourglass with a stand: Peanut with a stand, DNA helix, Figure-eight racetrack
+099 - double bubbles: Binoculars from the front, Owl's eyes, Glasses with thick lenses
+100 - target: Dartboard, Two zeros overlapping, Century plant
