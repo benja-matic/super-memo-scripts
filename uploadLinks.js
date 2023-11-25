@@ -37,7 +37,7 @@ async function readDataFromFile() {
 const run = async () => {
 
     const cards = await readDataFromFile();
-    // shuffle(cards); // possibly a better way to separate reoccuring values could be needed
+    shuffle(cards); // possibly a better way to separate reoccuring values could be needed
     const jsdom = await import('jsdom');
     const { JSDOM } = jsdom;
 
