@@ -1,0 +1,898 @@
+[
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/botswana_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/botswana_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"botswana_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/btGmr475rEVqrQ8KA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Botswana</a> - : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/botswana_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/botswana_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"botswana_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/zF4AmeoSkWL9rxNp9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Botswana</a> - Kweneng District: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/botswana_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/botswana_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"botswana_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/E2j1P4mzpu1K1wZf9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Botswana</a> - Serowe, Central District: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/botswana_4.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/botswana_4.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"botswana_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/dFyL7vKnywKVRYqx8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Botswana</a> - Maun, North-West District: Ngamiland East, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/eswatini_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/eswatini_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"eswatini_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/rRv32N5mJ6P4Z1Rq5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Eswatini</a> - Mbabane, Hhohho Region: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/eswatini_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/eswatini_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"eswatini_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ZuBB121LeFV6E2VU9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Eswatini</a> - Hhohho Region: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/eswatini_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/eswatini_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"eswatini_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/dCwhojWxvvvkNtn18\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Eswatini</a> - Mbabane, Hhohho Region: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/ghana_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/ghana_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"ghana_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/FDkjySWRQjaWa7BA8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ghana</a> - Ayanfuri, Central Region: Upper Denkyira West, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/ghana_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/ghana_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"ghana_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/FST54ixfAGrffyS48\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ghana</a> - Winneba, Central Region: Gomoa East, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/kenya_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/kenya_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"kenya_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/wRnb9gmP94GC3ajs5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Kenya</a> - Voi, Taita-Taveta County: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/kenya_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/kenya_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"kenya_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/16TdkmLQZqgy5dn6A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Kenya</a> - Nairobi, Nairobi County: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/kenya_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/kenya_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"kenya_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/xhkVtKVzzcT5vtdQ6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Kenya</a> - Isiolo, Isiolo County: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/lesotho_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/lesotho_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"lesotho_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/7TxFLRRWPyHtJFSu5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Lesotho</a> - Ha Ramohapi, Mafeteng: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/lesotho_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/lesotho_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"lesotho_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/bZjhpNUXB8vi7o8z9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Lesotho</a> - Hlotse, Leribe: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/lesotho_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/lesotho_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"lesotho_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/XoQSW844zjY7mU7y5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Lesotho</a> - Blue Gums, Mohale's Hoek: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/lesotho_4.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/lesotho_4.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"lesotho_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/3kcnWhW83PGdDCWAA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Lesotho</a> - Mohales Hoek, Mohale's Hoek: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/madagascar_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/madagascar_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"madagascar_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/rxq8WKoB1F7TaxYp6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Madagascar</a> - Morondava, Menabe: District de Morondava, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/nigeria_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/nigeria_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"nigeria_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/BF6JHxMBszDYLN9w8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Nigeria</a> - Benin City, Edo: Ovia North-East, Adolor"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/senegal_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/senegal_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"senegal_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/1fdX59jSpGKnnKxK8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Senegal</a> - Saint Louis, Saint-Louis Region: Saint-Louis, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/senegal_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/senegal_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"senegal_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/36YNyUNmLuvtszLR8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Senegal</a> - Dakar, Région de Dakar: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/senegal_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/senegal_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"senegal_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/nD2bPmpJRQCVmqRK7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Senegal</a> - Sindia, Région de Thiès: M'bour, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/south_africa_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/south_africa_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"south_africa_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/vXsMF665Adw44ZDT8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">South Africa</a> - Meyerton, Gauteng: Sedibeng District Municipality, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/south_africa_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/south_africa_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"south_africa_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/bTboi2mWorxwWP1g7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">South Africa</a> - Limpopo: Waterberg District Municipality, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/south_africa_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/south_africa_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"south_africa_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/4ambmnio9Pf9ngX49\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">South Africa</a> - Cape Town, Western Cape: City of Cape Town Metropolitan Municipality, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/tunisia_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/tunisia_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"tunisia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Jd8izKjozqR6uKso6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Tunisia</a> - Medinine, Médenine Governorate: Médenine Sud, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/tunisia_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/tunisia_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"tunisia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/tHHZ5aDBi8bXExhB6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Tunisia</a> - Sfax: Hencha, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/uganda_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/uganda_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"uganda_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/oNdQmFYUNZfKZeH78\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Uganda</a> - Kampala, Central Region: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/bangladesh_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/bangladesh_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"bangladesh_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/sFS3TBVJNkJ7roWR6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bangladesh</a> - Barisal Division: Barisal District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/bangladesh_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/bangladesh_2.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"bangladesh_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/aJDiczSobWQLgR5s6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bangladesh</a> - Pirojpur Pourashava, Barisal Division: Pirojpur District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/bhutan_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/bhutan_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"bhutan_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/rYmAVDiEFZb436wB9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bhutan</a> - Tenchhekha, Paro: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/bhutan_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/bhutan_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"bhutan_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/5Dza4xKuCLyoTKhz5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bhutan</a> - Sunkosh, Dagana: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/bhutan_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/bhutan_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"bhutan_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/wiTJdnhCJSoAt9yp6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bhutan</a> - Ha, Haa: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/cambodia_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/cambodia_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"cambodia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/vyDK7J4YBtqiQS89A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Cambodia</a> - Boeng Preav, Koh Kong Province: Srae Ambel, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/christmas_island_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/christmas_island_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"christmas_island_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/2MHB63yndGZFmPwD6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Christmas Island</a> - Christmas Island, Shire of Christmas Island: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/christmas_island_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/christmas_island_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"christmas_island_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/WPtEvSz6cHmNXzbN7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Christmas Island</a> - Christmas Island, Shire of Christmas Island: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/india_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/india_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"india_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/9SQWJSmL5AXwEzBx5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">India</a> - Bengaluru, Karnataka: Bangalore Division, Bengaluru Urban"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/indonesia_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/indonesia_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"indonesia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/iawCCTQ4zHEepppb6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Indonesia</a> - North Sulawesi: South Minahasa Regency, Amurang Barat"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/indonesia_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/indonesia_2.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"indonesia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/2dNkTR8EM5svpMRGA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Indonesia</a> - West Java: Karawang, Cikampek"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/indonesia_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/indonesia_3.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"indonesia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/hLajndnMSynVBJDY7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Indonesia</a> - West Kalimantan: Ketapang Regency, Nanga Tayap"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/israel_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/israel_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"israel_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/6u9bN7nsqxnt4wtU8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Israel</a> - North District: Yizrael, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/israel_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/israel_2.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"israel_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/vKQRtpN7KRs8jznF9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Israel</a> - South District: Ashkelon, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/israel_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/israel_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"israel_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/CUhDWHa4aG3xHnU6A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Israel</a> - Ben Shemen, Center District: Ramla, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/japan_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/japan_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"japan_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/VBVxdfBAyXu7hxzXA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Japan</a> - Takehara, Hiroshima: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/japan_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/japan_2.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"japan_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/HkWuwpebxLvzCLjm7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Japan</a> - Onomichi, Hiroshima: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/jordan_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/jordan_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"jordan_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/H7egUFFYZwn8PXns7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Jordan</a> - Amman, Amman Governorate: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/jordan_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/jordan_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"jordan_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/vFCEkActQMeRiizX9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Jordan</a> - Aqaba, Aqaba Governorate: Liwa Qasabat al-Aqaba, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/jordan_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/jordan_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"jordan_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/b3Nc2N4q2GVzoVM99\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Jordan</a> - Amman, Amman Governorate: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/kyrgyzstan_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/kyrgyzstan_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"kyrgyzstan_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Gw9gcUzAeVYxdTSi7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Kyrgyzstan</a> - Nijniy-Norus, Chüy Region: Ysyk-Ata, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/kyrgyzstan_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/kyrgyzstan_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"kyrgyzstan_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/oyaWqVm7w1g4yDKQ7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Kyrgyzstan</a> - Balykchy, Issyk-Kul Region: Issyk-Kul, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/laos_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/laos_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"laos_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/qZpRPNwT64UXw2SSA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Laos</a> - Vientiane Prefecture: Xaythany, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/malaysia_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/malaysia_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"malaysia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/hBdSKZfkkbKBwDDS7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Malaysia</a> - Dengkil, Selangor: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/malaysia_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/malaysia_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"malaysia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/p1e7DCRkpjfBitVn8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Malaysia</a> - Sarikei, Sarawak: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/mongolia_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/mongolia_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"mongolia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ZzGsmudGJQef9ir76\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Mongolia</a> - Darkhan, Darkhan-Uul: Xongor, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/mongolia_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/mongolia_2.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"mongolia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/FfQNj5yB5a5tuQmr9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Mongolia</a> - Ulaanbaatar, Ulaanbaatar: Khan-Uul District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/mongolia_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/mongolia_3.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"mongolia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/dA7WYk2bwHB29q7c8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Mongolia</a> - Ulaanbaatar, Ulaanbaatar: Bayanzurkh District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/philippines_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/philippines_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"philippines_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/3GnVPpKigYDLUpV66\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Philippines</a> - Muntinlupa, Metro Manila: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/russia_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/russia_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"russia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/72uZPtPh6hvccFKp8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Russia</a> - Yuldus, Kurganskaya oblast': "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/russia_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/russia_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"russia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/cTwLdEdji7nzkcFu5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Russia</a> - Moskovskaya oblast': Serpukhovsky District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/singapore_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/singapore_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"singapore_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/PKjRshhPxJRL46r67\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Singapore</a> - Singapore, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/south_korea_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/south_korea_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"south_korea_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/8vLXmfkqVmsq7XSy9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">South Korea</a> - Gwangju-si, Gyeonggi-do: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/sri_lanka_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/sri_lanka_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"sri_lanka_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/NLu79xZZcybJHjhz6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Sri Lanka</a> - Puliyankulam, Northern Province: Vavuniya, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/sri_lanka_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/sri_lanka_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"sri_lanka_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/zY6nNgshLXUKdExs8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Sri Lanka</a> - Polgasowita, Western Province: Colombo, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/taiwan_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/taiwan_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"taiwan_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/afT3XvgU94ZcgjHHA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Taiwan</a> - Yilan County: Datong Township, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/taiwan_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/taiwan_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"taiwan_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/aPqdkxfY8BB52GS99\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Taiwan</a> - Yilan County: Datong Township, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/thailand_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/thailand_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"thailand_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/2eETKF5AmtdSKc248\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Thailand</a> - Tambon Rai Rot, Chang Wat Suphan Buri: Amphoe Don Chedi, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/thailand_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/thailand_2.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"thailand_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/SCoRCyn18TUmmKVf6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Thailand</a> - Bang Ya Phraek, Samut Prakan: Phra Pradaeng District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/thailand_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/thailand_3.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"thailand_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/QmN8h6n4meSSV1uz5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Thailand</a> - Khwaeng Samae Dam, Krung Thep Maha Nakhon: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/uae_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/uae_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"uae_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/DyppGb9mmQLG1bFC7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">United Arab Emirates</a> - Ajman, Ajman: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/uae_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/uae_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"uae_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ctnRz3dAtYFpACrK7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">United Arab Emirates</a> - Kabir, Umm Al Quawain: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/albania_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/albania_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"albania_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/fYTUvMbf7Z8XU8Jo9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Albania</a> - Ishull Lezhë, Lezhë County: Lezhë District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/albania_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/albania_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"albania_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/gAMRtkByPECQD13F8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Albania</a> - Lezhë County: Mirditë District, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/albania_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/albania_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"albania_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/dCcWVDPEX7yNcxNK6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Albania</a> - Bradashesh, Qarku i Elbasanit: Elbasan, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/andorra_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/andorra_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"andorra_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ASEv9RxKb2TPgM366\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Andorra</a> - Encamp, Encamp: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/austria_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/austria_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"austria_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/414kRSpFfE1D3nkL9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Austria</a> - Niederösterreich: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/austria_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/austria_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"austria_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/7nDP8vAEgVnwNzu78\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Austria</a> - Pyhra, Niederösterreich: Sankt Pölten-Land, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/austria_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/austria_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"austria_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/5gTCFDYow1wfc292A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Austria</a> - Oberdrauburg, Kärnten: Bezirk Spittal an der Drau, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/austria_4.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/austria_4.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"austria_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/QE9LbjWCRATq7TRD8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Austria</a> - Oberdrauburg, Kärnten: Bezirk Spittal an der Drau, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/austria_5.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/austria_5.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"austria_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/XQ24afXsdeCfyYuG9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Austria</a> - Thalheim, Niederösterreich: Sankt Pölten-Land, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/belgium_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/belgium_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"belgium_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/VxAEWLJgjrQ6fEaS6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Belgium</a> - Steenokkerzeel, Vlaams Gewest: Vlaams-Brabant, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/belgium_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/belgium_2.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"belgium_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/dCJ5js5FshHkYT6P6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Belgium</a> - Oud-Heverlee, Vlaams Gewest: Vlaams-Brabant, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/belgium_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/belgium_3.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"belgium_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/cp8wKAZniWLiontJ8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Belgium</a> - Grobbendonk, Vlaams Gewest: Antwerpen, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/belgium_4.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/belgium_4.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"belgium_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/K6jbS2nbo8tjdbxf9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Belgium</a> - Tielt, Vlaams Gewest: West-Vlaanderen, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/bulgaria_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/bulgaria_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"bulgaria_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/o12AKFXVja6V1YX37\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bulgaria</a> - Cherna gora, Stara Zagora: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/bulgaria_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/bulgaria_2.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"bulgaria_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/BFkTdZwxfdeNf7hJA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bulgaria</a> - Popovo, Targovishte: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/croatia_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/croatia_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"croatia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/G2qr4Umi6AkoMQkm9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Croatia</a> - Otok Oštarijski, Karlovačka županija: Grad Ogulin, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/croatia_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/croatia_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"croatia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/p7TDXqLcPnhsR8Dr6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Croatia</a> - Konak, Zagrebačka županija: Grad Vrbovec, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/croatia_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/croatia_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"croatia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/x8An9wkmvrZvgeRK8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Croatia</a> - Konak, Zagrebačka županija: Grad Vrbovec, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/czech_republic_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/czech_republic_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"czech_republic_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/1dFwQRHtfgNTbYWV8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Czech Republic</a> - Řípec, Jihočeský kraj: Tábor, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/czech_republic_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/czech_republic_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"czech_republic_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/zgHg86rqWDVuEES57\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Czech Republic</a> - Praha 20, Hlavní město Praha: Hlavní město Praha, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/czech_republic_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/czech_republic_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"czech_republic_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/VXpxZWedUMJdENxa7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Czech Republic</a> - Krouna, Pardubický kraj: Chrudim, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/czech_republic_4.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/czech_republic_4.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"czech_republic_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/wQrutKoJtSXZseca7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Czech Republic</a> - Velké Karlovice, Zlínský kraj: Vsetín, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/czech_republic_5.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/czech_republic_5.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"czech_republic_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/PwPFeEky6cQZKe1H8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Czech Republic</a> - Jihomoravský kraj: Brno-venkov, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/denmark_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/denmark_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"denmark_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/krrrUeFHGUCdzpBMA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Denmark</a> - Middelfart, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/denmark_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/denmark_2.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"denmark_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/eAgMJsaf8Jzaco5H6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Denmark</a> - Køge, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/denmark_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/denmark_3.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"denmark_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/9UL5VR4kEVTnsNUNA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Denmark</a> - Roskilde, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/denmark_4.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/denmark_4.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"denmark_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/k3ma8SwbW4oWoWbk7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Denmark</a> - Odense, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/denmark_5.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/denmark_5.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"denmark_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/mkd1B86L5xHjzg7E8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Denmark</a> - Ringsted, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/denmark_6.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/denmark_6.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"denmark_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/RPamrsLgoykGgqBL9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Denmark</a> - Nykøbing Falster, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/estonia_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/estonia_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"estonia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/mRXdTmrFQcPSoP3T6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Estonia</a> - Tallinn, Harju maakond: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/estonia_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/estonia_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"estonia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/iH2yC8FfApRNBcUS8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Estonia</a> - Risti, Lääne maakond: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/estonia_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/estonia_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"estonia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/DkE4Vz3Jg7UCwibP8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Estonia</a> - Sõmeru, Lääne-Viru maakond: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/faroe_islands_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/faroe_islands_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"faroe_islands_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/oqYaHY4s2m93y2TF6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Faroe Islands</a> - Leynar, Streymoy: Kvívíkar, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/finland_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/finland_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"finland_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/bpX7wUvgEeXTKtQE6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Finland</a> - Pohjois-Pohjanmaa: Raahe, Siikajoki"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/finland_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/finland_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"finland_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/L1mwuYtPSBUidL4o6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Finland</a> - Uusimaa: Helsinki, Vihti"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/finland_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/finland_3.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"finland_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/vqZhyrzzNWajwGq99\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Finland</a> - Vantaa, Uusimaa: Helsinki, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/finland_4.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/finland_4.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"finland_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/kRqfFqz5h9uBw18G7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Finland</a> - Espoo, Uusimaa: Helsinki, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/france_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/france_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"france_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/MPG9LdCYHAMmxAvX7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">France</a> - La Cabanasse, Occitanie: Pyrénées-Orientales, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/france_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/france_2.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"france_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/f6Mp93TmZ2rkqFhn9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">France</a> - Athis-Mons, Île-de-France: Essonne, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/france_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/france_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"france_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/KVBWmmQqv76yYjNz5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">France</a> - Sainte-Marthe, Nouvelle-Aquitaine: Lot-et-Garonne, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/germany_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/germany_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"germany_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/aQEaQ2jW9YtF1VJL7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Germany</a> - Hannover, Niedersachsen: Region Hannover"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/germany_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/germany_2.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"germany_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/RZxo3yowNTUMm5dm9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Germany</a> - Hannover, Niedersachsen: Region Hannover"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/germany_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/germany_3.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"germany_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/okSJFgpb9LZJX5T97\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Germany</a> - Simmerath, Nordrhein-Westfalen: Köln, Aachen"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/gibraltar_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/gibraltar_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"gibraltar_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/eMEacpzpGozjDQ7H7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Gibraltar</a> - Gibraltar, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/greece_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/greece_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"greece_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/xqX3f7edyQd9e7Dv7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Greece</a> - : Thessaloniki"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/greece_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/greece_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"greece_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/nf1VDaEfLWX5Wy617\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Greece</a> - : Larisa"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/greece_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/greece_3.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"greece_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/DxZXbHbWF3gkPTdT9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Greece</a> - : Thessaloniki"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/greece_4.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/greece_4.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"greece_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/uezyk3F9q6y4JN4n7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Greece</a> - : Evros"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/greece_5.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/greece_5.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"greece_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/XmziehZG1ZJaewUm6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Greece</a> - : Larisa"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/greece_6.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/greece_6.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"greece_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/gBber8eoaU4ocDjH7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Greece</a> - : Thessaloniki"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/hungary_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/hungary_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"hungary_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/BbAwqgmdUebkq5p36\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Hungary</a> - Görbeháza, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/hungary_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/hungary_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"hungary_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/8sJDtbEFzTKF62tD6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Hungary</a> - Nyíregyháza, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/hungary_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/hungary_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"hungary_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/K6XNxWUH23sB97Rd6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Hungary</a> - Kerekegyháza, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/iceland_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/iceland_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"iceland_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/aUCzqZXTJeEe86ez7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Iceland</a> - Borgarbyggð: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/iceland_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/iceland_2.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"iceland_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/tojziU2oWkgBNrGH7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Iceland</a> - Eyjafjarðarsveit: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/iceland_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/iceland_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"iceland_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/z6JtVfdiNfR153uG8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Iceland</a> - Hrafnagil, Eyjafjarðarsveit: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/iceland_4.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/iceland_4.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"iceland_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/6ciNKSURoEA3bNm5A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Iceland</a> - Kópavogur, Kópavogsbær: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/ireland_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/ireland_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"ireland_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/skzMkwwXCaAvrYAHA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ireland</a> - County Clare: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/ireland_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/ireland_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"ireland_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/jtGKbwnGiUUdiTkY8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ireland</a> - County Clare: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/ireland_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/ireland_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"ireland_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/nAzp36kA9geRMuuG6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ireland</a> - County Cork: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/isle_of_man_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/isle_of_man_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"isle_of_man_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/hV6Qn9BLYDSwtQhF9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Isle of Man</a> - Ramsey, Ramsey: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/isle_of_man_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/isle_of_man_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"isle_of_man_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Jt2txDuyS8EDKUTv8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Isle of Man</a> - Andreas: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/italy_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/italy_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"italy_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/xANZe9r1gWm8U7AR7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Italy</a> - Lucca, Toscana: Provincia di Lucca, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/italy_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/italy_2.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"italy_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/DPA82RffzCKDRCb29\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Italy</a> - Cervignano del Friuli, Friuli-Venezia Giulia: Ente di decentramento regionale di Udine, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/italy_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/italy_3.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"italy_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/1X8CeuWtUTdrmumM6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Italy</a> - Cervignano del Friuli, Friuli-Venezia Giulia: Ente di decentramento regionale di Udine, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/jersey_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/jersey_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"jersey_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/wABdnup5CEhNVKUs9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Jersey</a> - St Brelade: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/jersey_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/jersey_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"jersey_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/GLe8QNwLaGd5FMKT8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Jersey</a> - Trinity: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/latvia_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/latvia_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"latvia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ZFnrDAfqRaqqkqZL6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Latvia</a> - Sērene, Aizkraukles novads: Sērenes pagasts, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/lithuania_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/lithuania_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"lithuania_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/97ykXEBh62TZaJDy7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Lithuania</a> - Sližiūnai, Vilniaus apskritis: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/luxembourg_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/luxembourg_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"luxembourg_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/2BrBqi7WHyCmbDWE7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Luxembourg</a> - Klierf, Kanton Klierf: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/luxembourg_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/luxembourg_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"luxembourg_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/dvExGu6nNzehP6u68\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Luxembourg</a> - Esch-sur-Alzette, Esch-sur-Alzette: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/malta_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/malta_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"malta_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/NArWBUz9M9yVBEcNA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Malta</a> - Luqa, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/monaco_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/monaco_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"monaco_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/up1TJ7q1RjZ9a3LAA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Monaco</a> - Monaco, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/montenegro_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/montenegro_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"montenegro_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/LztrGWBMu7RF1idJ7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Montenegro</a> - Opština Nikšić: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/montenegro_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/montenegro_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"montenegro_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/U1K7Cd56k4331PZY6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Montenegro</a> - Opština Nikšić: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/netherlands_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/netherlands_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"netherlands_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/9hTXKNHp5cDgA2TX7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Netherlands</a> - Driebergen-Rijsenburg, Utrecht: Utrechtse Heuvelrug, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/netherlands_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/netherlands_2.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"netherlands_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Ep5Hjv8tSSUGJnte6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Netherlands</a> - Delft, Zuid-Holland: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/north_macedonia_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/north_macedonia_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"north_macedonia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Z3KA3hj4jWNRm61J9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">North Macedonia</a> - Municipality of Vinica: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/north_macedonia_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/north_macedonia_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"north_macedonia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/9c2DoX4THTSVEp2p7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">North Macedonia</a> - Komuna e Sveti Nikollës: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/north_macedonia_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/north_macedonia_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"north_macedonia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Sg7aiMhpBGCxUbrq8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">North Macedonia</a> - Municipality of Vinica: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/north_macedonia_4.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/north_macedonia_4.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"north_macedonia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/bfSAUCYnqtqLp4rR6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">North Macedonia</a> - Municipality of Kratovo: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/north_macedonia_5.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/north_macedonia_5.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"north_macedonia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Ex6LnM83ZzNqjcwn7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">North Macedonia</a> - Municipality of Čučer-Sandevo: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/north_macedonia_6.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/north_macedonia_6.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"north_macedonia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/YstEBc49qvd5o8hK6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">North Macedonia</a> - Municipality of Čučer-Sandevo: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/norway_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/norway_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"norway_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/qZoCBPEEhHATf4qG9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Norway (Svalbard)</a> - Longyearbyen, Svalbard: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/norway_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/norway_2.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"norway_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/vTEVNPbsVemQan6w5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Norway</a> - Viken: Lillestrøm, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/norway_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/norway_3.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"norway_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/BUmZebd3veMaDQsL7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Norway</a> - Røa, Oslo: Oslo kommune, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/poland_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/poland_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"poland_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/HT5a2gsZAfKZhHwv7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Poland</a> - Opolskie: Powiat strzelecki, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/poland_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/poland_2.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"poland_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/tfspvKBnHXZyVK3MA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Poland</a> - Sokołów Podlaski, Mazowieckie: Powiat sokołowski, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/portugal_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/portugal_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"portugal_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/bP6aw9n53Q64u4y86\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Portugal</a> - Quinta do Anjo, Setúbal: Palmela, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/portugal_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/portugal_2.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"portugal_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Be16v6FdPxxFoPd37\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Portugal</a> - Veiros, Évora: Estremoz, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/portugal_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/portugal_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"portugal_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ZbaieV4wRPBRVM6DA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Portugal</a> - Vidigueira, Beja District: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/romania_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/romania_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"romania_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/G5btojZwQ1NsYEzP7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Romania</a> - Județul Timiș: Comuna Balinț, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/romania_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/romania_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"romania_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/nd1hFrpteG8bRePR6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Romania</a> - Județul Vrancea: Comuna Golești, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/san_marino_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/san_marino_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"san_marino_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/uZ6hC7r7hVqMoiae9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">San Marino</a> - San Marino di Urbino, : SM, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/san_marino_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/san_marino_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"san_marino_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/3V6tzvZs2u9fq5Lm6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">San Marino</a> - Valdragone, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/san_marino_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/san_marino_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"san_marino_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/8gcYKqC5AQxRYSTt6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">San Marino</a> - Dogana, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/serbia_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/serbia_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"serbia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/FFQkuxGwnQ58CDSR6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Serbia</a> - Ivanjica, : Moravički okrug, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/serbia_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/serbia_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"serbia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/DPfiZHXTvgNhaHeCA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Serbia</a> - Kragujevac, : Šumadijski okrug, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/serbia_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/serbia_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"serbia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/KKtNWrNUdxiar2VJA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Serbia</a> - Beograd, : Grad Beograd, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/serbia_4.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/serbia_4.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"serbia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Fa4j6XsTr1RPVgve8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Serbia</a> - Beograd, : Grad Beograd, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/slovakia_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/slovakia_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"slovakia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/9f2bXbATdzDbVTgq9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Slovakia</a> - Bratislava, Bratislava Region: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/slovakia_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/slovakia_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"slovakia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/YxEjt7531s2hovp87\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Slovakia</a> - Liptovská Porúbka, Žilinský kraj: Liptovský Mikuláš, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/slovakia_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/slovakia_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"slovakia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/wNxddbiePn8s8y1v5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Slovakia</a> - Námestovo, Žilinský kraj: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/slovenia_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/slovenia_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"slovenia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/hY1sYDjefH6kSya37\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Slovenia</a> - Koper: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/slovenia_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/slovenia_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"slovenia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ptVC7THHEnsxMDeo7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Slovenia</a> - Ljubljana: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/slovenia_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/slovenia_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"slovenia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/MSqMSdfN6mSks2r77\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Slovenia</a> - Sežana: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/spain_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/spain_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"spain_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ihsYaaiUnemM29vw9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Spain</a> - Las Cabezuelas, Comunidad de Madrid: Madrid, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/spain_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/spain_2.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"spain_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/niJn19R8im38ztxu5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Spain</a> - Illescas, Castilla-La Mancha: Toledo, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/sweden_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/sweden_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"sweden_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/qDVjTP9ADMkE1PX17\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Sweden</a> - Mora, Dalarna County: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/sweden_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/sweden_2.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"sweden_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/3QKLX295HgUJgMRj6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Sweden</a> - Skåne län: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/sweden_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/sweden_3.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"sweden_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/ByAuRUaHvmXW2J399\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Sweden</a> - Sjödalen, Stockholms län: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/switzerland_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/switzerland_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"switzerland_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/cYN7BRghEYq4tjya9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Switzerland</a> - Frick, Aargau: Laufenburg, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/switzerland_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/switzerland_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"switzerland_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/gW4jZSg1qjoBdzWp8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Switzerland</a> - Albula/Alvra, Graubünden: Albula, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/switzerland_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/switzerland_3.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"switzerland_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/eUCU4UDCtDZCFbve8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Switzerland</a> - Unterseen, Bern: Interlaken-Oberhasli, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/switzerland_4.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/switzerland_4.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"switzerland_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/WN7FkqdXdprhvE2y6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Switzerland</a> - Frick, Aargau: Laufenburg, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/turkey_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/turkey_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"turkey_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/haUBeRyj4X4QQnVb7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Turkey</a> - Bursa: Osmangazi, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/turkey_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/turkey_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"turkey_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/3n66k5FB4AaozNds8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Turkey</a> - Tekirdağ: Ergene, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/turkey_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/turkey_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"turkey_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/xY5er79MRr5nVYDu8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Turkey</a> - Kastamonu: Tosya, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/ukraine_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/ukraine_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"ukraine_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/3opczfkLcv29G1so8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ukraine</a> - Kyiv, Kyiv: Kyiv City, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/ukraine_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/ukraine_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"ukraine_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/bff78pPS9LsPZHFX8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ukraine</a> - Mriia, Kyiv Oblast: Kyjevo-Svyatoshyns'kyi district, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/ukraine_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/ukraine_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"ukraine_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/FSXendiRs5Lr71wt7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ukraine</a> - Suprunivka, Poltava Oblast: Poltavs'kyi district, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/uk_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/uk_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"united_kingdom_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/StQBSUZUy8gUycYz9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">United Kingdom</a> - England: Gloucestershire, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/uk_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/uk_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"united_kingdom_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/om8s8xuCXzqTXgnE6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">United Kingdom</a> - Pinxton, England: Derbyshire, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/uk_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/uk_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"united_kingdom_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/X7KRA532PBjV4dWZA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">United Kingdom</a> - England: Wiltshire, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/uk_4.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/uk_4.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"united_kingdom_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Uu29B3b6UDPBTEy68\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">United Kingdom</a> - England: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/canada_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/canada_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"canada_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/qTak9ZZtzDmox4dN9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a> - Hope, British Columbia: Fraser Valley, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/canada_2.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/canada_2.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"canada_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/Po9RZBSWajvo9SzA6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a> - Ontario: Regional Municipality of Halton, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/canada_3.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/canada_3.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"canada_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/eGcBb8vFaAoC3x4S8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a> - Québec, Québec: Capitale-Nationale, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/canada_4.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/canada_4.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"canada_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/1MsFi3EfQJd5mfNg8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Canada</a> - Milton, Ontario: Regional Municipality of Halton, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/curacao_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/curacao_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"curacao_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/9UMGuJAM5w6eRHmP8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Curaao</a> - Sint Michiel, Curaçao: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/dominican_republic_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/dominican_republic_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"dominican_republic_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/PhFaQoqJGRG4jpgA6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Dominican Republic</a> - Santiago de los Caballeros, Santiago: Punal, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/guatemala_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/guatemala_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"guatemala_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/EwLrMjvpNo6EjSkT6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Guatemala</a> - Ciudad Vieja, Sacatepéquez Department: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/guatemala_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/guatemala_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"guatemala_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/znvATogVMksMNqWW6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Guatemala</a> - Siquinala, Escuintla Department: Siquinalá, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/mexico_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/mexico_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"mexico_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/FN2LdLW8eALw1AeY9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Mexico</a> - Veracruz: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/puerto_rico_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/puerto_rico_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"puerto_rico_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/uncVyDrhEJZhjAno8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Puerto Rico</a> - Bayamón, Bayamón: Juan Sánchez, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/us_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/us_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"us_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/mrrThSeEJBLbBVgG7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">United States</a> - Greater Landover, Maryland: Prince George's County, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/us_virgin_islands_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/us_virgin_islands_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"us_virgin_island_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/6ER5cnPoWzUkoX4Q7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">US Virgin Islands</a> - St. Croix: Southcentral, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/us_virgin_islands_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/us_virgin_islands_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"us_virgin_island_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/WP4NmpQn7Yqm8KgF6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">US Virgin Islands</a> - Cruz Bay, St. John: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/american_samoa_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/american_samoa_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"american_samoa_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/TnTgwiEA3ntksyus5\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">American Samoa</a> - Leone, Western District: Lealataua County, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/australia_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/australia_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"australia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/c1qRLLPSDh64oMAx8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Australia</a> - Paddys River, Australian Capital Territory: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/guam_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/guam_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"guam_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/wxmeUVVdi9iexDt7A\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Guam</a> - Tamuning, : "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/new_zealand_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/new_zealand_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"new_zealand_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/GjhJYjQfk4CbMxMb6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">New Zealand</a> - Southland: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/northern_mariana_islands_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/northern_mariana_islands_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"northern_mariana_islands_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/cw1L5GZmVeznXkmg7\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Northern Mariana Islands</a> - Afetna, Saipan: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/argentina_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/argentina_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"argentina_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/dQs4BiJNNcNeHm3s8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Argentina</a> - Magdalena, Buenos Aires Province: Magdalena Partido, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/bolivia_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/bolivia_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"bolivia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/b3DddnHWeDYEMV219\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Bolivia</a> - Departamento de Santa Cruz: Provincia de Chiquitos, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/brazil_1.svg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/brazil_1.svg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"brazil_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/LawrXuWpBh1JLHENA\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Brazil</a> - Distrito do Porto, São Paulo: Capela do Alto, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/chile_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/chile_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"chile_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/sTDvPaPhz3fpgShm8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Chile</a> - Curicó, Maule: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/chile_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/chile_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"chile_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/2mYsiEFR66ABZrsS9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Chile</a> - Atacama: Huasco, Vallenar"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/chile_3.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/chile_3.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"chile_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/xWid5bYtg3WrbQ6H9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Chile</a> - Los Ríos: Ranco, La Unión"
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/colombia_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/colombia_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"colombia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/aQ4wvsVXPWEevhtb6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Colombia</a> - Cesar: Aguachica, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/colombia_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/colombia_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"colombia_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/WAGMVrMyWpbq1rct8\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Colombia</a> - Cali, Valle del Cauca: "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/ecuador_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/ecuador_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"ecuador_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/cQBSoixKKARqExh77\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Ecuador</a> - Manabí: Pajan, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/peru_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/peru_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"peru_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/GxrWRZCRLqMK794z9\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Peru</a> - La Libertad: Pataz, "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/uruguay_1.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/uruguay_1.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"uruguay_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/TnKGNMKi6Vfah63K7s\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Uruguay</a> - "
+  },
+  {
+    "question": "<a href=\"http://www.geohints.com/Sources/Signs/Direction/uruguay_2.jpg\" target=\"_blank\"><img src=\"http://www.geohints.com/Sources/Signs/Direction/uruguay_2.jpg\" style=\"max-height:450px;min-width:350px;margin:auto;\" alt=\"uruguay_direction\" /></a>",
+    "answer": "<a href=\"https://goo.gl/maps/YRgSUu8Je6SaGvus6\" target=\"_blank\" class=\"gps\" style=\"font-weight: bold; text-decoration: none; color: black;\">Uruguay</a> - Riachuelo, Departamento de Colonia: "
+  }
+]
