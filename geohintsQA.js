@@ -1,10 +1,11 @@
 import axios from 'axios';
+import { writeFile } from 'fs/promises';
 
 import { config } from 'dotenv';
 config();
 
 const BASE_URL = "http://www.geohints.com/";
-const URL_ROUTE = "Pedestrian"; // DONT FORGET TO UPDATE
+const URL_ROUTE = "HouseNumbers"; // DONT FORGET TO UPDATE
 
 
 const GOOGLE_API_KEY = process.env.GOOGLE_API_KEY;
@@ -75,10 +76,11 @@ const run = async () => {
     for (const continent of Array.from(continents)) {
         const bollards = continent.querySelectorAll("div.inside > div.bollard");
         // const bollards = continent.querySelectorAll("div.bollard");
+        // const bollards = continent.querySelectorAll("div");
         for (const bollard of Array.from(bollards)) {
             const imageElem = bollard.querySelector(`img`);
             const imgSrc = imageElem?.getAttribute("src");
-            const imgAlt = imageElem?.getAttribute("alt").replace("Sources/Signs/Numbers/", "").replace("http://www.geohints.com/", "").replace(`Sources/${URL_ROUTE}/`, "");
+
 
             const country = bollard.querySelector("p.country").textContent.replace(/[^\x00-\x7F]/g, "").trim();
             const aElement = bollard.querySelector("p.country > a.gps");
@@ -87,6 +89,7 @@ const run = async () => {
                 console.log(bollard.querySelector(`img`));
                 console.log(bollard.querySelector(`img`).getAttribute("class"));
             }
+            const imgAlt = imageElem?.getAttribute("alt")?.replace("Sources/Signs/Numbers/", "").replace("http://www.geohints.com/", "").replace(`Sources/${URL_ROUTE}/`, "") ?? imgSrc.replace(`Sources/${URL_ROUTE}/`, "");
             console.log(imgAlt);
 
             const itallicText = bollard.querySelector(`i`)?.textContent ? `name: ${bollard.querySelector(`i`)?.textContent}` : "";
@@ -95,8 +98,8 @@ const run = async () => {
             const imageStyle = (imageHeight ?? 0) < 450 ? "max-height:450px;min-width:350px;margin:auto;" : "max-height:450px;margin:auto;";
             const imageTagHTML = `<a href="${BASE_URL}${imgSrc}" target="_blank"><img src="${BASE_URL}${imgSrc}" style="${imageStyle}" alt="${imgAlt}" /></a>`;
 
-            // const googleLocation = "";
-            const googleLocation = await getGoogleLocation(href);
+            const googleLocation = "";
+            // const googleLocation = await getGoogleLocation(href);
 
             aElement.removeAttribute("style"); // remove all inline styles
             aElement.textContent = aElement.textContent.replace("🌍", country); // replace globe emoji with country
@@ -111,7 +114,7 @@ const run = async () => {
     };
     // write the cards array to file 
 
-    // await writeFile(`./data/${URL_ROUTE}.json`, JSON.stringify(cards, null, 2));
+    await writeFile(`./data/geogussr/${URL_ROUTE}.json`, JSON.stringify(cards, null, 2));
 };
 
 run().then(() => {

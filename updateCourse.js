@@ -28,8 +28,10 @@ const updateCourse = async (userId, courseId, token, courseName) => {
 
         let questionObj = JSON.parse(question);
 
-        if (questionObj.content.includes('Sources/Signs/Pedestrian')
-            && (questionObj.content.includes('Southern Europe'))
+        // questionObj.content.includes('Sources/Signs/Pedestrian')
+        if (
+            // questionObj.content.includes('Pedestrian') &&
+            (questionObj.content.includes('united_states.svg'))
         ) {
             let questionContent = questionObj.content;
             let answerContent = JSON.parse(answer).content;

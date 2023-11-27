@@ -10,7 +10,7 @@ import { config } from 'dotenv';
 config({ path: `${__dirname}/.env` });
 
 console.log(process.env.USER_ID);
-const URL_ROUTE = "numbersMnemonics.js"; // DONT FORGET TO UPDATE
+const URL_ROUTE = "HouseNumbers.json"; // DONT FORGET TO UPDATE
 const env_prefix = "";
 const userId = process.env?.[`${env_prefix}USER_ID`];
 
@@ -22,10 +22,10 @@ const token = process.env?.[`${env_prefix}SUPER_MEMO_TOKEN`];
 async function readDataFromFile() {
     try {
         if (URL_ROUTE.includes("json")) {
-            const data = await readFile(`./data/${URL_ROUTE}`, 'utf-8'); //./data/
+            const data = await readFile(`./data/geogussr/${URL_ROUTE}`, 'utf-8');
             return JSON.parse(data);
         }
-        const module = await import(`./data/${URL_ROUTE}`);
+        const module = await import(`./data/geogussr/${URL_ROUTE}`);
         return module.default;
 
     } catch (err) {
