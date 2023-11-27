@@ -31,7 +31,7 @@ const updateCourse = async (userId, courseId, token, courseName) => {
         // questionObj.content.includes('Sources/Signs/Pedestrian')
         if (
             // questionObj.content.includes('Pedestrian') &&
-            (questionObj.content.includes('united_states.svg'))
+            (questionObj.content.includes('Isle_of_Man-th.jpg'))
         ) {
             let questionContent = questionObj.content;
             let answerContent = JSON.parse(answer).content;

@@ -54043,7 +54043,7 @@
             "lessonTitle": "",
             "chapterTitle": "",
             "questionTitle": "",
-            "question": "{\"content\":\"<a href=\\\"https://images20.fotki.com/v1684/photos/5/4180775/16588561/Isle_of_Man-th.jpg\\\" target=\\\"_blank\\\"><img src=\\\"https://images20.fotki.com/v1684/photos/5/4180775/16588561/Isle_of_Man-th.jpg\\\" style=\\\"max-height:450px;min-width:350px;margin:auto;\\\" alt=\\\"isle_of_man.svg\\\" /></a>\"}",
+            "question": "{\"content\":\"<a href=\\\"https://images20.fotki.com/v1684/photos/5/4180775/16588561/Isle_of_Man-th.jpg\\\" target=\\\"_blank\\\"><img src=\\\"https://images20.fotki.com/v1684/photos/5/4180775/16588561/Isle_of_Man-th.jpg\\\" style=\\\"max-height:450px;display:block;margin:auto;\\\" alt=\\\"isle_of_man.svg\\\" /></a>\"}",
             "answer": "{\"content\":\"<a href=\\\"https://goo.gl/maps/5pZCmvcRp1Hps4dRA\\\" target=\\\"_blank\\\" class=\\\"gps\\\" style=\\\"font-weight: bold; text-decoration: none; color: black;\\\">Isle of Man</a> - Douglas, Douglas: \"}",
             "questionTitleEn": "",
             "questionEn": "",
