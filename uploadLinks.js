@@ -10,7 +10,7 @@ import { config } from 'dotenv';
 config({ path: `${__dirname}/.env` });
 
 console.log(process.env.USER_ID);
-const URL_ROUTE = "HouseNumbers.json"; // DONT FORGET TO UPDATE
+const URL_ROUTE = "Posts.json"; // DONT FORGET TO UPDATE
 const env_prefix = "";
 const userId = process.env?.[`${env_prefix}USER_ID`];
 

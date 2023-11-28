@@ -28,10 +28,13 @@ const updateCourse = async (userId, courseId, token, courseName) => {
 
         let questionObj = JSON.parse(question);
 
+
+        const updateList = [
+        ];
         // questionObj.content.includes('Sources/Signs/Pedestrian')
         if (
             // questionObj.content.includes('Pedestrian') &&
-            (questionObj.content.includes('Isle_of_Man-th.jpg'))
+            (updateList.some(update => questionObj.content.includes(update)))
         ) {
             let questionContent = questionObj.content;
             let answerContent = JSON.parse(answer).content;
