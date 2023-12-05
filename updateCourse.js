@@ -25,7 +25,7 @@ const updateCourse = async (userId, courseId, token, courseName) => {
     const mapFilePath = path.resolve(`${MAP_FILENAME}`);
     writeFileSync(filePath, JSON.stringify(course, null, 4));
 
-    const updateList = await getMapImageUrls(BASE_URL, mapFilePath);
+    const updateList = await getMapImageUrlAndTitles(BASE_URL, mapFilePath);
     writeFileSync(mapFilePath, JSON.stringify(updateList, null, 4));
 
     for (const card of course) {
@@ -148,7 +148,7 @@ const updateCard = async ({
     }
 };
 
-async function getMapImageUrls(url, mapFilePath) {
+async function getMapImageUrlAndTitles(url, mapFilePath) {
     try {
         const fetchedData = readFileSync(mapFilePath);
         if (fetchedData) return JSON.parse(fetchedData);
