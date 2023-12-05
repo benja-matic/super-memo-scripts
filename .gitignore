@@ -5,3 +5,4 @@ node_modules/*
 yarn-error.log
 
 .env
+data/geogussr/map_images/*
