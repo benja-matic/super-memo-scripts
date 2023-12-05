@@ -1,33 +1,22 @@
 import axios from 'axios';
 import { writeFile } from 'fs/promises';
+import { fetchLatLonFromShortUrl } from "./helpers/googleMapApi.js";
 
 import { config } from 'dotenv';
 config();
 
 const BASE_URL = "http://www.geohints.com/";
-const URL_ROUTE = "HouseNumbers"; // DONT FORGET TO UPDATE
+const URL_ROUTE = "Street"; // DONT FORGET TO UPDATE
 
 
 const GOOGLE_API_KEY = process.env.GOOGLE_API_KEY;
 
 const getGoogleLocation = async (url) => {
-    let response = {};
-    try {
-        response = await axios.get(url);
-    } catch (error) {
-        console.log(error);
+    const [lat, lon] = await fetchLatLonFromShortUrl(url);
+
+    if (!lat || !lon) {
         return "";
     }
-    const redirectUrl = response.request.res.responseUrl;
-
-    // Extract lat and lon from fullUrl
-    const coords = /@([-\d.]+),([-\d.]+)/.exec(redirectUrl);
-
-    if (!coords) {
-        return "";
-    }
-    const lat = coords[1];
-    const lon = coords[2];
 
     // Use Geocoding API to fetch details
     const GEOCODING_URL = `https://maps.googleapis.com/maps/api/geocode/json?latlng=${lat},${lon}&key=${GOOGLE_API_KEY}`;
@@ -52,7 +41,6 @@ const getGoogleLocation = async (url) => {
         console.error(error);
         return "";
     }
-
 };
 
 
@@ -95,11 +83,11 @@ const run = async () => {
             const itallicText = bollard.querySelector(`i`)?.textContent ? `name: ${bollard.querySelector(`i`)?.textContent}` : "";
 
             const imageHeight = 0; // TODO implement getImageHeight(imageElem);
-            const imageStyle = (imageHeight ?? 0) < 450 ? "max-height:450px;min-width:350px;margin:auto;" : "max-height:450px;margin:auto;";
+            const imageStyle = (imageHeight ?? 0) < 450 ? "max-height:450px;min-width:350px;display:block;margin:auto;" : "max-height:450px;display:block;margin:auto;";
             const imageTagHTML = `<a href="${BASE_URL}${imgSrc}" target="_blank"><img src="${BASE_URL}${imgSrc}" style="${imageStyle}" alt="${imgAlt}" /></a>`;
 
-            const googleLocation = "";
-            // const googleLocation = await getGoogleLocation(href);
+            // const googleLocation = "";
+            const googleLocation = await getGoogleLocation(href);
 
             aElement.removeAttribute("style"); // remove all inline styles
             aElement.textContent = aElement.textContent.replace("🌍", country); // replace globe emoji with country
