@@ -126,6 +126,28 @@ export default [
         "question": "What heuristic is used to estimate the total memory usage of a model during training?",
         "answer": "(3 * (num_params * 4 + num_activations * 4)) * batch_size"
     },
+    // scaling laws
+
+    {
+        "question": "What is the main finding of 'Scaling Laws for Neural Language Models' by Kaplan et al.?",
+        "answer": "Cross entropy loss scales as a power law with model size N (excluding embeddings), dataset size D, and compute budget C."
+    },
+    {
+        "question": "Write down the pdf of the power law distribution",
+        "answer": "p(x) = C * x^(-alpha)"
+    },
+    {
+        "question": "Show that the power law distribution is scale invariant",
+        "answer": "p(x) = C * x^(-alpha). Then C * (kx)^(-alpha) = C * k^(-alpha) * x^(-alpha) = C' * x^(-alpha)"
+    },
+    {
+        "question": "What ratio is emperically observed between N and D in the scaling laws to avoid overfitting? In other words, we can increase N by a factor of X as long as we incrase D by a factor of Y. What are X and Y?",
+        "answer": "X=8, Y=5. The equation is N^(.74)/D."
+    },
+    {
+        "question": ""
+    }
+
     // Other stuff to add:
     // torch ddp
     // torch model parallelism
