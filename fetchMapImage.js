@@ -54,11 +54,11 @@ async function main() {
     const GOOGLE_API_KEY = process.env.GOOGLE_API_KEY;
     const mapType = 'hybrid';
     const defaultZoomLevel = 6; // Adjust as needed
-    const baseSavePath = 'data/geogussr/map_images/street';
+    const baseSavePath = 'data/geogussr/map_images/poles';
 
     // Read JSON data
     const __dirname = dirname(fileURLToPath(import.meta.url));
-    const jsonPath = path.join(__dirname, 'data/geogussr/Street.json');
+    const jsonPath = path.join(__dirname, 'data/geogussr/Poles.json');
     const jsonRaw = await fs.readFile(jsonPath, 'utf8');
     const jsonData = JSON.parse(jsonRaw);
 
@@ -95,14 +95,28 @@ async function main() {
         "Christmas Island", "Cocos", "Macau", "Hong Kong"
     ];
 
+
+    const tinyCountries = [
+        "San Marino",
+        "Liechtenstein", "Malta",
+        "Andorra", "Micronesia",
+        "Luxembourg",
+        "Guam", "American Samoa", "Northern Mariana Islands",
+        "Guernsey", "Jersey", "Isle of Man",
+        "Bermuda",
+        "Singapore",
+        "Christmas Island", "Cocos", "Macau", "Hong Kong"
+    ];
+
     // Process each URL
     for (const [index, url] of urls.entries()) {
+
         const country = extractTextFromHtmlATag(jsonData[index].answer);
         const isSmallCountry = smallCountriesAndTerritories.some(smallCountry => country.toLowerCase().includes(smallCountry.toLowerCase()));
-
+        const isTinyCountry = tinyCountries.some(tiny => country.toLowerCase().includes(tiny.toLowerCase()));
         const [latitude, longitude, filenamePart] = await extractLatLon(url);
 
-        const zoomLevel = isSmallCountry ? 8 : defaultZoomLevel;
+        const zoomLevel = isTinyCountry ? 12 : (isSmallCountry ? 8 : defaultZoomLevel);
 
         console.log(country, zoomLevel);
         const mapURL = `https://maps.googleapis.com/maps/api/staticmap?center=${latitude},${longitude}&zoom=${zoomLevel}&size=350x450&maptype=${mapType}&markers=color:red%7Clabel:C%7C${latitude},${longitude}&key=${GOOGLE_API_KEY}`;

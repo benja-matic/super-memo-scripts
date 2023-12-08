@@ -4,7 +4,6 @@ import jsdom from 'jsdom';
 import path from 'path';
 import { getCourse } from "./helpers/course.js";
 import config from "./helpers/import_env.js";
-
 config();
 
 // DONT FORGET TO UPDATE
@@ -15,8 +14,8 @@ const token = process.env?.[`${env_prefix}SUPER_MEMO_TOKEN`];
 const USE_CACHE = false;
 
 const COURSE_FILENAME = "./data/geogussr/courses/GeoImages.json";
-const MAP_FILENAME = "./data/geogussr/map_images/cache/street.json";
-const BASE_URL = 'https://public.fotki.com/GeogussrLearning/geohints-street-map/?show=all';
+const MAP_FILENAME = "./data/geogussr/map_images/cache/poles.json";
+const BASE_URL = 'https://public.fotki.com/GeogussrLearning/geohints-poles-map-/?show=all';
 
 const updateCourse = async (userId, courseId, token, courseName) => {
     const course = await getCourse(userId, courseId, token, courseName, USE_CACHE);
