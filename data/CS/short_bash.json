@@ -1,0 +1,1754 @@
+[
+    {
+        "question": "Run history number (e.g. 53)",
+        "answer": "!53"
+    },
+    {
+        "question": "Run last command",
+        "answer": "!!\n# run the previous command using sudo\nsudo !!"
+    },
+    {
+        "question": "Run past command that began with (e.g. cat filename)",
+        "answer": "!cat\n# or\n!c\n# run cat filename again"
+    },
+    {
+        "question": "Get the length of variable",
+        "answer": "var=\"some string\"\necho ${#var}\n# 11"
+    },
+    {
+        "question": "Get the first character of the variable",
+        "answer": "var=string\necho \"${var:0:1}\"\n#s\n\n# or\necho ${var%%\"${var#?}\"}"
+    },
+    {
+        "question": "Remove the first or last string from variable",
+        "answer": "var=\"some string\"\necho ${var:2}\n#me string"
+    },
+    {
+        "question": "Replacement (e.g. remove the first leading 0 )",
+        "answer": "var=\"0050\"\necho ${var[@]#0}\n#050"
+    },
+    {
+        "question": "Replacement (e.g. replace 'a' with ',')",
+        "answer": "{var/a/,}"
+    },
+    {
+        "question": "Replace all (e.g. replace all 'a' with ',')",
+        "answer": "{var//a/,}"
+    },
+    {
+        "question": "To change the case of the string stored in the variable to lowercase (Parameter Expansion)",
+        "answer": "var=HelloWorld\necho ${var,,}\nhelloworld"
+    },
+    {
+        "question": "Expand and then execute variable/argument",
+        "answer": "cmd=\"bar=foo\"\neval \"$cmd\"\necho \"$bar\" # foo"
+    },
+    {
+        "question": "Print out the prime factors of a number (e.g. 50)",
+        "answer": "factor 50\n# 50: 2 5 5"
+    },
+    {
+        "question": "Sum up input list (e.g. seq 10)",
+        "answer": "seq 10|paste -sd+|bc"
+    },
+    {
+        "question": "Sum up a file (each line in file contains only one number)",
+        "answer": "awk '{s+=$1} END {print s}' filename"
+    },
+    {
+        "question": "Column subtraction",
+        "answer": "cat file| awk -F '\\t' 'BEGIN {SUM=0}{SUM+=$3-$2}END{print SUM}'"
+    },
+    {
+        "question": "Simple math with expr",
+        "answer": "expr 10+20 #30\nexpr 10\\*20 #600\nexpr 30 \\> 20 #1 (true)"
+    },
+    {
+        "question": " Grep and count number of empty lines",
+        "answer": "grep -c \"^$\""
+    },
+    {
+        "question": " Grep and return only integer",
+        "answer": "grep -o '[0-9]*'\n#or\ngrep -oP '\\d*'"
+    },
+    {
+        "question": " Grep integer with certain number of digits (e.g. 3)",
+        "answer": "grep '[0-9]\\{3\\}'\n# or\ngrep -E '[0-9]{3}'\n# or\ngrep -P '\\d{3}'"
+    },
+    {
+        "question": " Grep whole word (e.g. 'target')",
+        "answer": "grep -w 'target'\n\n#or using RE\ngrep '\\btarget\\b'"
+    },
+    {
+        "question": " Grep string starting with (e.g. 'S')",
+        "answer": "grep -o 'S.*'"
+    },
+    {
+        "question": "Extract text between words (e.g. w1,w2)",
+        "answer": "grep -o -P '(?<=w1).*(?=w2)'"
+    },
+    {
+        "question": "Grep lines without word (e.g. 'bbo')",
+        "answer": "grep -v bbo filename"
+    },
+    {
+        "question": "Grep lines not begin with string (e.g. #)",
+        "answer": "grep -v '^#' file.txt"
+    },
+    {
+        "question": "Grep variables with space within it (e.g. myvar=\"some strings\")",
+        "answer": "grep \"$myvar\" filename\n#remember to quote the variable!"
+    },
+    {
+        "question": "Grep only one/first match (e.g. 'bbo')",
+        "answer": "grep -m 1 bbo filename"
+    },
+    {
+        "question": "Grep and return number of matching line(e.g. 'bbo')",
+        "answer": "grep -c bbo filename"
+    },
+    {
+        "question": "Count occurrence (e.g. three times a line count three times)",
+        "answer": "grep -o bbo filename |wc -l"
+    },
+    {
+        "question": "Case insensitive grep (e.g. 'bbo'/'BBO'/'Bbo')",
+        "answer": "grep -i \"bbo\" filename"
+    },
+    {
+        "question": "COLOR the match (e.g. 'bbo')!",
+        "answer": "grep --color bbo filename"
+    },
+    {
+        "question": "Grep search all files in a directory(e.g. 'bbo')",
+        "answer": "grep -R bbo /path/to/directory\n# or\ngrep -r bbo /path/to/directory"
+    },
+    {
+        "question": "Search all files in directory, do not ouput the filenames (e.g. 'bbo')",
+        "answer": "grep -rh bbo /path/to/directory"
+    },
+    {
+        "question": "Search all files in directory, output ONLY the filenames with matches(e.g. 'bbo')",
+        "answer": "grep -rl bbo /path/to/directory"
+    },
+    {
+        "question": "Grep OR (e.g. A or B or C or D)",
+        "answer": "grep 'A\\|B\\|C\\|D'"
+    },
+    {
+        "question": "Grep AND (e.g. A and B)",
+        "answer": "grep 'A.*B'"
+    },
+    {
+        "question": "Regex any single character (e.g. ACB or AEB)",
+        "answer": "grep 'A.B'"
+    },
+    {
+        "question": "Regex with or without a certain character (e.g. color or colour)",
+        "answer": "grep 'colou\\?r'"
+    },
+    {
+        "question": "Grep all content of a fileA from fileB",
+        "answer": "grep -f fileA fileB"
+    },
+    {
+        "question": "Grep a tab",
+        "answer": "grep $'\\t'"
+    },
+    {
+        "question": "Grep strings between a bracket()",
+        "answer": "grep -oP '\\(\\K[^\\)]+'"
+    },
+    {
+        "question": "Grep number of characters with known strings in between(e.g. AAEL000001-RA)",
+        "answer": "grep -o -w \"\\w\\{10\\}\\-R\\w\\{1\\}\"\n# \\w word character [0-9a-zA-Z_] \\W not word character"
+    },
+    {
+        "question": "Skip directory (e.g. 'bbo')",
+        "answer": "grep -d skip 'bbo' /path/to/files/*"
+    },
+    {
+        "question": "Remove the 1st line",
+        "answer": "sed 1d filename"
+    },
+    {
+        "question": "Remove the first 100 lines (remove line 1-100)",
+        "answer": "sed 1,100d filename"
+    },
+    {
+        "question": "Remove lines with string (e.g. 'bbo')",
+        "answer": "sed \"/bbo/d\" filename\n# case insensitive:\nsed \"/bbo/Id\" filename"
+    },
+    {
+        "question": "Remove lines whose nth character not equal to a value (e.g. 5th character not equal to 2)",
+        "answer": "sed -E '/^.{5}[^2]/d'\n#aaaa2aaa (you can stay)\n#aaaa1aaa (delete!)"
+    },
+    {
+        "question": "Edit infile (edit and save to file), (e.g. deleting the lines with 'bbo' and save to file)",
+        "answer": "sed -i \"/bbo/d\" filename"
+    },
+    {
+        "question": "Delete/remove empty lines",
+        "answer": "sed '/^\\s*$/d'\n\n# or\n\nsed '/^$/d'"
+    },
+    {
+        "question": "Delete/remove last line",
+        "answer": "sed '$d'"
+    },
+    {
+        "question": "Delete/remove last character from end of file",
+        "answer": "sed -i '$ s/.$//' filename"
+    },
+    {
+        "question": "Add string to beginning of file (e.g. \"\\[\")",
+        "answer": "sed -i '1s/^/[/' file"
+    },
+    {
+        "question": "Add string at certain line number (e.g. add 'something' to line 1 and line 3)",
+        "answer": "sed -e '1isomething' -e '3isomething'"
+    },
+    {
+        "question": "Add string to end of file (e.g. \"]\")",
+        "answer": "sed '$s/$/]/' filename"
+    },
+    {
+        "question": "Add newline to the end",
+        "answer": "sed '$a\\'"
+    },
+    {
+        "question": "Add string to beginning of every line (e.g. 'bbo')",
+        "answer": "sed -e 's/^/bbo/' filename"
+    },
+    {
+        "question": "Add string to end of each line (e.g. \"}\")",
+        "answer": "sed -e 's/$/\\}\\]/' filename"
+    },
+    {
+        "question": "Add \\n every nth character (e.g. every 4th character)",
+        "answer": "sed 's/.\\{4\\}/&\\n/g'"
+    },
+    {
+        "question": "Add a line after the line that matches the pattern (e.g. add a new line with \"world\" after the line with \"hello\")",
+        "answer": "sed '/hello*/a world' filename\n# hello\n# world"
+    },
+    {
+        "question": "Concatenate/combine/join files with a separator and next line (e.g separate by \",\")",
+        "answer": "sed -s '$a,' *.json > all.json"
+    },
+    {
+        "question": "Substitution (e.g. replace A by B)",
+        "answer": "sed 's/A/B/g' filename"
+    },
+    {
+        "question": "Substitution with wildcard (e.g. replace a line start with aaa= by aaa=/my/new/path)",
+        "answer": "sed \"s/aaa=.*/aaa=\\/my\\/new\\/path/g\""
+    },
+    {
+        "question": "Select lines start with string (e.g. 'bbo')",
+        "answer": "sed -n '/^@S/p'"
+    },
+    {
+        "question": "Delete lines with string (e.g. 'bbo')",
+        "answer": "sed '/bbo/d' filename"
+    },
+    {
+        "question": "Print/get/trim a range of line (e.g. line 500-5000)",
+        "answer": "sed -n 500,5000p filename"
+    },
+    {
+        "question": "Print every nth lines",
+        "answer": "sed -n '0~3p' filename\n\n# catch 0: start; 3: step"
+    },
+    {
+        "question": "Print every odd # lines",
+        "answer": "sed -n '1~2p'"
+    },
+    {
+        "question": "Print every third line including the first line",
+        "answer": "sed -n '1p;0~3p'"
+    },
+    {
+        "question": "Remove leading whitespace and tabs",
+        "answer": "sed -e 's/^[ \\t]*//'\n# Notice a whitespace before '\\t'!!"
+    },
+    {
+        "question": "Remove only leading whitespace",
+        "answer": "sed 's/ *//'\n\n# notice a whitespace before '*'!!"
+    },
+    {
+        "question": "Remove ending commas",
+        "answer": "sed 's/,$//g'"
+    },
+    {
+        "question": "Add extension of filename to last column",
+        "answer": "for i in T000086_1.02.n T000086_1.02.p; do sed \"s/$/\\t${i/*./}/\" $i; done >T000086_1.02.np"
+    },
+    {
+        "question": "Remove newline\\ nextline",
+        "answer": "sed ':a;N;$!ba;s/\\n//g'"
+    },
+    {
+        "question": "Print a particular line (e.g. 123th line)",
+        "answer": "sed -n -e '123p'"
+    },
+    {
+        "question": "Print a number of lines (e.g. line 10th to line 33 rd)",
+        "answer": "sed -n '10,33p' <filename"
+    },
+    {
+        "question": "Change delimiter",
+        "answer": "sed 's=/=\\\\/=g'"
+    },
+    {
+        "question": "Replace with wildcard (e.g A-1-e or A-2-e or A-3-e....)",
+        "answer": "sed 's/A-.*-e//g' filename"
+    },
+    {
+        "question": "Remove last character of file",
+        "answer": "sed '$ s/.$//'"
+    },
+    {
+        "question": "Insert character at specified position of file (e.g. AAAAAA --> AAA#AAA)",
+        "answer": "sed -r -e 's/^.{3}/&#/' file"
+    },
+    {
+        "question": "Set tab as field separator",
+        "answer": "awk -F $'\\t'"
+    },
+    {
+        "question": "Output as tab separated (also as field separator)",
+        "answer": "awk -v OFS='\\t'"
+    },
+    {
+        "question": "Pass variable",
+        "answer": "a=bbo;b=obb;\nawk -v a=\"$a\" -v b=\"$b\" \"$1==a && $10=b\" filename"
+    },
+    {
+        "question": "Print line number and number of characters on each line",
+        "answer": "awk '{print NR,length($0);}' filename"
+    },
+    {
+        "question": "Find number of columns",
+        "answer": "awk '{print NF}'"
+    },
+    {
+        "question": "Reverse column order",
+        "answer": "awk '{print $2, $1}'"
+    },
+    {
+        "question": "Check if there is a comma in a column (e.g. column $1)",
+        "answer": "awk '$1~/,/ {print}'"
+    },
+    {
+        "question": "Split and do for loop",
+        "answer": "awk '{split($2, a,\",\");for (i in a) print $1\"\\t\"a[i]}' filename"
+    },
+    {
+        "question": "Print all lines before nth occurrence of a string (e.g stop print lines when 'bbo' appears 7 times)",
+        "answer": "awk -v N=7 '{print}/bbo/&& --N<=0 {exit}'"
+    },
+    {
+        "question": "Print filename and last line of all files in directory",
+        "answer": "ls|xargs -n1 -I file awk '{s=$0};END{print FILENAME,s}' file"
+    },
+    {
+        "question": "Add string to the beginning of a column (e.g add \"chr\" to column $3)",
+        "answer": "awk 'BEGIN{OFS=\"\\t\"}$3=\"chr\"$3'"
+    },
+    {
+        "question": "Remove lines with string (e.g. 'bbo')",
+        "answer": "awk '!/bbo/' file"
+    },
+    {
+        "question": "Remove last column",
+        "answer": "awk 'NF{NF-=1};1' file"
+    },
+    {
+        "question": "Give number/index to every row",
+        "answer": "awk '{printf(\"%s\\t%s\\n\",NR,$0)}'"
+    },
+    {
+        "question": "Average a file (each line in file contains only one number)",
+        "answer": "awk '{s+=$1}END{print s/NR}'"
+    },
+    {
+        "question": "Print field start with string (e.g Linux)",
+        "answer": "awk '$1 ~ /^Linux/'"
+    },
+    {
+        "question": "Subtract previous row values (add column6 which equal to column4 minus last column5)",
+        "answer": "awk '{$6 = $4 - prev5; prev5 = $5; print;}'"
+    },
+    {
+        "question": "Set tab as delimiter (default:space)",
+        "answer": "xargs -d\\t"
+    },
+    {
+        "question": "Prompt commands before running commands. Use ls as example.",
+        "answer": "ls|xargs -L1 -p head"
+    },
+    {
+        "question": "Display 3 items per line",
+        "answer": "echo 1 2 3 4 5 6| xargs -n 3\n# 1 2 3\n# 4 5 6"
+    },
+    {
+        "question": "Prompt before execution",
+        "answer": "echo a b c |xargs -p -n 3"
+    },
+    {
+        "question": "Print command along with output",
+        "answer": "xargs -t abcd\n# bin/echo abcd\n# abcd"
+    },
+    {
+        "question": "With find and rm",
+        "answer": "find . -name \"*.html\"|xargs rm\n\n# when using a backtick\nrm `find . -name \"*.html\"`"
+    },
+    {
+        "question": "Delete files with whitespace in filename (e.g. \"hello 2001\")",
+        "answer": "find . -name \"*.c\" -print0|xargs -0 rm -rf"
+    },
+    {
+        "question": "Move first 100th files to a directory (e.g. d1)",
+        "answer": "ls |head -100|xargs -I {} mv {} d1"
+    },
+    {
+        "question": "Parallel",
+        "answer": "time echo {1..5} |xargs -n 1 -P 5 sleep\n\n# a lot faster than:\ntime echo {1..5} |xargs -n1 sleep"
+    },
+    {
+        "question": "With sed",
+        "answer": "ls |xargs -n1 -I file sed -i '/^Pos/d' file"
+    },
+    {
+        "question": "Add the file name to the first line of file",
+        "answer": "ls |sed 's/.txt//g'|xargs -n1 -I file sed -i -e '1 i\\>file\\' file.txt"
+    },
+    {
+        "question": "Count all files",
+        "answer": "ls |xargs -n1 wc -l"
+    },
+    {
+        "question": "Turn output into a single line",
+        "answer": "ls -l| xargs"
+    },
+    {
+        "question": "Count lines in all file, also count total lines",
+        "answer": "ls|xargs wc -l"
+    },
+    {
+        "question": "Xargs and grep",
+        "answer": "cat grep_list |xargs -I{} grep {} filename"
+    },
+    {
+        "question": "Xargs and sed (replace all old ip address with new ip address under /etc directory)",
+        "answer": "grep -rl '192.168.1.111' /etc | xargs sed -i 's/192.168.1.111/192.168.2.111/g'"
+    },
+    {
+        "question": "List all sub directory/file in the current directory",
+        "answer": "find ."
+    },
+    {
+        "question": "List all files under the current directory",
+        "answer": "find . -type f"
+    },
+    {
+        "question": "List all directories under the current directory",
+        "answer": "find . -type d"
+    },
+    {
+        "question": "Find and output only filename (e.g. \"mso\")",
+        "answer": "find mso*/ -name M* -printf \"%f\\n\""
+    },
+    {
+        "question": "Find large files in the system (e.g. >4G)",
+        "answer": "find / -type f -size +4G"
+    },
+    {
+        "question": "Find and delete file with size less than (e.g. 74 byte)",
+        "answer": "find . -name \"*.mso\" -size -74c -delete\n\n# M for MB, etc"
+    },
+    {
+        "question": "Find empty (0 byte) files",
+        "answer": "find . -type f -empty\n# to further delete all the empty files\nfind . -type f -empty -delete"
+    },
+    {
+        "question": "Recursively count all the files in a directory",
+        "answer": "find . -type f | wc -l"
+    },
+    {
+        "question": "Find out the time require for executing a command",
+        "answer": "time echo hi"
+    },
+    {
+        "question": "Wait for some time (e.g 10s)",
+        "answer": "sleep 10"
+    },
+    {
+        "question": "wait for random duration (e.g. sleep 1-5 second, like adding a jitter)",
+        "answer": "sleep $[ ( $RANDOM % 5 ) + 1 ]"
+    },
+    {
+        "question": "Log out your account after a certain period of time (e.g 10 seconds)",
+        "answer": "TMOUT=10\n#once you set this variable, logout timer start running!"
+    },
+    {
+        "question": "Set how long you want to run a command",
+        "answer": "#This will run the command 'sleep 10' for only 1 second.\ntimeout 1 sleep 10"
+    },
+    {
+        "question": "Wget to a filename (when a long name)",
+        "answer": "wget -O filename \"http://example.com\""
+    },
+    {
+        "question": "Wget files to a folder",
+        "answer": "wget -P /path/to/directory \"http://example.com\""
+    },
+    {
+        "question": "Instruct curl to follow any redirect until it reaches the final destination:",
+        "answer": "curl -L google.com"
+    },
+    {
+        "question": "Random pick 100 lines from a file",
+        "answer": "shuf -n 100 filename"
+    },
+    {
+        "question": "Random order (lucky draw)",
+        "answer": "for i in a b c d e; do echo $i; done | shuf"
+    },
+    {
+        "question": "Echo series of random numbers between a range (e.g. shuffle numbers from 0-100, then pick 15 of them randomly)",
+        "answer": "shuf -i 0-100 -n 15"
+    },
+    {
+        "question": "Echo a random number",
+        "answer": "echo $RANDOM"
+    },
+    {
+        "question": "Random from 0-9",
+        "answer": "echo $((RANDOM % 10))"
+    },
+    {
+        "question": "Random from 1-10",
+        "answer": "echo $(((RANDOM %10)+1))"
+    },
+    {
+        "question": "Little xwindow tools",
+        "answer": "xclock\nxeyes\nxcowsay"
+    },
+    {
+        "question": "Open pictures/images from ssh server",
+        "answer": "1. ssh -X user_name@ip_address\n2. apt-get install eog\n3. eog picture.png"
+    },
+    {
+        "question": "Watch videos on server",
+        "answer": "1. ssh -X user_name@ip_address\n2. sudo apt install mpv\n3. mpv myvideo.mp4"
+    },
+    {
+        "question": "Use gedit on server (GUI editor)",
+        "answer": "1. ssh -X user_name@ip_address\n2. apt-get install gedit\n3. gedit filename.txt"
+    },
+    {
+        "question": "Open PDF file from ssh server",
+        "answer": "1. ssh -X user_name@ip_address\n2. apt-get install evince\n3. evince filename.pdf"
+    },
+    {
+        "question": "Audit files to see who made changes to a file [RedHat based system only]",
+        "answer": ""
+    },
+    {
+        "question": "Check out whether SELinux is enabled",
+        "answer": ""
+    },
+    {
+        "question": "Generate public key from private key",
+        "answer": ""
+    },
+    {
+        "question": "Copy your default public key to remote user",
+        "answer": ""
+    },
+    {
+        "question": "Copy default public key to remote user using the required private key (e.g. use your mykey.pem key to copy your id_rsa.pub to the remote user)",
+        "answer": ""
+    },
+    {
+        "question": "SSH Agent Forwarding",
+        "answer": ""
+    },
+    {
+        "question": "Set the default user and key for a host when using SSH",
+        "answer": ""
+    },
+    {
+        "question": "Follow the most recent logs from service",
+        "answer": ""
+    },
+    {
+        "question": "Eliminate the zombie",
+        "answer": ""
+    },
+    {
+        "question": "Eliminate the zombie",
+        "answer": "###### Show memory usage"
+    },
+    {
+        "question": "Display CPU and IO statistics for devices and partitions.",
+        "answer": ""
+    },
+    {
+        "question": "Display bandwidth usage on an network interface (e.g. enp175s0f0)",
+        "answer": ""
+    },
+    {
+        "question": "Tell how long the system has been running and number of users",
+        "answer": ""
+    },
+    {
+        "question": "Check if it's root running",
+        "answer": ""
+    },
+    {
+        "question": "Change shell of a user (e.g. bonnie)",
+        "answer": ""
+    },
+    {
+        "question": "Change root / fake root / jail (e.g. change root to newroot)",
+        "answer": ""
+    },
+    {
+        "question": "Display file status (size; access, modify and change time, etc) of a file (e.g. filename.txt)",
+        "answer": ""
+    },
+    {
+        "question": "Snapshot of the current processes",
+        "answer": ""
+    },
+    {
+        "question": "Display a tree of processes",
+        "answer": ""
+    },
+    {
+        "question": "Find maximum number of processes",
+        "answer": ""
+    },
+    {
+        "question": "Print or control the kernel ring buffer",
+        "answer": ""
+    },
+    {
+        "question": "Show IP address",
+        "answer": ""
+    },
+    {
+        "question": "Print previous and current SysV runlevel",
+        "answer": ""
+    },
+    {
+        "question": "Change SysV runlevel (e.g. 5)",
+        "answer": ""
+    },
+    {
+        "question": "Display all available services in all runlevels,",
+        "answer": ""
+    },
+    {
+        "question": "Check system version",
+        "answer": ""
+    },
+    {
+        "question": "Linux Programmer's Manuel: hier- description of the filesystem hierarchy",
+        "answer": ""
+    },
+    {
+        "question": "Control the systemd system and service manager",
+        "answer": ""
+    },
+    {
+        "question": "List job",
+        "answer": ""
+    },
+    {
+        "question": "Run a program with modified priority (e.g. ./test.sh)",
+        "answer": ""
+    },
+    {
+        "question": "Export PATH",
+        "answer": ""
+    },
+    {
+        "question": "Make file executable",
+        "answer": ""
+    },
+    {
+        "question": "Print system information",
+        "answer": ""
+    },
+    {
+        "question": "Surf the net",
+        "answer": ""
+    },
+    {
+        "question": "Add user, set passwd",
+        "answer": ""
+    },
+    {
+        "question": "Edit PS1 variable for bash (e.g. displaying the whole path)",
+        "answer": ""
+    },
+    {
+        "question": "Edit environment setting (e.g. alias)",
+        "answer": ""
+    },
+    {
+        "question": "Print all alias",
+        "answer": ""
+    },
+    {
+        "question": "Unalias (e.g. after alias ls='ls --color=auto')",
+        "answer": ""
+    },
+    {
+        "question": "Set and unset shell options",
+        "answer": ""
+    },
+    {
+        "question": "List environment variables (e.g. PATH)",
+        "answer": ""
+    },
+    {
+        "question": "List all environment variables for current user",
+        "answer": ""
+    },
+    {
+        "question": "Unset environment variable (e.g. unset variable 'MYVAR')",
+        "answer": ""
+    },
+    {
+        "question": "Show partition format",
+        "answer": ""
+    },
+    {
+        "question": "Inform the OS of partition table changes",
+        "answer": ""
+    },
+    {
+        "question": "Soft link program to bin",
+        "answer": ""
+    },
+    {
+        "question": "Show hexadecimal view of data",
+        "answer": ""
+    },
+    {
+        "question": "Jump to different node",
+        "answer": ""
+    },
+    {
+        "question": "Check port (active internet connection)",
+        "answer": ""
+    },
+    {
+        "question": "Print resolved symbolic links or canonical file names",
+        "answer": ""
+    },
+    {
+        "question": "Find out the type of command and where it link to (e.g. python)",
+        "answer": ""
+    },
+    {
+        "question": "List all functions names",
+        "answer": ""
+    },
+    {
+        "question": "List total size of a directory",
+        "answer": ""
+    },
+    {
+        "question": "Copy directory with permission setting",
+        "answer": ""
+    },
+    {
+        "question": "Store current directory",
+        "answer": ""
+    },
+    {
+        "question": "Show disk usage",
+        "answer": ""
+    },
+    {
+        "question": "check the Inode utilization",
+        "answer": ""
+    },
+    {
+        "question": "Show all file system type",
+        "answer": ""
+    },
+    {
+        "question": "Show current runlevel",
+        "answer": ""
+    },
+    {
+        "question": "Switch runlevel",
+        "answer": ""
+    },
+    {
+        "question": "Permanently modify runlevel",
+        "answer": ""
+    },
+    {
+        "question": "Become root",
+        "answer": ""
+    },
+    {
+        "question": "Become somebody",
+        "answer": ""
+    },
+    {
+        "question": "Report user quotes on device",
+        "answer": ""
+    },
+    {
+        "question": "Get entries in a number of important databases",
+        "answer": ""
+    },
+    {
+        "question": "Change owner of file",
+        "answer": ""
+    },
+    {
+        "question": "Mount and unmount",
+        "answer": ""
+    },
+    {
+        "question": "List current mount detail",
+        "answer": ""
+    },
+    {
+        "question": "List current usernames and user-numbers",
+        "answer": ""
+    },
+    {
+        "question": "Get all username",
+        "answer": ""
+    },
+    {
+        "question": "Show all users",
+        "answer": ""
+    },
+    {
+        "question": "Show all groups",
+        "answer": ""
+    },
+    {
+        "question": "Show group of user",
+        "answer": ""
+    },
+    {
+        "question": "Show uid, gid, group of user",
+        "answer": ""
+    },
+    {
+        "question": "Check if it's root",
+        "answer": ""
+    },
+    {
+        "question": "Find out CPU information",
+        "answer": ""
+    },
+    {
+        "question": "Set quota for user (e.g. disk soft limit: 120586240; hard limit: 125829120)",
+        "answer": ""
+    },
+    {
+        "question": "Show quota for user",
+        "answer": ""
+    },
+    {
+        "question": "Display current libraries from the cache",
+        "answer": ""
+    },
+    {
+        "question": "Print shared library dependencies (e.g. for 'ls')",
+        "answer": ""
+    },
+    {
+        "question": "Check user login",
+        "answer": ""
+    },
+    {
+        "question": "Check last reboot history",
+        "answer": ""
+    },
+    {
+        "question": "Edit path for all users",
+        "answer": ""
+    },
+    {
+        "question": "Show and set user limit",
+        "answer": ""
+    },
+    {
+        "question": "Print out number of cores/ processors",
+        "answer": ""
+    },
+    {
+        "question": "Check status of each core",
+        "answer": ""
+    },
+    {
+        "question": "Show jobs and PID",
+        "answer": ""
+    },
+    {
+        "question": "List all running services",
+        "answer": ""
+    },
+    {
+        "question": "Schedule shutdown server",
+        "answer": ""
+    },
+    {
+        "question": "Cancel scheduled shutdown",
+        "answer": ""
+    },
+    {
+        "question": "Broadcast to all users",
+        "answer": ""
+    },
+    {
+        "question": "Kill all process of a user",
+        "answer": ""
+    },
+    {
+        "question": "Kill all process of a program",
+        "answer": ""
+    },
+    {
+        "question": "Set gedit preference on server",
+        "answer": ""
+    },
+    {
+        "question": "Add user to a group (e.g add user 'nice' to the group 'docker', so that he can run docker without sudo)",
+        "answer": ""
+    },
+    {
+        "question": "Pip install python package without root",
+        "answer": ""
+    },
+    {
+        "question": "Removing old linux kernels (when /boot almost full...)",
+        "answer": ""
+    },
+    {
+        "question": "Change hostname",
+        "answer": ""
+    },
+    {
+        "question": "List installed packages",
+        "answer": "apt list --installed\n\n# or on Red Hat:\nyum list installed"
+    },
+    {
+        "question": "Check for package update",
+        "answer": "apt list --upgradeable\n\n# or\nsudo yum check-update"
+    },
+    {
+        "question": "Run yum update excluding a package (e.g. do not update php packages)",
+        "answer": "sudo yum update --exclude=php*"
+    },
+    {
+        "question": "Check which file make the device busy on umount",
+        "answer": "lsof /mnt/dir"
+    },
+    {
+        "question": "When sound not working",
+        "answer": "killall pulseaudio\n# then press Alt-F2 and type in pulseaudio"
+    },
+    {
+        "question": "List information about SCSI devices",
+        "answer": "lsscsi"
+    },
+    {
+        "question": "Using telnet to test open ports, test if you can connect to a port (e.g 53) of a server (e.g 192.168.2.106)",
+        "answer": "telnet 192.168.2.106 53"
+    },
+    {
+        "question": "Change network maximum transmission unit (mtu) (e.g. change to 9000)",
+        "answer": "ifconfig eth0 mtu 9000"
+    },
+    {
+        "question": "Get pid of a running process (e.g python)",
+        "answer": "pidof python\n\n# or\nps aux|grep python"
+    },
+    {
+        "question": "Check status of a process using PID",
+        "answer": "ps -p <PID>\n\n#or\ncat /proc/<PID>/status\ncat /proc/<PID>/stack\ncat /proc/<PID>/stat"
+    },
+    {
+        "question": "NTP",
+        "answer": "# Start ntp:\nntpd\n\n# Check ntp:\nntpq -p"
+    },
+    {
+        "question": "Create a UEFI Bootable USB drive (e.g. /dev/sdc1)",
+        "answer": "sudo dd if=~/path/to/isofile.iso of=/dev/sdc1 oflag=direct bs=1048576"
+    },
+    {
+        "question": "Locate and remove a package",
+        "answer": "sudo dpkg -l | grep <package_name>\nsudo dpkg --purge <package_name>"
+    },
+    {
+        "question": "Show a listing of last logged in users.",
+        "answer": "lastb"
+    },
+    {
+        "question": "Show a listing of current logged in users, print information of them",
+        "answer": "who"
+    },
+    {
+        "question": "Show who is logged on and what they are doing",
+        "answer": "w"
+    },
+    {
+        "question": "Print the user names of users currently logged in to the current host.",
+        "answer": "users"
+    },
+    {
+        "question": "Stop tailing a file on program terminate",
+        "answer": "tail -f --pid=<PID> filename.txt\n# replace <PID> with the process ID of the program."
+    },
+    {
+        "question": "List all enabled services",
+        "answer": "systemctl list-unit-files|grep enabled"
+    },
+    {
+        "question": "Finding Out memory device detail",
+        "answer": "sudo dmidecode -t memory"
+    },
+    {
+        "question": "Count the number of Segate hard disks",
+        "answer": "lsscsi|grep SEAGATE|wc -l\n# or\nsg_map -i -x|grep SEAGATE|wc -l"
+    },
+    {
+        "question": "Get UUID of a disk (e.g. sdb)",
+        "answer": "lsblk -f /dev/sdb\n\n# or\nsudo blkid /dev/sdb"
+    },
+    {
+        "question": "Generate an UUID",
+        "answer": "uuidgen"
+    },
+    {
+        "question": "List all PCI (Peripheral Component Interconnect) devices",
+        "answer": "lspci\n# List information about NIC\nlspci | egrep -i --color 'network|ethernet'"
+    },
+    {
+        "question": "List all USB devices",
+        "answer": "lsusb"
+    },
+    {
+        "question": "Resolve a domain to IP address(es)",
+        "answer": "dig +short www.example.com\n\n# or\nhost www.example.com"
+    },
+    {
+        "question": "Get DNS TXT record a of domain",
+        "answer": "dig -t txt www.example.com\n\n# or\nhost -t txt www.example.com"
+    },
+    {
+        "question": "Send a ping with a limited TTL to 10 (TTL: Time-To-Live, which is the maximum number of hops that a packet can travel across the Internet before it gets discarded.)",
+        "answer": "ping 8.8.8.8 -t 10"
+    },
+    {
+        "question": "Print the route packets trace to network host",
+        "answer": "traceroute google.com"
+    },
+    {
+        "question": "Look up website information (e.g. name server), searches for an object in a RFC 3912 database.",
+        "answer": "whois google.com"
+    },
+    {
+        "question": "Show the SSL certificate of a domain",
+        "answer": "openssl s_client -showcerts -connect www.example.com:443"
+    },
+    {
+        "question": "Display IP address",
+        "answer": "ip a"
+    },
+    {
+        "question": "Display route table",
+        "answer": "ip r"
+    },
+    {
+        "question": "Display ARP cache (ARP cache displays the MAC addresses of device in the same network that you have connected to)",
+        "answer": "ip n"
+    },
+    {
+        "question": "Add transient IP addres (reset after reboot) (e.g. add 192.168.140.3/24 to device eno16777736)",
+        "answer": "ip address add 192.168.140.3/24 dev eno16777736"
+    },
+    {
+        "question": "Refresh NetworkManager",
+        "answer": "sudo nmcli c reload"
+    },
+    {
+        "question": "Restart all interfaces",
+        "answer": "sudo systemctl restart network.service"
+    },
+    {
+        "question": "To view hostname, OS, kernal, architecture at the same time!",
+        "answer": "hostnamectl"
+    },
+    {
+        "question": "Set hostname (set all transient, static, pretty hostname at once)",
+        "answer": "hostnamectl set-hostname \"mynode\""
+    },
+    {
+        "question": "Find out the http status code of a URL",
+        "answer": "curl -s -o /dev/null -w \"%{http_code}\" https://www.google.com"
+    },
+    {
+        "question": "Unshorten a shortended URL",
+        "answer": "curl -s -o /dev/null -w \"%{redirect_url}\" https://bit.ly/34EFwWC"
+    },
+    {
+        "question": "Repeat printing string n times (e.g. print 'hello world' five times)",
+        "answer": "printf 'hello world\\n%.0s' {1..5}"
+    },
+    {
+        "question": "Do not echo the trailing newline",
+        "answer": "username=`echo -n \"bashoneliner\"`"
+    },
+    {
+        "question": "Copy a file to multiple files (e.g copy fileA to file(B-D))",
+        "answer": "tee <fileA fileB fileC fileD >/dev/null"
+    },
+    {
+        "question": "Delete all non-printing characters",
+        "answer": "tr -dc '[:print:]' < filename"
+    },
+    {
+        "question": "Remove newline / nextline",
+        "answer": "tr --delete '\\n' <input.txt >output.txt"
+    },
+    {
+        "question": "Replace newline",
+        "answer": "tr '\\n' ' ' <filename"
+    },
+    {
+        "question": "To uppercase/lowercase",
+        "answer": "tr /a-z/ /A-Z/"
+    },
+    {
+        "question": "Translate a range of characters (e.g. substitute a-z into a)",
+        "answer": "echo 'something' |tr a-z a\n# aaaaaaaaa"
+    },
+    {
+        "question": "Compare two files, strip trailing carriage return/ nextline (e.g. fileA, fileB)",
+        "answer": "diff fileA fileB --strip-trailing-cr"
+    },
+    {
+        "question": "Combine/ paste two or more files into columns (e.g. fileA, fileB, fileC)",
+        "answer": "paste fileA fileB fileC\n# default tab separate"
+    },
+    {
+        "question": "Fastq to fasta (fastq and fasta are common file formats for bioinformatics sequence data)",
+        "answer": "cat file.fastq | paste - - - - | sed 's/^@/>/g'| cut -f1-2 | tr '\\t' '\\n' >file.fa"
+    },
+    {
+        "question": "Reverse string",
+        "answer": "echo 12345| rev"
+    },
+    {
+        "question": "Generate sequence 1-10",
+        "answer": "seq 10"
+    },
+    {
+        "question": "Find average of input list/file of integers",
+        "answer": "i=`wc -l filename|cut -d ' ' -f1`; cat filename| echo \"scale=2;(`paste -sd+`)/\"$i|bc"
+    },
+    {
+        "question": "Generate all combination (e.g. 1,2)",
+        "answer": "echo {1,2}{1,2}\n# 1 1, 1 2, 2 1, 2 2"
+    },
+    {
+        "question": "Read file content to variable",
+        "answer": "foo=$(<test1)"
+    },
+    {
+        "question": "Echo size of variable",
+        "answer": "echo ${#foo}"
+    },
+    {
+        "question": "Echo a tab",
+        "answer": "echo -e ' \\t '"
+    },
+    {
+        "question": "Rename all files (e.g. remove ABC from all .gz files)",
+        "answer": "rename 's/ABC//' *.gz"
+    },
+    {
+        "question": "Remove file extension (e.g remove .gz from filename.gz)",
+        "answer": "basename filename.gz .gz\n\nzcat filename.gz> $(basename filename.gz .gz).unpacked"
+    },
+    {
+        "question": "Squeeze repeat patterns (e.g. /t/t --> /t)",
+        "answer": "tr -s \"/t\" < filename"
+    },
+    {
+        "question": "Do not print nextline with echo",
+        "answer": "echo -e 'text here \\c'"
+    },
+    {
+        "question": "View first 50 characters of file",
+        "answer": "head -c 50 file"
+    },
+    {
+        "question": "Cut and get last column of a file",
+        "answer": "cat file|rev | cut -d/ -f1 | rev"
+    },
+    {
+        "question": "Add one to variable/increment/ i++ a numeric variable (e.g. $var)",
+        "answer": "((var++))\n# or\nvar=$((var+1))"
+    },
+    {
+        "question": "Cut the last column",
+        "answer": "cat filename|rev|cut -f1|rev"
+    },
+    {
+        "question": "Clear the contents of a file (e.g. filename)",
+        "answer": ">filename"
+    },
+    {
+        "question": "Append to file (e.g. hihi)",
+        "answer": "echo 'hihi' >>filename"
+    },
+    {
+        "question": "Wrap each input line to fit in specified width (e.g 4 integers per line)",
+        "answer": "echo \"00110010101110001101\" | fold -w4\n# 0011\n# 0010\n# 1011\n# 1000\n# 1101"
+    },
+    {
+        "question": "Sort a file by column and keep the original order",
+        "answer": "sort -k3,3 -s"
+    },
+    {
+        "question": "Right align a column (right align the 2nd column)",
+        "answer": "cat file.txt|rev|column -t|rev"
+    },
+    {
+        "question": "To both view and store the output",
+        "answer": "echo 'hihihihi' | tee outputfile.txt\n# use '-a' with tee to append to file."
+    },
+    {
+        "question": "Show non-printing (Ctrl) characters with cat",
+        "answer": "cat -v filename"
+    },
+    {
+        "question": "Convert tab to space",
+        "answer": "expand filename"
+    },
+    {
+        "question": "Convert space to tab",
+        "answer": "unexpand filename"
+    },
+    {
+        "question": "Display file in octal ( you can also use od to display hexadecimal, decimal, etc)",
+        "answer": "od filename"
+    },
+    {
+        "question": "Reverse cat a file",
+        "answer": "tac filename"
+    },
+    {
+        "question": "Reverse the result from `uniq -c`",
+        "answer": "while read a b; do yes $b |head -n $a ; done <test.txt"
+    },
+    {
+        "question": "Describe the format and characteristics of image files.",
+        "answer": "identify myimage.png\n#myimage.png PNG 1049x747 1049x747+0+0 8-bit sRGB 1.006MB 0.000u 0:00.000"
+    },
+    {
+        "question": "Convert the hexadecimal MD5 checksum value into its base64-encoded format.",
+        "answer": "openssl md5 -binary /path/to/file| base64\n# NWbeOpeQbtuY0ATWuUeumw=="
+    },
+    {
+        "question": "Forces applications to use the default language for output",
+        "answer": "export LC_ALL=C\n\n# to revert:\nunset LC_ALL"
+    },
+    {
+        "question": "Encode strings as Base64 strings",
+        "answer": "echo test|base64\n#dGVzdAo="
+    },
+    {
+        "question": "Get parent directory of current directory",
+        "answer": "dirname `pwd`"
+    },
+    {
+        "question": "Read .gz file without extracting",
+        "answer": "zmore filename\n\n# or\nzless filename"
+    },
+    {
+        "question": "Run multiple commands in background",
+        "answer": "# run sequentially\n(sleep 2; sleep 3) &\n\n# run parallelly\nsleep 2 & sleep 3 &"
+    },
+    {
+        "question": "Run process even when logout (immune to hangups, with output to a non-tty)",
+        "answer": "# e.g. Run myscript.sh even when log out.\nnohup bash myscript.sh"
+    },
+    {
+        "question": "Convert .xls to csv",
+        "answer": "xls2csv filename"
+    },
+    {
+        "question": "Make BEEP sound",
+        "answer": "speaker-test -t sine -f 1000 -l1"
+    },
+    {
+        "question": "Set beep duration",
+        "answer": "(speaker-test -t sine -f 1000) & pid=$!;sleep 0.1s;kill -9 $pid"
+    },
+    {
+        "question": "Editing your history",
+        "answer": "history -w\nvi ~/.bash_history\nhistory -r\n\n#or\nhistory -d [line_number]"
+    },
+    {
+        "question": "Delete current bash command",
+        "answer": "Ctrl+U\n\n# or\nCtrl+C\n\n# or\nAlt+Shift+#\n# to make it to history"
+    },
+    {
+        "question": "Add something to history (e.g. \"addmetohistory\")",
+        "answer": "# addmetodistory\n# just add a \"#\" before~~"
+    },
+    {
+        "question": "Get last history/record filename",
+        "answer": "head !$"
+    },
+    {
+        "question": "Clean screen",
+        "answer": "clear\n# or simply Ctrl+l"
+    },
+    {
+        "question": "Create a temporary directory and `cd` into it",
+        "answer": "cd $(mktemp -d)\n# for example, this will create a temporary directory \"/tmp/tmp.TivmPLUXFT\""
+    },
+    {
+        "question": "Run command only if another command returns zero exit status (well done)",
+        "answer": "cd tmp/ && tar xvf ~/a.tar"
+    },
+    {
+        "question": "Run command only if another command returns non-zero exit status (not finish)",
+        "answer": "cd tmp/a/b/c ||mkdir -p tmp/a/b/c"
+    },
+    {
+        "question": "Use backslash \"\\\" to break long command",
+        "answer": "cd tmp/a/b/c \\\n> || \\\n>mkdir -p tmp/a/b/c"
+    },
+    {
+        "question": "List file type of file (e.g. /tmp/)",
+        "answer": "file /tmp/\n# tmp/: directory"
+    },
+    {
+        "question": "Writing Bash script ('#!'' is called shebang )",
+        "answer": "#!/bin/bash\nfile=${1#*.}\n# remove string before a \".\""
+    },
+    {
+        "question": "Python simple HTTP Server",
+        "answer": "python -m SimpleHTTPServer\n# or when using python3:\npython3 -m http.server"
+    },
+    {
+        "question": "Read user input",
+        "answer": "read input\necho $input"
+    },
+    {
+        "question": "Array",
+        "answer": "declare -a array=()\n\n# or\ndeclare array=()\n\n# or associative array\ndeclare -A array=()"
+    },
+    {
+        "question": "Send a directory",
+        "answer": "scp -r directoryname user@ip:/path/to/send"
+    },
+    {
+        "question": "Use the last argument",
+        "answer": "!$"
+    },
+    {
+        "question": "Check last exit code",
+        "answer": "echo $?"
+    },
+    {
+        "question": "Extract .xz",
+        "answer": "unxz filename.tar.xz\n# then\ntar -xf filename.tar"
+    },
+    {
+        "question": "Unzip tar.bz2 file (e.g. file.tar.bz2)",
+        "answer": "tar xvfj file.tar.bz2"
+    },
+    {
+        "question": "Unzip tar.xz file (e.g. file.tar.xz)",
+        "answer": "unxz file.tar.xz\ntar xopf file.tar"
+    },
+    {
+        "question": "Extract to a path",
+        "answer": "tar xvf -C /path/to/directory filename.gz"
+    },
+    {
+        "question": "Create large dummy file of certain size instantly (e.g. 10GiB)",
+        "answer": "fallocate -l 10G 10Gigfile"
+    },
+    {
+        "question": "Keep /repeatedly executing the same command (e.g Repeat 'wc -l filename' every 1 second)",
+        "answer": "watch -n 1 wc -l filename"
+    },
+    {
+        "question": "Print commands and their arguments when execute (e.g. echo `expr 10 + 20 `)",
+        "answer": "set -x; echo `expr 10 + 20 `\n# or\nset -o xtrace; echo `expr 10 + 20 `\n\n# to turn it off..\nset +x"
+    },
+    {
+        "question": "Print some meaningful sentences to you (install fortune first)",
+        "answer": "fortune"
+    },
+    {
+        "question": "Colorful (and useful) version of top (install htop first)",
+        "answer": "htop"
+    },
+    {
+        "question": "Press any key to continue",
+        "answer": "read -rsp $'Press any key to continue...\\n' -n1 key"
+    },
+    {
+        "question": "Pass password to ssh",
+        "answer": "sshpass -p mypassword ssh root@10.102.14.88 \"df -h\""
+    },
+    {
+        "question": "Convert pdf to txt",
+        "answer": "sudo apt-get install poppler-utils\npdftotext example.pdf example.txt"
+    },
+    {
+        "question": "List only directory",
+        "answer": "ls -d */"
+    },
+    {
+        "question": "List one file per line.",
+        "answer": "ls -1\n# or list all, do not ignore entries starting with .\nls -1a"
+    },
+    {
+        "answer": "Ctrl + a",
+        "question": "move to the beginning of line."
+    },
+    {
+        "answer": "Ctrl + d",
+        "question": "if you've type something, Ctrl + (?) deletes the character under the cursor, else, it escapes the current shell"
+    },
+    {
+        "answer": "Ctrl + e",
+        "question": "move to the end of line."
+    },
+    {
+        "answer": "Ctrl + k",
+        "question": "delete all text from the cursor to the end of line."
+    },
+    {
+        "answer": "Ctrl + l",
+        "question": "equivalent to clear."
+    },
+    {
+        "answer": "Ctrl + n",
+        "question": "same as Down arrow."
+    },
+    {
+        "answer": "Ctrl + p",
+        "question": "same as Up arrow."
+    },
+    {
+        "answer": "Ctrl + q",
+        "question": "to resume output to terminal after Ctrl + s."
+    },
+    {
+        "answer": "Ctrl + r",
+        "question": "Ctrl + (?) begins a backward search through command history.(keep pressing to move backward)"
+    },
+    {
+        "answer": "Ctrl + s",
+        "question": "to stop output to terminal."
+    },
+    {
+        "answer": "Ctrl + t",
+        "question": "Transpose the character before the cursor with the one under the cursor"
+    },
+    {
+        "question": "Transpose the word before the cursor with the one under the cursor",
+        "answer": "Esc + t"
+    },
+    {
+        "answer": "Ctrl + u",
+        "question": "cut the line before the cursor; then Ctrl + y paste it"
+    },
+    {
+        "answer": "Ctrl + w",
+        "question": "cut the word before the cursor; then Ctrl + y paste it"
+    },
+    {
+        "answer": "Ctrl + x + backspace",
+        "question": "delete all text from the beginning of line to the cursor."
+    },
+    {
+        "answer": "Ctrl + x + Ctrl + e",
+        "question": "launch editor defined by $EDITOR to input your command. Useful for multi-line commands."
+    },
+    {
+        "answer": "Ctrl + z",
+        "question": "stop current running process and keep it in background. You can use `fg` to continue the process in the foreground, or `bg` to continue the process in the background."
+    },
+    {
+        "answer": "Ctrl + _",
+        "question": "undo typing."
+    },
+    {
+        "question": "Converts text from cursor to the end of the word to uppercase",
+        "answer": "Esc + u"
+    },
+    {
+        "question": "Converts text from cursor to the end of the word to lowercase",
+        "answer": "Esc + l"
+    },
+    {
+        "question": "Converts letter under the cursor to uppercase, rest of the word to lowercase",
+        "answer": "Esc + c"
+    },
+    {
+        "question": "Run last command and change some parameter using caret substitution (e.g. last command: echo 'aaa' -> rerun as: echo 'bbb')",
+        "answer": "#last command: echo 'aaa'\n^aaa^bbb\n\n#echo 'bbb'\n#bbb\n\n#Notice that only the first aaa will be replaced, if you want to replace all 'aaa', use ':&' to repeat it:\n^aaa^bbb^:&\n#or\n!!:gs/aaa/bbb/"
+    },
+    {
+        "question": "what serves as a wild card for filename expansion?",
+        "answer": "/etc/pa*wd    #/etc/passwd"
+    },
+    {
+        "question": "what serves as a single-character wild card for filename expansion",
+        "answer": "/b?n/?at      #/bin/cat"
+    },
+    {
+        "question": "what serves to match the character from a range",
+        "answer": "ls -l [a-z]*   #list all files with alphabet in its filename"
+    },
+    {
+        "question": "What can be used to match filenames with more than one patterns",
+        "answer": "ls *.{sh,py}   #list all .sh and .py files"
+    },
+    {
+        "question": "name of shell or shell script",
+        "answer": "$0"
+    },
+    {
+        "question": "positional parameters",
+        "answer": "$1, $2, $3, ..."
+    },
+    {
+        "question": "number of positional parameters",
+        "answer": "$#"
+    },
+    {
+        "question": "most recent foreground pipeline exit status",
+        "answer": "$?"
+    },
+    {
+        "question": "current options set for the shell",
+        "answer": "$-"
+    },
+    {
+        "question": "pid of the current shell (not subshell)",
+        "answer": "$$"
+    },
+    {
+        "question": "pid of the most recent background command",
+        "answer": "$!"
+    },
+    {
+        "question": "last argument of the previously executed command, or the path of the bash script",
+        "answer": "$_"
+    },
+    {
+        "question": "current display manager",
+        "answer": "$DESKTOP_SESSION"
+    },
+    {
+        "question": "preferred text editor",
+        "answer": "$EDITOR"
+    },
+    {
+        "question": "current language",
+        "answer": "$LANG"
+    },
+    {
+        "question": "list of directories to search for executable files (i.e. ready-to-run programs)",
+        "answer": "$PATH"
+    },
+    {
+        "question": "current directory",
+        "answer": "$PWD"
+    },
+    {
+        "question": "current shell",
+        "answer": "$SHELL"
+    },
+    {
+        "question": "current username",
+        "answer": "$USER"
+    },
+    {
+        "question": "current hostname",
+        "answer": "$HOSTNAME"
+    },
+    {
+        "question": "change bash shell to vi mode",
+        "answer": "set -o vi"
+    },
+    {
+        "question": "in vi edit mode - previous command",
+        "answer": "k"
+    },
+    {
+        "question": "in vi edit mode - next command",
+        "answer": "j"
+    },
+    {
+        "question": "in vi edit mode - beginning of the command",
+        "answer": "0"
+    },
+    {
+        "question": "in vi edit mode - replace current characters of command",
+        "answer": "R"
+    },
+    {
+        "question": "in vi edit mode - next to 2nd word",
+        "answer": "2w"
+    },
+    {
+        "question": "in vi edit mode - previous word",
+        "answer": "b"
+    },
+    {
+        "question": "in vi edit mode - go to insert mode",
+        "answer": "i"
+    },
+    {
+        "question": "in vi edit mode - edit current command in vi",
+        "answer": "v"
+    },
+    {
+        "question": "# foo=bar\n echo '$foo'",
+        "answer": "'$foo'"
+    },
+    {
+        "question": "# foo=bar\n echo \"$foo\"",
+        "answer": "bar"
+    },
+    {
+        "question": "# foo=bar\n echo ''$foo''",
+        "answer": "bar"
+    },
+    {
+        "question": "echo $(( 10 + 5 ))",
+        "answer": "15"
+    },
+    {
+        "question": "x=1\n echo $(( x++ ))",
+        "answer": "1"
+    },
+    {
+        "question": "x=2\n echo $(( ++x ))",
+        "answer": "4"
+    },
+    {
+        "question": "x=4\n echo $(( x-- ))",
+        "answer": "4"
+    },
+    {
+        "question": "x=2\n echo $(( --x ))",
+        "answer": "1"
+    },
+    {
+        "question": "x=2\n y=3\n echo $(( x ** y ))",
+        "answer": "8"
+    },
+    {
+        "question": "grep = grep -G",
+        "answer": "Basic Regular Expression (BRE)"
+    },
+    {
+        "question": "fgrep = grep -F",
+        "answer": "fixed text, ignoring meta-characters"
+    },
+    {
+        "question": "egrep = grep -E",
+        "answer": "Extended Regular Expression (ERE)"
+    },
+    {
+        "question": "rgrep = grep -r",
+        "answer": "recursive"
+    },
+    {
+        "question": "grep -P",
+        "answer": "Perl Compatible Regular Expressions (PCRE)"
+    },
+    {
+        "question": "grep -i",
+        "answer": "ignore case"
+    },
+    {
+        "question": "grep -v",
+        "answer": "invert match"
+    },
+    {
+        "question": "grep -c",
+        "answer": "count matches"
+    },
+    {
+        "question": "grep -l",
+        "answer": "list filenames"
+    },
+    {
+        "question": "grep -L",
+        "answer": "list filenames without matches"
+    },
+    {
+        "question": "grep -n",
+        "answer": "show line number"
+    },
+    {
+        "question": " Grep only IP address",
+        "answer": "grep -Eo '[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}'\n# or\ngrep -Po '\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}'"
+    },
+    {
+        "question": "grep -A 3 'bbo'",
+        "answer": "return also 3 lines after match"
+    },
+    {
+        "question": "grep -B 3 'bbo'",
+        "answer": "return also 3 lines before match"
+    },
+    {
+        "question": "grep -C 3 'bbo'",
+        "answer": "return also 3 lines before and after match"
+    },
+    {
+        "question": "Add >$i to the first line, e.g. to make a bioinformatics FASTA file",
+        "answer": "sed -i '1i>$i' $i"
+    },
+    {
+        "question": "Grep variable from variable",
+        "answer": "$echo \"$long_str\"|grep -q \"$short_str\"\nif [ $? -eq 0 ]; then echo 'found'; fi\n#grep -q will output 0 if match found\n#remember to add space between []!"
+    },
+    {
+        "question": "fileA:\na\n b\n c\n. fileB:\nd\n e\n f\n. fileC:\ng\n h\n i\n. Output of awk 'print FILENAME, NR,FNR,$0}' fileA fileB?",
+        "answer": "'# fileA    1    1    a\n''# fileA    2    2    b\n''# fileA    3    3    c\n''# fileB    4    1    d\n''# fileB    5    2    e'"
+    },
+    {
+        "question": "bc -- Number of decimal digit/ significant figure",
+        "answer": "echo \"scale=2;2/3\" | bc"
+    },
+    {
+        "question": "bc -- Exponent operator (e.g. 10 to the 2)",
+        "answer": "echo \"10^2\" | bc"
+    },
+    {
+        "question": "bc -- Using variables (e.g. var=5, pre-decrement)",
+        "answer": "echo \"var=5;--var\"| bc"
+    }
+]
