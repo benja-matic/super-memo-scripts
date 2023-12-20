@@ -1,0 +1,90 @@
+2023-12-19 20:31:55,412 - root - INFO - Calling run with args: <__main__.FlashcardApp object at 0x7fc40060dfd0>
+2023-12-19 20:31:55,412 - root - INFO - Calling show_flashcard with args: <__main__.FlashcardApp object at 0x7fc40060dfd0>
+2023-12-19 20:31:55,412 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7fc40060dfd0>
+2023-12-19 20:32:05,738 - root - INFO - Calling on_closing with args: <__main__.FlashcardApp object at 0x7fc40060dfd0>
+2023-12-19 20:32:06,810 - root - INFO - Calling save_and_quit with args: <__main__.FlashcardApp object at 0x7fc40060dfd0>
+2023-12-19 20:32:06,811 - root - INFO - Calling save_stats with args: <__main__.FlashcardApp object at 0x7fc40060dfd0>
+2023-12-19 20:32:10,586 - root - INFO - Calling run with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:32:10,586 - root - INFO - Calling show_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:32:10,586 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:32:16,384 - root - INFO - Calling reveal_answer with args: <__main__.FlashcardApp object at 0x7fe70062c700>, <KeyPress event keysym=Return keycode=603979789 x=109 y=17>
+2023-12-19 20:32:16,385 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:32:18,614 - root - INFO - Calling record_and_press_and_next with args: <__main__.FlashcardApp object at 0x7fe70062c700>, 5
+2023-12-19 20:32:18,614 - root - INFO - Calling record_score with args: <__main__.FlashcardApp object at 0x7fe70062c700>, 5
+2023-12-19 20:32:18,614 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:32:18,614 - root - INFO - Calling pressed with args: <__main__.FlashcardApp object at 0x7fe70062c700>, 5
+2023-12-19 20:32:18,614 - root - INFO - Calling next_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:32:18,614 - root - INFO - Calling show_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:32:18,614 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:32:24,086 - root - INFO - Calling reveal_answer with args: <__main__.FlashcardApp object at 0x7fe70062c700>, <KeyPress event keysym=Return keycode=603979789 x=-227 y=1>
+2023-12-19 20:32:24,087 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:32:25,571 - root - INFO - Calling record_and_press_and_next with args: <__main__.FlashcardApp object at 0x7fe70062c700>, 5
+2023-12-19 20:32:25,571 - root - INFO - Calling record_score with args: <__main__.FlashcardApp object at 0x7fe70062c700>, 5
+2023-12-19 20:32:25,572 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:32:25,572 - root - INFO - Calling pressed with args: <__main__.FlashcardApp object at 0x7fe70062c700>, 5
+2023-12-19 20:32:25,573 - root - INFO - Calling next_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:32:25,573 - root - INFO - Calling show_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:32:25,573 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:33:16,313 - root - INFO - Calling reveal_answer with args: <__main__.FlashcardApp object at 0x7fe70062c700>, <KeyPress event keysym=Return keycode=603979789 x=-77 y=163>
+2023-12-19 20:33:16,314 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:33:26,219 - root - INFO - Calling record_and_press_and_next with args: <__main__.FlashcardApp object at 0x7fe70062c700>, 5
+2023-12-19 20:33:26,220 - root - INFO - Calling record_score with args: <__main__.FlashcardApp object at 0x7fe70062c700>, 5
+2023-12-19 20:33:26,220 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:33:26,220 - root - INFO - Calling pressed with args: <__main__.FlashcardApp object at 0x7fe70062c700>, 5
+2023-12-19 20:33:26,221 - root - INFO - Calling next_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:33:26,221 - root - INFO - Calling show_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:33:26,221 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:34:33,584 - root - INFO - Calling record_and_press_and_next with args: <__main__.FlashcardApp object at 0x7fe70062c700>, 1
+2023-12-19 20:34:33,585 - root - INFO - Calling record_score with args: <__main__.FlashcardApp object at 0x7fe70062c700>, 1
+2023-12-19 20:34:33,585 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:34:33,585 - root - INFO - Calling pressed with args: <__main__.FlashcardApp object at 0x7fe70062c700>, 1
+2023-12-19 20:34:33,586 - root - INFO - Calling next_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:34:33,586 - root - INFO - Calling show_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:34:33,586 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:34:38,065 - root - INFO - Calling record_and_press_and_next with args: <__main__.FlashcardApp object at 0x7fe70062c700>, 1
+2023-12-19 20:34:38,066 - root - INFO - Calling record_score with args: <__main__.FlashcardApp object at 0x7fe70062c700>, 1
+2023-12-19 20:34:38,067 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:34:38,067 - root - INFO - Calling pressed with args: <__main__.FlashcardApp object at 0x7fe70062c700>, 1
+2023-12-19 20:34:38,067 - root - INFO - Calling next_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:34:38,068 - root - INFO - Calling show_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:34:38,068 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:34:38,644 - root - INFO - Calling reveal_answer with args: <__main__.FlashcardApp object at 0x7fe70062c700>, <KeyPress event keysym=Return keycode=603979789 x=103 y=146>
+2023-12-19 20:34:38,645 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:35:00,664 - root - INFO - Calling on_closing with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:35:02,022 - root - INFO - Calling save_and_quit with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:35:02,023 - root - INFO - Calling save_stats with args: <__main__.FlashcardApp object at 0x7fe70062c700>
+2023-12-19 20:36:20,236 - root - INFO - Calling run with args: <__main__.FlashcardApp object at 0x7f86b87ec760>
+2023-12-19 20:36:20,237 - root - INFO - Calling show_flashcard with args: <__main__.FlashcardApp object at 0x7f86b87ec760>
+2023-12-19 20:36:20,237 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7f86b87ec760>
+2023-12-19 20:36:25,334 - root - INFO - Calling on_closing with args: <__main__.FlashcardApp object at 0x7f86b87ec760>
+2023-12-19 20:36:26,724 - root - INFO - Calling save_and_quit with args: <__main__.FlashcardApp object at 0x7f86b87ec760>
+2023-12-19 20:36:26,725 - root - INFO - Calling save_stats with args: <__main__.FlashcardApp object at 0x7f86b87ec760>
+2023-12-19 20:37:03,936 - root - INFO - Calling run with args: <__main__.FlashcardApp object at 0x7fe1986ec760>
+2023-12-19 20:37:03,937 - root - INFO - Calling show_flashcard with args: <__main__.FlashcardApp object at 0x7fe1986ec760>
+2023-12-19 20:37:03,937 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7fe1986ec760>
+2023-12-19 20:37:20,231 - root - INFO - Calling on_closing with args: <__main__.FlashcardApp object at 0x7fe1986ec760>
+2023-12-19 20:37:21,532 - root - INFO - Calling save_and_quit with args: <__main__.FlashcardApp object at 0x7fe1986ec760>
+2023-12-19 20:37:21,532 - root - INFO - Calling save_stats with args: <__main__.FlashcardApp object at 0x7fe1986ec760>
+2023-12-19 20:37:25,181 - root - INFO - Calling run with args: <__main__.FlashcardApp object at 0x7f9b506ec760>
+2023-12-19 20:37:25,181 - root - INFO - Calling show_flashcard with args: <__main__.FlashcardApp object at 0x7f9b506ec760>
+2023-12-19 20:37:25,181 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7f9b506ec760>
+2023-12-19 20:38:08,975 - root - INFO - Calling reveal_answer with args: <__main__.FlashcardApp object at 0x7f9b506ec760>, <KeyPress event keysym=Return keycode=603979789 x=63 y=235>
+2023-12-19 20:38:08,976 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7f9b506ec760>
+2023-12-19 20:38:42,781 - root - INFO - Calling record_and_press_and_next with args: <__main__.FlashcardApp object at 0x7f9b506ec760>, 5
+2023-12-19 20:38:42,782 - root - INFO - Calling record_score with args: <__main__.FlashcardApp object at 0x7f9b506ec760>, 5
+2023-12-19 20:38:42,782 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7f9b506ec760>
+2023-12-19 20:38:42,782 - root - INFO - Calling pressed with args: <__main__.FlashcardApp object at 0x7f9b506ec760>, 5
+2023-12-19 20:38:42,782 - root - INFO - Calling next_flashcard with args: <__main__.FlashcardApp object at 0x7f9b506ec760>
+2023-12-19 20:38:42,782 - root - INFO - Calling show_flashcard with args: <__main__.FlashcardApp object at 0x7f9b506ec760>
+2023-12-19 20:38:42,782 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7f9b506ec760>
+2023-12-19 20:38:53,973 - root - INFO - Calling reveal_answer with args: <__main__.FlashcardApp object at 0x7f9b506ec760>, <KeyPress event keysym=Return keycode=603979789 x=213 y=32>
+2023-12-19 20:38:53,974 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7f9b506ec760>
+2023-12-19 20:38:58,269 - root - INFO - Calling record_and_press_and_next with args: <__main__.FlashcardApp object at 0x7f9b506ec760>, 5
+2023-12-19 20:38:58,270 - root - INFO - Calling record_score with args: <__main__.FlashcardApp object at 0x7f9b506ec760>, 5
+2023-12-19 20:38:58,270 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7f9b506ec760>
+2023-12-19 20:38:58,270 - root - INFO - Calling pressed with args: <__main__.FlashcardApp object at 0x7f9b506ec760>, 5
+2023-12-19 20:38:58,271 - root - INFO - Calling next_flashcard with args: <__main__.FlashcardApp object at 0x7f9b506ec760>
+2023-12-19 20:38:58,271 - root - INFO - Calling show_flashcard with args: <__main__.FlashcardApp object at 0x7f9b506ec760>
+2023-12-19 20:38:58,271 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7f9b506ec760>
+2023-12-19 20:39:10,185 - root - INFO - Calling reveal_answer with args: <__main__.FlashcardApp object at 0x7f9b506ec760>, <KeyPress event keysym=Return keycode=603979789 x=57 y=11>
+2023-12-19 20:39:10,185 - root - INFO - Calling _get_flashcard with args: <__main__.FlashcardApp object at 0x7f9b506ec760>
