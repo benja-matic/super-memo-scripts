@@ -553,39 +553,39 @@
     },
     {
         "question": "Audit files to see who made changes to a file [RedHat based system only]",
-        "answer": ""
+        "answer": "auditctl -w /path/to/myproject/ -p wa"
     },
     {
         "question": "Check out whether SELinux is enabled",
-        "answer": ""
+        "answer": "sestatus"
     },
     {
         "question": "Generate public key from private key",
-        "answer": ""
+        "answer": "ssh-keygen -y -f ~/.ssh/id_rsa > ~/.ssh/id_rsa.pub"
     },
     {
         "question": "Copy your default public key to remote user",
-        "answer": ""
+        "answer": "ssh-copy-id <user_name>@<server_IP>"
     },
     {
         "question": "Copy default public key to remote user using the required private key (e.g. use your mykey.pem key to copy your id_rsa.pub to the remote user)",
-        "answer": ""
+        "answer": "# before you need to use mykey.pem to ssh to remote user. ssh-copy-id -i ~/.ssh/id_rsa.pub -o 'IdentityFile ~/Downloads/mykey.pem' <user_name>@<server_IP> # now you don't need to use key to ssh to that user."
     },
     {
         "question": "SSH Agent Forwarding",
-        "answer": ""
+        "answer": "ssh-agent; ssh-add (/path/to/mykey.pem); ssh -A <user_name>@<server_IP>; ssh <user_name>@<server_IP>"
     },
     {
         "question": "Set the default user and key for a host when using SSH",
-        "answer": ""
+        "answer": "Add to ~/.ssh/config: `Host myserver\n  User myuser\n   IdentityFile ~/.ssh/mykey.pem`"
     },
     {
         "question": "Follow the most recent logs from service",
-        "answer": ""
+        "answer": "journalctl -u <service_name> -f"
     },
     {
         "question": "Eliminate the zombie",
-        "answer": ""
+        "answer": "ps aux | grep 'Z'; pstree -p -s <zombie_PID>; sudo kill -9 <zombie_PID>"
     },
     {
         "question": "Eliminate the zombie",
@@ -593,355 +593,391 @@
     },
     {
         "question": "Display CPU and IO statistics for devices and partitions.",
-        "answer": ""
+        "answer": "iostat -x -t 1"
     },
     {
         "question": "Display bandwidth usage on an network interface (e.g. enp175s0f0)",
-        "answer": ""
+        "answer": "iftop -i enp175s0f0"
     },
     {
         "question": "Tell how long the system has been running and number of users",
-        "answer": ""
+        "answer": "uptime"
     },
     {
         "question": "Check if it's root running",
-        "answer": ""
+        "answer": "if [ '$EUID' -ne 0 ]; then echo \"You must be root to do this.\"; exit 1; fi. Note, EUID should be in double quotes."
     },
     {
         "question": "Change shell of a user (e.g. bonnie)",
-        "answer": ""
+        "answer": "chsh -s /bin/bash bonnie"
     },
     {
         "question": "Change root / fake root / jail (e.g. change root to newroot)",
-        "answer": ""
+        "answer": "chroot /home/newroot /bin/bash"
     },
     {
         "question": "Display file status (size; access, modify and change time, etc) of a file (e.g. filename.txt)",
-        "answer": ""
+        "answer": "stat filename.txt"
     },
     {
         "question": "Snapshot of the current processes",
-        "answer": ""
+        "answer": "ps aux"
     },
     {
         "question": "Display a tree of processes",
-        "answer": ""
+        "answer": "pstree"
     },
     {
         "question": "Find maximum number of processes",
-        "answer": ""
+        "answer": "cat /proc/sys/kernel/pid_max"
     },
     {
         "question": "Print or control the kernel ring buffer",
-        "answer": ""
+        "answer": "dmesg"
     },
     {
         "question": "Show IP address",
-        "answer": ""
+        "answer": "${ip} add show"
     },
     {
         "question": "Print previous and current SysV runlevel",
-        "answer": ""
+        "answer": "runlevel; (or) who -r"
     },
     {
         "question": "Change SysV runlevel (e.g. 5)",
-        "answer": ""
+        "answer": "init 5 (or) telinit 5"
     },
     {
         "question": "Display all available services in all runlevels,",
-        "answer": ""
+        "answer": "chkconfig --list"
     },
     {
         "question": "Check system version",
-        "answer": ""
+        "answer": "cat /etc/*release"
     },
     {
         "question": "Linux Programmer's Manuel: hier- description of the filesystem hierarchy",
-        "answer": ""
+        "answer": "man hier"
     },
     {
-        "question": "Control the systemd system and service manager",
-        "answer": ""
+        "question": "check the status of a cron service",
+        "answer": "systemctl status crond.service"
+    },
+    {
+        "question": "stop cron service",
+        "answer": "systemctl stop crond.service"
     },
     {
         "question": "List job",
-        "answer": ""
+        "answer": "jobs -l"
     },
     {
         "question": "Run a program with modified priority (e.g. ./test.sh)",
-        "answer": ""
+        "answer": "nice -10 ./test.sh; nice values range from -20 (most favorable scheduling) to 19 (least favorable)."
+    },
+    {
+        "question": "what is the default niceness of a process started by a terminal command?",
+        "answer": "10"
+    },
+    {
+        "question": "what is the default priority of a process started by a terminal command?",
+        "answer": "80"
     },
     {
         "question": "Export PATH",
-        "answer": ""
+        "answer": "export PATH+${PATH}:~/path/you/want"
     },
     {
         "question": "Make file executable",
-        "answer": ""
+        "answer": "chmod +x filename"
     },
     {
         "question": "Print system information",
-        "answer": ""
+        "answer": "uname -a; uname -i;"
     },
     {
-        "question": "Surf the net",
-        "answer": ""
+        "question": "Surf the net, e.g. google.com",
+        "answer": "links www.google.com"
     },
     {
         "question": "Add user, set passwd",
-        "answer": ""
+        "answer": "useradd username; passwd username"
     },
     {
         "question": "Edit PS1 variable for bash (e.g. displaying the whole path)",
-        "answer": ""
+        "answer": "vim ~/.bash_profile; export PS1='\\u@\\h:\\w\\$'; (or, to add emojis + timestamp): export PS1='\t@🦁:\\w\\$ '; finally, source ~/.bash_profile. Note, double \\ should be replaced by single."
     },
     {
         "question": "Edit environment setting (e.g. alias)",
-        "answer": ""
+        "answer": "vim ~/.bash_profile; alias lt='ls -laht'; source ~/.bash_profile"
     },
     {
         "question": "Print all alias",
-        "answer": ""
+        "answer": "alias -p"
     },
     {
         "question": "Unalias (e.g. after alias ls='ls --color=auto')",
-        "answer": ""
+        "answer": "unalias ls"
     },
     {
-        "question": "Set and unset shell options",
-        "answer": ""
+        "question": "print all shell options",
+        "answer": "shopt"
+    },
+    {
+        "question": "unset or stop alias",
+        "answer": "shopt -u expand_aliases"
+    },
+    {
+        "question": "set or start alias",
+        "answer": "shopt -s expand_aliases"
     },
     {
         "question": "List environment variables (e.g. PATH)",
-        "answer": ""
+        "answer": "echo ${PATH}"
     },
     {
         "question": "List all environment variables for current user",
-        "answer": ""
+        "answer": "env"
     },
     {
         "question": "Unset environment variable (e.g. unset variable 'MYVAR')",
-        "answer": ""
+        "answer": "unset MYVAR"
     },
     {
         "question": "Show partition format",
-        "answer": ""
+        "answer": "lsblk"
     },
     {
         "question": "Inform the OS of partition table changes",
-        "answer": ""
+        "answer": "partprobe"
     },
     {
         "question": "Soft link program to bin",
-        "answer": ""
+        "answer": "ln -s /path/to/program /home/usr/bin"
     },
     {
         "question": "Show hexadecimal view of data",
-        "answer": ""
+        "answer": "hexdump -C filename"
     },
     {
         "question": "Jump to different node",
-        "answer": ""
+        "answer": "rsh node_name"
     },
     {
         "question": "Check port (active internet connection)",
-        "answer": ""
+        "answer": "netstat -tulpn"
     },
     {
         "question": "Print resolved symbolic links or canonical file names",
-        "answer": ""
+        "answer": "readlink filename"
     },
     {
         "question": "Find out the type of command and where it link to (e.g. python)",
-        "answer": ""
+        "answer": "type -f python"
     },
     {
         "question": "List all functions names",
-        "answer": ""
+        "answer": "declare -F"
     },
     {
         "question": "List total size of a directory",
-        "answer": ""
+        "answer": "du -hs .; (or) du -sb;"
     },
     {
         "question": "Copy directory with permission setting",
-        "answer": ""
+        "answer": "cp -rp /path/to/source /path/to/destination"
     },
     {
         "question": "Store current directory",
-        "answer": ""
+        "answer": "pushd .; (to pop) popd"
+    },
+    {
+        "question": "pop current directory",
+        "answer": "popd"
+    },
+    {
+        "question": "display list of currently remembered dirs",
+        "answer": "dirs -v; (or) dirs-l"
     },
     {
         "question": "Show disk usage",
-        "answer": ""
+        "answer": "df -h; (or) du -h; (or) du -sk /var/log/* |sort -rn |head -10"
     },
     {
         "question": "check the Inode utilization",
-        "answer": ""
+        "answer": "df -i"
     },
     {
         "question": "Show all file system type",
-        "answer": ""
+        "answer": "df -TH"
     },
     {
         "question": "Show current runlevel",
-        "answer": ""
+        "answer": "runlevel"
     },
     {
         "question": "Switch runlevel",
-        "answer": ""
+        "answer": "init 3"
     },
     {
         "question": "Permanently modify runlevel",
-        "answer": ""
+        "answer": "1. edit /etc/init/rc-sysinit.conf; 2. env DEFAULT_RUNLEVEL=3"
     },
     {
         "question": "Become root",
-        "answer": ""
+        "answer": "su"
     },
     {
         "question": "Become somebody",
-        "answer": ""
+        "answer": "su somebody"
     },
     {
         "question": "Report user quotes on device",
-        "answer": ""
+        "answer": "repquota -auvs"
     },
     {
         "question": "Get entries in a number of important databases",
-        "answer": ""
+        "answer": "getent database_name; (e.g. getent passwd); (or) getent group"
     },
     {
         "question": "Change owner of file",
-        "answer": ""
+        "answer": "chown user_name filename; chown -R user_name /path/to/directory/"
     },
     {
         "question": "Mount and unmount",
-        "answer": ""
+        "answer": "mount /dev/sdb /home/test; umount /dev/test"
     },
     {
         "question": "List current mount detail",
-        "answer": ""
+        "answer": "mount (or) df"
     },
     {
         "question": "List current usernames and user-numbers",
-        "answer": ""
+        "answer": "cat /etc/passwd"
     },
     {
         "question": "Get all username",
-        "answer": ""
+        "answer": "getent passwd| awk '{FS='[:]'; print $1}'; note, brackets should be in double quotes"
     },
     {
         "question": "Show all users",
-        "answer": ""
+        "answer": "compgen -u"
     },
     {
         "question": "Show all groups",
-        "answer": ""
+        "answer": "compgen -g"
     },
     {
         "question": "Show group of user",
-        "answer": ""
+        "answer": "group username"
     },
     {
         "question": "Show uid, gid, group of user",
-        "answer": ""
+        "answer": "id username; (or) echo ${UID}"
     },
     {
         "question": "Check if it's root",
-        "answer": ""
+        "answer": "if [ $(id -u) -ne 0 ]; then echo 'not root!' exit; fi;"
     },
     {
         "question": "Find out CPU information",
-        "answer": ""
+        "answer": "more /proc/cpuinfo; (or) lscpu;"
     },
     {
         "question": "Set quota for user (e.g. disk soft limit: 120586240; hard limit: 125829120)",
-        "answer": ""
+        "answer": "setquota username 120586240 125829120 0 0 /home"
     },
     {
         "question": "Show quota for user",
-        "answer": ""
+        "answer": "quota -v username"
     },
     {
         "question": "Display current libraries from the cache",
-        "answer": ""
+        "answer": "ldconfig -p"
     },
     {
         "question": "Print shared library dependencies (e.g. for 'ls')",
-        "answer": ""
+        "answer": "ldd /bin/ls"
     },
     {
         "question": "Check user login",
-        "answer": ""
+        "answer": "lastlog"
     },
     {
         "question": "Check last reboot history",
-        "answer": ""
+        "answer": "last reboot"
     },
     {
         "question": "Edit path for all users",
-        "answer": ""
+        "answer": "joe /etc/environment"
     },
     {
         "question": "Show and set user limit",
-        "answer": ""
+        "answer": "ulimit -u"
     },
     {
         "question": "Print out number of cores/ processors",
-        "answer": ""
+        "answer": "nproc --all"
     },
     {
         "question": "Check status of each core",
-        "answer": ""
+        "answer": "top; 1;"
     },
     {
         "question": "Show jobs and PID",
-        "answer": ""
+        "answer": "jobs -l"
     },
     {
         "question": "List all running services",
-        "answer": ""
+        "answer": "service --status-all"
     },
     {
         "question": "Schedule shutdown server",
-        "answer": ""
+        "answer": "shutdown -r +5 'Server will restart in 5 minutes. Please save your work.'"
     },
     {
         "question": "Cancel scheduled shutdown",
-        "answer": ""
+        "answer": "shutdown -c"
     },
     {
         "question": "Broadcast to all users",
-        "answer": ""
+        "answer": "wall -n hihi"
     },
     {
         "question": "Kill all process of a user",
-        "answer": ""
+        "answer": "pkill -U user-name"
     },
     {
         "question": "Kill all process of a program",
-        "answer": ""
+        "answer": "kill -9 $(ps aux | grep 'program_name' | awk '{print $2}')"
     },
     {
-        "question": "Set gedit preference on server",
-        "answer": ""
+        "question": "Install software to set gedit preference on server",
+        "answer": "apt-get install libglib2.0-bin; (or) yum install dconf dconf-editor; yum install dbus dbus-xll;"
+    },
+    {
+        "question": "check list (gedit)",
+        "answer": "gsettings list-recursively | grep gedit"
+    },
+    {
+        "question": "change some settings (gedit)",
+        "answer": "gsettings set org.gnome.gedit.preferences.editor highlight-current-line true"
     },
     {
         "question": "Add user to a group (e.g add user 'nice' to the group 'docker', so that he can run docker without sudo)",
-        "answer": ""
+        "answer": "sudo gpasswd -a nice docker"
     },
     {
         "question": "Pip install python package without root",
-        "answer": ""
+        "answer": "1. posssibly run `export PATH=${PATH}:~/.local/bin` first; 2. pip install --user package_name"
     },
     {
         "question": "Removing old linux kernels (when /boot almost full...)",
-        "answer": ""
+        "answer": "uname -a (check current kernel which should NOT be removed); sudo apt-get purge linux-image-X.X.X-X-generic;  (replace old version)"
     },
     {
         "question": "Change hostname",
-        "answer": ""
+        "answer": "sudo hostname your-new-name; if not working, try: sudo hostnamectl set-hostname your-new-name; check with `hostnamectl` or `/etc/hostname`; if still not working, edit: /etc/sysconfig/network and or /etc/sysconfig/network-scripts/ifcfg-ensxxx (add HOSTNAME=...) "
     },
     {
         "question": "List installed packages",
